@@ -11,11 +11,11 @@ tags:
   - schilderij Beatrix
   - schilderij Koningin Beatrix
 ---
-[<img class="alignleft size-thumbnail wp-image-2446" title="schilderij van Koningin Beatrix met hoofddoek door Bea Stroucken" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/02/schilderij-van-Bea-112x150.jpg" alt="schilderij van Koningin Beatrix met hoofddoek door Bea Stroucken" width="112" height="150" />][1]Koningin Beatrix met hoofddoek, een intrigerend onderwerp voor een schilderij, vond Bea Stroucken. Bea stuurde mij een foto van haar schilderij en het verhaal erachter. Haar kunstwerk is ontstaan door acrylverf te combineren met papier.
+[<img class="alignleft size-thumbnail wp-image-2446" title="schilderij van Koningin Beatrix met hoofddoek door Bea Stroucken" src="/wordpress/wp-content/uploads/2012/02/schilderij-van-Bea-112x150.jpg" alt="schilderij van Koningin Beatrix met hoofddoek door Bea Stroucken" width="112" height="150" />][1]Koningin Beatrix met hoofddoek, een intrigerend onderwerp voor een schilderij, vond Bea Stroucken. Bea stuurde mij een foto van haar schilderij en het verhaal erachter. Haar kunstwerk is ontstaan door acrylverf te combineren met papier.
 
 Bekijk het schilderij van Bea en lees het interview:<!--more-->
 
-[<img class="aligncenter size-full wp-image-2446" title="schilderij van Koningin Beatrix met hoofddoek door Bea Stroucken" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/02/schilderij-van-Bea.jpg" alt="schilderij van Koningin Beatrix met hoofddoek door Bea Stroucken" width="450" height="600" />][1]
+[<img class="aligncenter size-full wp-image-2446" title="schilderij van Koningin Beatrix met hoofddoek door Bea Stroucken" src="/wordpress/wp-content/uploads/2012/02/schilderij-van-Bea.jpg" alt="schilderij van Koningin Beatrix met hoofddoek door Bea Stroucken" width="450" height="600" />][1]
 
 **1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo?**  
 Ik ben drie jaar geleden begonnen met schilderen. Ik had een paar kussens met mooie afbeeldingen, die ben ik gaan naschilderen in acryl. Daarna ben ik steeds meer gaan uitproberen en ben ik steeds meer mijn eigen stijl gaan ontdekken.
@@ -35,4 +35,4 @@ Wees niet bang om te experimenteren. Als iets niet lukt, schilder je er lekker w
 
 *De Schildertuin bedankt Bea voor haar inzending.*
 
- [1]: http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/02/schilderij-van-Bea.jpg
+ [1]: /wordpress/wp-content/uploads/2012/02/schilderij-van-Bea.jpg

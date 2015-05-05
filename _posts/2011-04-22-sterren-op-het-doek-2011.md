@@ -13,7 +13,7 @@ tags:
   - schilderijen
   - Sterren op het Doek
 ---
-[<img class="alignleft size-full wp-image-1413" title="sterren op het doek" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/04/sterren-op-het-doek.jpg" alt="embleem van Sterren op het Doek" width="150" height="109" />][1]Drie kunstenaars portretteren een bekende Nederlander, terwijl deze door presentatrice Hanneke Groenteman wordt geïnterviewd. Dát is het concept van het tv-programma Sterren op het Doek.<!--more Meer over Sterren op het Doek en een filmpje->-->
+[<img class="alignleft size-full wp-image-1413" title="sterren op het doek" src="/wordpress/wp-content/uploads/2011/04/sterren-op-het-doek.jpg" alt="embleem van Sterren op het Doek" width="150" height="109" />][1]Drie kunstenaars portretteren een bekende Nederlander, terwijl deze door presentatrice Hanneke Groenteman wordt geïnterviewd. Dát is het concept van het tv-programma Sterren op het Doek.<!--more Meer over Sterren op het Doek en een filmpje->-->
 
 ## Drie kunstenaars portretteren bekende Nederlander
 
@@ -27,4 +27,4 @@ Sterren op het Doek wordt uitgezonden op donderdagavond op Nederland 2. Meer inf
 
 Bekijk het filmpje om alvast een indruk te krijgen van dit seizoen van Sterren op het Doek:
 
- [1]: http://www.schildertuin.nl/wordpress/2011/04/sterren-op-het-doek-2011/
+ [1]: /wordpress/2011/04/sterren-op-het-doek-2011/

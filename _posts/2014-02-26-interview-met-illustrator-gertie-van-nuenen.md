@@ -22,7 +22,7 @@ tags:
 *tekst: Hilde Reurink*  
 * illustraties:* *Gertie van Nuenen*
 
-**<img class="alignleft  wp-image-5908" title="Dit is illustrator Gertie van Nuenen" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/foto-Gertie-van-Nuenen.jpg" alt="foto van illustrator Gertie van Nuenen" width="350" height="233" />Hallo Gertie, vertel eens iets over jezelf.**  
+**<img class="alignleft  wp-image-5908" title="Dit is illustrator Gertie van Nuenen" src="/wordpress/wp-content/uploads/2014/02/foto-Gertie-van-Nuenen.jpg" alt="foto van illustrator Gertie van Nuenen" width="350" height="233" />Hallo Gertie, vertel eens iets over jezelf.**  
 Ik ben Gertie van Nuenen, 47 jaar, alleenstaande moeder van 3 kinderen van 15, 13 en 4 jaar. Wij wonen in Hengelo en mijn hobby is kunst en cultuur in de breedte (lezen, theater, musea en natuurlijk zelf maken).
 
 **Wanneer besloot je illustrator te worden?<!--more-->**
@@ -37,7 +37,7 @@ Ik ben naar de AKI in Enschede gegaan en ben in 1999 afgestudeerd aan de afdelin
 Ik begin vaak met acrylverf op papier, daarna gaat het de computer in en voeg ik elementen toe (digitale collages).
 
 <p style="text-align: center;">
-  <img class="aligncenter  wp-image-5922" title="picnic klein, mixed media collage van Gertie van Nuenen" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/picnic-klein.jpg" alt="picnic klein, mixed media collage van Gertie van Nuenen" width="550" height="367" />
+  <img class="aligncenter  wp-image-5922" title="picnic klein, mixed media collage van Gertie van Nuenen" src="/wordpress/wp-content/uploads/2014/02/picnic-klein.jpg" alt="picnic klein, mixed media collage van Gertie van Nuenen" width="550" height="367" />
 </p>
 
 **Hoe zou je jouw stijl van illustreren omschrijven?**  
@@ -54,7 +54,7 @@ Ik vind het illustreren van onderwijsmateriaal heel leuk, omdat ik er zelf ook v
 Het contact met de uitgever verloopt vooral via de mail, maar soms is met elkaar afspreken of bellen wel makkelijk om dingen snel helder te krijgen.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5920" title="Layla en Magnun, illustratie van Gertie van Nuenen" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/Layla-en-Magnun.jpg" alt="Layla en Magnun, illustratie van Gertie van Nuenen" width="450" height="446" />
+  <img class="aligncenter size-full wp-image-5920" title="Layla en Magnun, illustratie van Gertie van Nuenen" src="/wordpress/wp-content/uploads/2014/02/Layla-en-Magnun.jpg" alt="Layla en Magnun, illustratie van Gertie van Nuenen" width="450" height="446" />
 </p>
 
 **Hoe kom je aan nieuwe opdrachten?**  
@@ -70,7 +70,7 @@ Nee. Soms hoor ik dat iemand mijn werk erg mooi vind en soms hebben mensen wel i
 Ik kan niet leven van mijn illustraties. Ik werk daarnaast als kunstenaar in de klas en ben op zoek naar meer werk, want ook in het onderwijs is het lastig.
 
 **Hoe ziet een gemiddelde werkdag van jou eruit?**  
-Ik werk onder schooltijd van mijn jongste en &#8216;s avonds nog een paar uurtjes.<img class="alignright size-full wp-image-5917" title="lange tenen, illustratie van Gertie van Nuenen" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/lange-tenen.jpg" alt="lange tenen, illustratie van Gertie van Nuenen" width="350" height="350" /> Mijn dagen zijn heel divers. Afhankelijk van de opdrachten zit ik achter de computer om achtergrondinformatie te zoeken of nieuw werk te maken, ontwikkel ik lessen voor scholen, sta ik voor de klas of schilder ik in mijn atelier.
+Ik werk onder schooltijd van mijn jongste en &#8216;s avonds nog een paar uurtjes.<img class="alignright size-full wp-image-5917" title="lange tenen, illustratie van Gertie van Nuenen" src="/wordpress/wp-content/uploads/2014/02/lange-tenen.jpg" alt="lange tenen, illustratie van Gertie van Nuenen" width="350" height="350" /> Mijn dagen zijn heel divers. Afhankelijk van de opdrachten zit ik achter de computer om achtergrondinformatie te zoeken of nieuw werk te maken, ontwikkel ik lessen voor scholen, sta ik voor de klas of schilder ik in mijn atelier.
 
 **Wat zijn volgens jou belangrijke eigenschappen voor een illustrator?**  
 Een eigen kijk hebben waardoor mensen verrast worden. Bij educatief materiaal is het belangrijk om heel goed je research te doen.
@@ -91,7 +91,7 @@ Ik heb de hele bieb uitgelezen en wat favoriet was verschilde steeds. Ik hield v
 Een topografische wereldreis.
 
 <p style="text-align: center;">
-  <img class="aligncenter  wp-image-5914" title="Indianen-VS, illustratie van Gertie van Nuenen" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/indianen-VS.jpg" alt="Indianen-VS, illustratie van Gertie van Nuenen" width="550" height="389" />
+  <img class="aligncenter  wp-image-5914" title="Indianen-VS, illustratie van Gertie van Nuenen" src="/wordpress/wp-content/uploads/2014/02/indianen-VS.jpg" alt="Indianen-VS, illustratie van Gertie van Nuenen" width="550" height="389" />
 </p>
 
 **Heb je een tip voor mensen die ook graag illustrator willen worden?**  
@@ -103,8 +103,8 @@ Ik zou het heel fijn vinden als ik mijn brood kan verdienen met mijn vak.
 **Waar kunnen mensen jouw werk bekijken op internet?**  
 <a title="website van illustrator Gertie van Nuenen" href="http://www.gertievannuenen.nl/" target="_blank">www.gertievannuenen.nl</a>
 
-*Lees ook de andere <a title="Interviews met illustratoren" href="http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
+*Lees ook de andere <a title="Interviews met illustratoren" href="/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5912" title="alle eendjes, illustratie van Gertie van Nuenen" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/alle-eendjes.jpg" alt="alle eendjes, illustratie van Gertie van Nuenen" width="450" height="450" />
+  <img class="aligncenter size-full wp-image-5912" title="alle eendjes, illustratie van Gertie van Nuenen" src="/wordpress/wp-content/uploads/2014/02/alle-eendjes.jpg" alt="alle eendjes, illustratie van Gertie van Nuenen" width="450" height="450" />
 </p>

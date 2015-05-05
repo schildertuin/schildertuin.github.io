@@ -14,7 +14,7 @@ tags:
 ---
 **Gebruik je Pinterest en wil je een prikbord aanmaken zonder dat andere pinners dit bord kunnen zien? In november 2012 heeft Pinterest de functie ‘verborgen borden’/’secret boards’ gelanceerd.**
 
-## Wat kun je met verborgen borden?<img class="alignright  wp-image-3289" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/01/sleutel_illustratie.gif" alt="illustratie sleutel en sleutelgat" width="350" height="209" />
+## Wat kun je met verborgen borden?<img class="alignright  wp-image-3289" src="/wordpress/wp-content/uploads/2013/01/sleutel_illustratie.gif" alt="illustratie sleutel en sleutelgat" width="350" height="209" />
 
   * Stamboom van je familie maken
   * Je vakantie plannen

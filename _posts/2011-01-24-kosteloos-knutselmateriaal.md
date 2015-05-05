@@ -15,11 +15,11 @@ tags:
   - oud papier
   - schoenendoos beplakken
 ---
-<img class="alignleft size-thumbnail wp-image-1123" title="Maak een mal van karton" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/01/kartonmal1-150x120.gif" alt="Illustratie die laat zien hoe je een mal maakt van karton" width="150" height="120" />Waarschijnlijk heb je meer knutselmateriaal in huis dan je zou denken. In dit artikel geef ik je een aantal ideetjes.<!--more Creatief met tijdschriften en schoenendozen-->
+<img class="alignleft size-thumbnail wp-image-1123" title="Maak een mal van karton" src="/wordpress/wp-content/uploads/2011/01/kartonmal1-150x120.gif" alt="Illustratie die laat zien hoe je een mal maakt van karton" width="150" height="120" />Waarschijnlijk heb je meer knutselmateriaal in huis dan je zou denken. In dit artikel geef ik je een aantal ideetjes.<!--more Creatief met tijdschriften en schoenendozen-->
 
 ### Karton
 
-Kijk eens tussen het oud papier en zoek dan naar verpakkingen van (dun) karton, je komt er ongetwijfeld een paar tegen. Dit karton kun je gebruiken om malletjes van te maken. Deze mallen kun je vervolgens weer gebruiken om bijvoorbeeld snel een vorm over te trekken op stof of papier.<img class="alignright size-full wp-image-1123" title="Maak een mal van karton" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/01/kartonmal1.gif" alt="Illustratie die laat zien hoe je een mal maakt van karton" width="250" height="200" />
+Kijk eens tussen het oud papier en zoek dan naar verpakkingen van (dun) karton, je komt er ongetwijfeld een paar tegen. Dit karton kun je gebruiken om malletjes van te maken. Deze mallen kun je vervolgens weer gebruiken om bijvoorbeeld snel een vorm over te trekken op stof of papier.<img class="alignright size-full wp-image-1123" title="Maak een mal van karton" src="/wordpress/wp-content/uploads/2011/01/kartonmal1.gif" alt="Illustratie die laat zien hoe je een mal maakt van karton" width="250" height="200" />
 
 ### Tijdschriften en kranten
 
@@ -32,4 +32,4 @@ Kijk eens tussen het oud papier en zoek dan naar verpakkingen van (dun) karton, 
   * Voor kinderen is het leuk om er een kijkdoos van te maken.
   * Zet een schoenendoos rechtop en je kunt dan de binnenzijde gaan beschilderen en/of beplakken met textiel, papier, acrylverf, enzovoort. Zo maak je je eigen &#8220;kunstkastje&#8221;.
 
-<img class="alignleft size-full wp-image-1120" title="Maak een kunstkastje van een schoenendoos" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/01/schoenendoos.gif" alt="Illustratie van hoe je van een schoenendoos een kunstkastje maakt" width="250" height="200" />
+<img class="alignleft size-full wp-image-1120" title="Maak een kunstkastje van een schoenendoos" src="/wordpress/wp-content/uploads/2011/01/schoenendoos.gif" alt="Illustratie van hoe je van een schoenendoos een kunstkastje maakt" width="250" height="200" />

@@ -9,11 +9,11 @@ tags:
   - belevingsschilderij
   - Linda Otterman
 ---
-<img class="alignleft size-thumbnail wp-image-1984" title="Oorsprong, belevingsschilderij van Linda" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/06/schilderij-van-Linda-150x112.jpg" alt="Oorsprong, belevingsschilderij van Linda" width="150" height="112" />Linda Otterman schildert haar belevingswereld. Haar schilderijen zijn daardoor heel persoonlijk. De Schildertuin heeft Linda een aantal vragen gesteld, benieuwd naar haar antwoorden?<!--more Lees het interview met Linda->-->
+<img class="alignleft size-thumbnail wp-image-1984" title="Oorsprong, belevingsschilderij van Linda" src="/wordpress/wp-content/uploads/2011/06/schilderij-van-Linda-150x112.jpg" alt="Oorsprong, belevingsschilderij van Linda" width="150" height="112" />Linda Otterman schildert haar belevingswereld. Haar schilderijen zijn daardoor heel persoonlijk. De Schildertuin heeft Linda een aantal vragen gesteld, benieuwd naar haar antwoorden?<!--more Lees het interview met Linda->-->
 
 Linda stuurde een foto in van een door haar gemaakt belevingsschilderij:
 
-<img class="aligncenter size-full wp-image-1984" title="Oorsprong, belevingsschilderij van Linda" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/06/schilderij-van-Linda.jpg" alt="Oorsprong, belevingsschilderij van Linda" width="450" height="338" />
+<img class="aligncenter size-full wp-image-1984" title="Oorsprong, belevingsschilderij van Linda" src="/wordpress/wp-content/uploads/2011/06/schilderij-van-Linda.jpg" alt="Oorsprong, belevingsschilderij van Linda" width="450" height="338" />
 
 **1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo? **  
 Ik ben begonnen met schilderen toen ik 23 (23 jaar geleden) jaar oud was. Van jongs af tekende ik al, en ik wilde mijn bezigheden uitbreiden door naar de kwasten te grijpen.  

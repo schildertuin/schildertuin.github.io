@@ -11,11 +11,11 @@ tags:
   - Speelse Kunst
   - vreugde
 ---
-<img class="alignleft size-thumbnail wp-image-1961" title="collage schilderij van Ina Wuite" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/06/schilderij-van-Ina-146x150.jpg" alt="collage schilderij van Ina Wuite" width="146" height="150" />De derde kunstenaar die meedoet aan de rubriek &#8220;Schilderij in beeld&#8221; is Ina Wuite. De Schildertuin heeft Ina een aantal vragen gesteld, benieuwd naar haar antwoorden?<!--more Lees het interview met Ina->-->
+<img class="alignleft size-thumbnail wp-image-1961" title="collage schilderij van Ina Wuite" src="/wordpress/wp-content/uploads/2011/06/schilderij-van-Ina-146x150.jpg" alt="collage schilderij van Ina Wuite" width="146" height="150" />De derde kunstenaar die meedoet aan de rubriek &#8220;Schilderij in beeld&#8221; is Ina Wuite. De Schildertuin heeft Ina een aantal vragen gesteld, benieuwd naar haar antwoorden?<!--more Lees het interview met Ina->-->
 
 Ina stuurde een foto in van een door haar gemaakt collage schilderij:
 
-<img class="aligncenter size-full wp-image-1961" title="collage schilderij van Ina Wuite" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/06/schilderij-van-Ina.jpg" alt="collage schilderij van Ina Wuite" width="450" height="462" />
+<img class="aligncenter size-full wp-image-1961" title="collage schilderij van Ina Wuite" src="/wordpress/wp-content/uploads/2011/06/schilderij-van-Ina.jpg" alt="collage schilderij van Ina Wuite" width="450" height="462" />
 
 **1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo? **  
 Al jaren geleden. Toen ik 16 was werd mijn interesse voor tekenen en schilderen gewekt. Ik vond het geweldig om zelf een agenda te maken en helemaal vol te plakken en te tekenen.

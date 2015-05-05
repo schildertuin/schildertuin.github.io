@@ -29,11 +29,11 @@ Misschien leuk om te vertellen hoe een ontwerp voor een kerstkaart ontstaat:
 En deze kerstkaart is mijn nieuwste ontwerp:
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-4710" title="sprookjesachtige kerstkaart met illustratie typemachine en hertjes, ontwerp Hilde Reurink" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/kerstkaart-met-typemachine-en-hertjes.jpg" alt="nostalgische kerstkaart met typemachine, hertjes en kerstballen" width="450" height="624" />
+  <img class="aligncenter size-full wp-image-4710" title="sprookjesachtige kerstkaart met illustratie typemachine en hertjes, ontwerp Hilde Reurink" src="/wordpress/wp-content/uploads/2013/10/kerstkaart-met-typemachine-en-hertjes.jpg" alt="nostalgische kerstkaart met typemachine, hertjes en kerstballen" width="450" height="624" />
 </p>
 
 Vind je hem leuk? Hij is te koop via <a title="bekijk en bestel deze nostalgische kerstkaart bij Kaartje2go" href="http://www.kaartje2go.nl/kerstkaarten/typemachine-kerst" target="_blank">Kaartje2go</a>.
 
-[<img class="aligncenter wp-image-7346" title="Bestel hier kerstkaarten" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/12/banner2_kerstkaarten.jpg" alt="banner kerstkaarten de Schildertuin" width="180" height="288" />][1]
+[<img class="aligncenter wp-image-7346" title="Bestel hier kerstkaarten" src="/wordpress/wp-content/uploads/2014/12/banner2_kerstkaarten.jpg" alt="banner kerstkaarten de Schildertuin" width="180" height="288" />][1]
 
  [1]: https://www.kaartje2go.nl/kaartencollecties/december-cards?sk_id=48

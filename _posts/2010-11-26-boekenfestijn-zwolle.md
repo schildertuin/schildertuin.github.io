@@ -11,14 +11,14 @@ tags:
   - boekenfestijn Zwolle
 ---
 <p style="text-align: left;">
-  <img class="alignleft size-thumbnail wp-image-976" title="heel veel boeken!" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/11/boekentip5-150x142.gif" alt="illustratie van een stapel boeken" width="150" height="142" /><strong>Vandaag ben ik met mijn moeder naar een hele grote boekenmarkt geweest in de IJsselhallen in Zwolle.</strong>
+  <img class="alignleft size-thumbnail wp-image-976" title="heel veel boeken!" src="/wordpress/wp-content/uploads/2010/11/boekentip5-150x142.gif" alt="illustratie van een stapel boeken" width="150" height="142" /><strong>Vandaag ben ik met mijn moeder naar een hele grote boekenmarkt geweest in de IJsselhallen in Zwolle.</strong>
 </p>
 
 ### Rijen vol met boeken
 
 Bij binnenkomst werd meteen verzocht je tas af te staan als deze groter dan handtasformaat was. Erg onhandig als je al je waardevolle spullen in je tas hebt, maar goed, ergens ook wel weer begrijpelijk. Daarna kon je een soort rolmand pakken om de boeken die je wilde kopen makkelijk in te vervoeren. Bij binnenkomst in de hal werden we overweldigd door de hoeveelheid boeken, rijen vol met boeken, alles overzichtelijk gesorteerd op thema.
 
-<img class="size-full wp-image-976 alignright" title="heel veel boeken!" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/11/boekentip5.gif" alt="illustratie van een stapel boeken" width="200" height="190" />
+<img class="size-full wp-image-976 alignright" title="heel veel boeken!" src="/wordpress/wp-content/uploads/2010/11/boekentip5.gif" alt="illustratie van een stapel boeken" width="200" height="190" />
 
 ### Hobbyboeken en kunstboeken, volop inspiratie
 

@@ -13,7 +13,7 @@ tags:
   - recycle wollen deken
   - werkbeschrijving knuffelbeest
 ---
-[<img class="alignleft size-thumbnail wp-image-1607" title="knuffelbeest van wollen deken" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/05/knuffelbeestvandeken2-150x140.jpg" alt="foto met een knuffelbeest van wollen deken" width="150" height="140" />][1]Recycle een (oude) wollen deken tot een zacht knuffelbeest. Wol is door haar zachtheid bij uitstek geschikt voor het maken van een knuffel. Hier de werkbeschrijving:<!--more Maak zelf een knuffelbeest->-->
+[<img class="alignleft size-thumbnail wp-image-1607" title="knuffelbeest van wollen deken" src="/wordpress/wp-content/uploads/2011/05/knuffelbeestvandeken2-150x140.jpg" alt="foto met een knuffelbeest van wollen deken" width="150" height="140" />][1]Recycle een (oude) wollen deken tot een zacht knuffelbeest. Wol is door haar zachtheid bij uitstek geschikt voor het maken van een knuffel. Hier de werkbeschrijving:<!--more Maak zelf een knuffelbeest->-->
 
 ## Benodigd materiaal:
 
@@ -24,7 +24,7 @@ tags:
   * eventueel een naaimachine
   * vulsel
 
-## <img class="aligncenter size-full wp-image-1609" title="maak zelf een knuffelbeest van een wollen deken" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/05/knuffelbeestvandeken1.jpg" alt="foto van de voor- en achterkant van een wollen knuffelbeer" width="500" height="372" />
+## <img class="aligncenter size-full wp-image-1609" title="maak zelf een knuffelbeest van een wollen deken" src="/wordpress/wp-content/uploads/2011/05/knuffelbeestvandeken1.jpg" alt="foto van de voor- en achterkant van een wollen knuffelbeer" width="500" height="372" />
 
 ## Werkbeschrijving:
 
@@ -44,7 +44,7 @@ tags:
 
 # **Extra tips**
 
-## **Gebruik een deken met opdruk<img class="alignright size-full wp-image-1607" title="knuffelbeest van wollen deken" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/05/knuffelbeestvandeken2.jpg" alt="foto met een knuffelbeest van wollen deken" width="400" height="374" /> **
+## **Gebruik een deken met opdruk<img class="alignright size-full wp-image-1607" title="knuffelbeest van wollen deken" src="/wordpress/wp-content/uploads/2011/05/knuffelbeestvandeken2.jpg" alt="foto met een knuffelbeest van wollen deken" width="400" height="374" /> **
 
 Je knuffelbeest is supersnel klaar als je een (baby)deken met dierenopdruk gebruikt. Je hoeft dan alleen de vorm (inclusief 2 cm naad) uit te knippen en te naaien.
 
@@ -56,4 +56,4 @@ Maak je een knuffelbeest voor een baby, stop dan tijdens het vullen een ‘ramme
 
 In de werkbeschrijving staat de werkwijze voor een knuffelbeest met een naad aan de buitenzijde van de stof. Wil je de naad wegwerken, leg dan de twee stofdelen met de goede kanten tegen elkaar aan, naai het knuffelbeest, laat een vulopening open en keer het knuffelbeest om. Vul vervolgens de knuffel en naai de vulopening met de hand dicht.
 
- [1]: http://www.schildertuin.nl/wordpress/2011/05/wollen-deken-wordt-knuffelbeest/
+ [1]: /wordpress/2011/05/wollen-deken-wordt-knuffelbeest/

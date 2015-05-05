@@ -12,11 +12,11 @@ tags:
   - levensboom schilderij
   - vrolijk schilderij
 ---
-[<img class="alignleft size-thumbnail wp-image-2433" title="schilderij met kleurrijke levensboom door Cindy van der Veen" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/02/schilderij-van-Cindy-150x150.jpg" alt="schilderij met kleurrijke levensboom door Cindy van der Veen" width="150" height="150" />][1]Vorige week ontving ik een foto van een zeer vrolijk schilderij. Het is een soort levensboom, geschilderd door Cindy van der Veen. Schilderen is haar passie en dat spat zeker van dit doek af. Cindy wil met haar schilderijen kleur en vrolijkheid aan anderen geven.
+[<img class="alignleft size-thumbnail wp-image-2433" title="schilderij met kleurrijke levensboom door Cindy van der Veen" src="/wordpress/wp-content/uploads/2012/02/schilderij-van-Cindy-150x150.jpg" alt="schilderij met kleurrijke levensboom door Cindy van der Veen" width="150" height="150" />][1]Vorige week ontving ik een foto van een zeer vrolijk schilderij. Het is een soort levensboom, geschilderd door Cindy van der Veen. Schilderen is haar passie en dat spat zeker van dit doek af. Cindy wil met haar schilderijen kleur en vrolijkheid aan anderen geven.
 
 Bekijk het schilderij van Cindy en lees het interview:<!--more-->
 
-[<img class="aligncenter size-full wp-image-2433" title="schilderij met kleurrijke levensboom door Cindy van der Veen" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/02/schilderij-van-Cindy.jpg" alt="schilderij met kleurrijke levensboom door Cindy van der Veen" width="450" height="450" />][1]
+[<img class="aligncenter size-full wp-image-2433" title="schilderij met kleurrijke levensboom door Cindy van der Veen" src="/wordpress/wp-content/uploads/2012/02/schilderij-van-Cindy.jpg" alt="schilderij met kleurrijke levensboom door Cindy van der Veen" width="450" height="450" />][1]
 
 **1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo?**  
 Ik schilderde en tekende als kind al heel graag, alleen op zolder en op school altijd stiekem in de kantlijntjes, maar pas na de geboorte van mijn eerste zoon was er een explosie van creativiteit die er uit moest bij mij.
@@ -43,4 +43,4 @@ Ik zeg het nu zo wijs, maar dat ik ook nog steeds een les voor mij hoor.
 
 *De Schildertuin bedankt Cindy voor haar inzending.*
 
- [1]: http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/02/schilderij-van-Cindy.jpg
+ [1]: /wordpress/wp-content/uploads/2012/02/schilderij-van-Cindy.jpg

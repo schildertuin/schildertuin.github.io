@@ -12,7 +12,7 @@ tags:
   - restylen oude spullen
   - tijdschrift Flow
 ---
-<img class="alignleft size-full wp-image-2806" title="Buy Nothing New-Maand" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/09/Buy_Nothing_New_Maand.jpg" alt="Oktober 2012 is Buy Nothing New-Maand" width="350" height="500" />Een maand lang niets nieuws kopen, hoe zou dat zijn?  
+<img class="alignleft size-full wp-image-2806" title="Buy Nothing New-Maand" src="/wordpress/wp-content/uploads/2012/09/Buy_Nothing_New_Maand.jpg" alt="Oktober 2012 is Buy Nothing New-Maand" width="350" height="500" />Een maand lang niets nieuws kopen, hoe zou dat zijn?  
 Op de weblog van het tijdschrift <a title="Lees het artikel over Buy Nothing New-Maand op weblog Flow" href="http://www.flowmagazine.nl/2012/09/14/niets-nieuws/" target="_blank">Flow</a> las ik een artikel over de ‘Buy Nothing New-Maand&#8217; en ik werd meteen enthousiast.  
 Tweedehands kopen, ruilen, lenen, huren, zelf maken, restylen van oude spullen, allemaal manieren om niets nieuws te hoeven kopen. Levensmiddelen, medicijnen en toiletartikelen mag je overigens wel nieuw aanschaffen;)
 

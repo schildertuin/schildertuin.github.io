@@ -24,7 +24,7 @@ tags:
 *tekst: Hilde Reurink*  
 *illustraties: Hesther de Jong-Nijland*
 
-**Hesther, vertel eens iets over jezelf.<img class="alignright size-full wp-image-4841" title="foto van Hesther de Jong-Nijland voor een van haar schilderijen" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/foto-Hesther-de-jong-nijland.jpg" alt="foto Hesther de Jong-Nijland" width="350" height="233" />**  
+**Hesther, vertel eens iets over jezelf.<img class="alignright size-full wp-image-4841" title="foto van Hesther de Jong-Nijland voor een van haar schilderijen" src="/wordpress/wp-content/uploads/2013/11/foto-Hesther-de-jong-nijland.jpg" alt="foto Hesther de Jong-Nijland" width="350" height="233" />**  
 Ik woon en werk in Friesland, in mijn atelier in Drachten. Samen met mijn man en zoon maken we in onze vrije tijd regelmatig wandelingen door de bossen en weilanden in de nabije omgeving. Elementen uit de natuur verwerk ik vaak in mijn werk, het inspireert me elke keer weer! In mijn atelier maak ik illustraties, schilderijen, collages en sieraden.
 
 **Wanneer besloot je illustrator te worden?<!--more-->**
@@ -38,12 +38,12 @@ Op de kunstacademie ben ik afgestudeerd met mixed media/ fotografie en een paar 
 **Welk materiaal gebruik je om je illustraties te maken?**  
 Verschillende soorten papier, knipsels, restjes behang, textiel, (kleur)potlood, acrylverf, inkt en pen.
 
-<img class="alignnone size-full wp-image-4852" title="detailfoto schilderij collagetechniek, Hesther de Jong-Nijland" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/Detail-recent-werk-collagetechniek.jpg" alt="detailfoto schilderij collagetechniek, Hesther de Jong-Nijland" width="250" height="250" /> <img class="alignnone size-full wp-image-4853" title="schilderij collagetechniek, Hesther de Jong-Nijland" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/Recent-werk-collagetechniek.jpg" alt="schilderij collagetechniek, Hesther de Jong-Nijland" width="250" height="250" />
+<img class="alignnone size-full wp-image-4852" title="detailfoto schilderij collagetechniek, Hesther de Jong-Nijland" src="/wordpress/wp-content/uploads/2013/11/Detail-recent-werk-collagetechniek.jpg" alt="detailfoto schilderij collagetechniek, Hesther de Jong-Nijland" width="250" height="250" /> <img class="alignnone size-full wp-image-4853" title="schilderij collagetechniek, Hesther de Jong-Nijland" src="/wordpress/wp-content/uploads/2013/11/Recent-werk-collagetechniek.jpg" alt="schilderij collagetechniek, Hesther de Jong-Nijland" width="250" height="250" />
 
 **Hoe zou je jouw stijl van illustreren omschrijven?**  
 Ik gebruik meestal de collagetechniek. Daarbij is kleur heel belangrijk, dat is de basis van mijn werk. Het is vooral heel kleurrijk met een harmonieus kleurenpalet. Een mix van grafische, figuratieve en sprookjesachtige beelden.
 
-**<img class="alignleft size-full wp-image-4850" title="Hond op maan, schilderij van Hesther de Jong-Nijland" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/Schilderij-hond-op-maan.jpg" alt="Hond op maan, schilderij van Hesther de Jong-Nijland" width="232" height="700" />Werk je in opdracht?**  
+**<img class="alignleft size-full wp-image-4850" title="Hond op maan, schilderij van Hesther de Jong-Nijland" src="/wordpress/wp-content/uploads/2013/11/Schilderij-hond-op-maan.jpg" alt="Hond op maan, schilderij van Hesther de Jong-Nijland" width="232" height="700" />Werk je in opdracht?**  
 Ja, op dit moment is dat vooral kinderkamerkunst. Daarnaast maak ik vrij werk en exposeer schilderijen en collages in verschillende galeries.
 
 **Wat was je allereerste illustratie-opdracht?**  
@@ -65,7 +65,7 @@ Het hangt heel erg af van hoeveel opdrachten ik heb en wanneer ik workshops en c
 Je kunnen verplaatsen in een verhaal, teksten kunnen visualiseren, goed gevoel voor kleur, vorm en materiaal hebben en fantasie hebben.
 
 <p style="text-align: center;">
-  <strong>Op welke illustratie ben je zelf het meest trots en waarom?</strong><br /> De kaart van Arthur, geboortekaart van onze zoon. Een sprekende en kleurrijke illustratie waarop ik veel complimenten heb mogen ontvangen.<img class="aligncenter size-full wp-image-4848" title="geboortekaartje met collage, ontwerp Hesther de Jong-Nijland" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/geboortekaartje-Arthur-collage.jpg" alt="geboortekaartje met collage, ontwerp Hesther de Jong-Nijland" width="500" height="322" />
+  <strong>Op welke illustratie ben je zelf het meest trots en waarom?</strong><br /> De kaart van Arthur, geboortekaart van onze zoon. Een sprekende en kleurrijke illustratie waarop ik veel complimenten heb mogen ontvangen.<img class="aligncenter size-full wp-image-4848" title="geboortekaartje met collage, ontwerp Hesther de Jong-Nijland" src="/wordpress/wp-content/uploads/2013/11/geboortekaartje-Arthur-collage.jpg" alt="geboortekaartje met collage, ontwerp Hesther de Jong-Nijland" width="500" height="322" />
 </p>
 
 **Welke andere illustratoren bewonder je?**  
@@ -86,8 +86,8 @@ Illustraties maken voor kinderboeken en kookboeken.
 **Waar kunnen mensen jouw werk bekijken op internet?**  
 Op mijn eigen website: <a title="Sterre-Design is de website van Hesther de Jong-Nijland" href="http://sterre-design.webklik.nl" target="_blank">sterre-design.webklik.nl</a>.
 
-*Lees ook de andere <a title="Interviews met illustratoren" href="http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
+*Lees ook de andere <a title="Interviews met illustratoren" href="/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
 
 <p style="text-align: center;">
-  <a href="schilderij met landschap"><img class="aligncenter size-full wp-image-4855" title="schilderij met landschap, Hesther de Jong-Nijland" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/Schilderij-landschap.jpg" alt="schilderij met landschap, Hesther de Jong-Nijland" width="400" height="403" /></a>
+  <a href="schilderij met landschap"><img class="aligncenter size-full wp-image-4855" title="schilderij met landschap, Hesther de Jong-Nijland" src="/wordpress/wp-content/uploads/2013/11/Schilderij-landschap.jpg" alt="schilderij met landschap, Hesther de Jong-Nijland" width="400" height="403" /></a>
 </p>

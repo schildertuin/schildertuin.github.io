@@ -22,7 +22,7 @@ tags:
 *
 
 **Hoi Henrieke, vertel eens iets over jezelf.**  
-<img class="alignleft  wp-image-5843" title="zelfportret van illustrator Henrieke Schuiling" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/portret.jpg" alt="zelfportret van illustrator Henrieke Schuiling" width="315" height="392" />Ik ben Henrieke Schuiling (22) en ik woon op kamers in Zwolle. Momenteel zit ik in het laatste jaar van de studie illustratie aan de ArtEZ Hogeschool voor de Kunsten te Zwolle. Op deze school ben ik in feite bezig om van mijn hobby mijn beroep te maken.  
+<img class="alignleft  wp-image-5843" title="zelfportret van illustrator Henrieke Schuiling" src="/wordpress/wp-content/uploads/2014/02/portret.jpg" alt="zelfportret van illustrator Henrieke Schuiling" width="315" height="392" />Ik ben Henrieke Schuiling (22) en ik woon op kamers in Zwolle. Momenteel zit ik in het laatste jaar van de studie illustratie aan de ArtEZ Hogeschool voor de Kunsten te Zwolle. Op deze school ben ik in feite bezig om van mijn hobby mijn beroep te maken.  
 Als illustrator werk ik erg divers, ik gebruik zoveel mogelijk verschillende materialen en richt me op meerdere disciplines binnen de illustratiewereld. Toch maak ik het liefst prentenboeken, bij voorkeur met gevoelige onderwerpen, zoals pesten, een echtscheiding of zelfs seksueel misbruik.
 
 &nbsp;
@@ -36,7 +36,7 @@ Knutselen was altijd al mijn grootste hobby, maar ik wist niet dat je hier ook j
 Mijn materiaalkeuze is erg divers. Voor iedere illustratie kies ik het materiaal dat het beeld versterkt. Dat wil zeggen dat ik teken, schilder, animeer, collageer, borduur, naai et cetera. Ik hou van deze diversiteit omdat ik mezelf graag steeds wil vernieuwen.
 
 **Hoe zou je jouw stijl van illustreren omschrijven?**  
-<img class="alignright size-full wp-image-5850" title="kokkerellen, illustratie van Henrieke Schuiling" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/koken.jpg" alt="kokkerellen, illustratie van Henrieke Schuiling" width="400" height="495" />Het kenmerkende materiaalgebruik en de gevoelige manier van tekenen. Omdat ik veel verschillende materialen gebruik, heb ik niet een bepaalde stijl.
+<img class="alignright size-full wp-image-5850" title="kokkerellen, illustratie van Henrieke Schuiling" src="/wordpress/wp-content/uploads/2014/02/koken.jpg" alt="kokkerellen, illustratie van Henrieke Schuiling" width="400" height="495" />Het kenmerkende materiaalgebruik en de gevoelige manier van tekenen. Omdat ik veel verschillende materialen gebruik, heb ik niet een bepaalde stijl.
 
 **Vind je het een voordeel of juist een nadeel om als illustrator een herkenbare tekenstijl te hebben?**  
 Iedereen heeft een eigen handschrift, maar binnen dit handschrift kun je nog enorm variëren. Deze variatie is volgens mij erg belangrijk, omdat het handig is om verschillende dingen te kunnen. Als je dat niet kunt wordt jouw handschrift een soort trucje, vrees ik, waardoor je telkens in herhaling valt.
@@ -60,13 +60,13 @@ Een illustrator moet kunnen afbeelden, maar vooral ook dingen aan de verbeelding
 Ik ben op dit moment bezig met een app voor de iPad over de Greet Hofmans affaire. Dit is op papier een 7 meter lange leporello en daar ben ik trots op omdat ik een mooi kleurenpalet heb gebruikt. Daarnaast heb ik veel portretten geschilderd en ik wist eigenlijk niet dat ik dit goed kon. Het beeld heeft me erg verrast!
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5844" title="app over de Greet Hofmans affaire, illustratie van Henrieke Schuiling" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/Hofmans-affaire1.jpg" alt="app over de Greet Hofmans affaire, illustratie van Henrieke Schuiling" width="550" height="198" /><img class="aligncenter size-full wp-image-5845" title="app over de Greet Hofmans affaire, illustratie van Henrieke Schuiling" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/Hofmans-affaire2.jpg" alt="app over de Greet Hofmans affaire, illustratie van Henrieke Schuiling" width="550" height="195" />
+  <img class="aligncenter size-full wp-image-5844" title="app over de Greet Hofmans affaire, illustratie van Henrieke Schuiling" src="/wordpress/wp-content/uploads/2014/02/Hofmans-affaire1.jpg" alt="app over de Greet Hofmans affaire, illustratie van Henrieke Schuiling" width="550" height="198" /><img class="aligncenter size-full wp-image-5845" title="app over de Greet Hofmans affaire, illustratie van Henrieke Schuiling" src="/wordpress/wp-content/uploads/2014/02/Hofmans-affaire2.jpg" alt="app over de Greet Hofmans affaire, illustratie van Henrieke Schuiling" width="550" height="195" />
 </p>
 
 **Welke andere illustratoren bewonder je?**  
 Qua kinderboekillustratoren bewonder ik <a title="website van illustrator Eric Carle" href="http://www.eric-carle.com/home.html" target="_blank">Eric Carle</a>, met zijn papierknipsels maakt hij prachtige beelden. De kleuren zijn heel helder en hij gebruikt veel structuren. Daarnaast hou ik erg van het werk van <a title="website van illustrator Fleur van der Weel" href="http://www.fleurvanderweel.com/" target="_blank">Fleur van der Weel</a>. Ook zij gebruikt veel structuren door te krassen in lagen verf. <a title="Fiep Westendorp illustrations website" href="http://www.fiepwestendorp.nl/fiepamsterdam/" target="_blank">Fiep Westendorp</a> is natuurlijk ook favoriet, met haar enorme hoeveelheid aan prachtige tekeningen. Het werk van <a title="website van illustrator Lieke van der Vorst" href="http://www.liekeland.nl/" target="_blank">Lieke van der Vorst</a>, redactioneel illustrator, vind ik ook erg mooi. Haar werk is niet heel verhalend, maar ze maakt vooral mooie tekeningen waar je lang naar kunt kijken.
 
-**<img class="alignleft size-full wp-image-5852" title="mixed media illustratie van Henrieke Schuiling met waterkoker" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/waterkoker.jpg" alt="mixed media illustratie van Henrieke Schuiling met waterkoker" width="350" height="369" />Waarin vind jij inspiratie?**  
+**<img class="alignleft size-full wp-image-5852" title="mixed media illustratie van Henrieke Schuiling met waterkoker" src="/wordpress/wp-content/uploads/2014/02/waterkoker.jpg" alt="mixed media illustratie van Henrieke Schuiling met waterkoker" width="350" height="369" />Waarin vind jij inspiratie?**  
 Meestal vind ik mijn inspiratie gewoon om me heen, dan hoor ik een verhaal en denk ik “Hey! Daar kan ik wat mee”. Maar ik blader ook door kunstboeken en dan raak ik meer geïnspireerd door de techniek en dan ga ik dat ook uitproberen.
 
 **Las je als kind graag boeken?**  
@@ -84,8 +84,8 @@ Ik ben eigenlijk nog niet begonnen, dus de wereld ligt nog voor me open. Maar mi
 **Waar kunnen mensen jouw werk bekijken op internet?**  
 Mijn werk is te vinden op mijn website <a title="website van illustrator Henrieke Schuiling" href="http://www.henriekeschuiling.nl/" target="_blank">henriekeschuiling.nl</a>
 
-*Lees ook de andere <a title="Interviews met illustratoren" href="http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
+*Lees ook de andere <a title="Interviews met illustratoren" href="/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5847" title="Sinds kort heb ik van alles 2, verhaal over het wonen op twee verschillende plekken en de nare dingen die hierbij komen kijken" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/schaduw.jpg" alt="sinds kort heb ik van alles 2, illustratie van Henrieke Schuiling" width="550" height="389" />
+  <img class="aligncenter size-full wp-image-5847" title="Sinds kort heb ik van alles 2, verhaal over het wonen op twee verschillende plekken en de nare dingen die hierbij komen kijken" src="/wordpress/wp-content/uploads/2014/02/schaduw.jpg" alt="sinds kort heb ik van alles 2, illustratie van Henrieke Schuiling" width="550" height="389" />
 </p>

@@ -18,11 +18,11 @@ tags:
   - quote
 ---
 <p class="bol_header clear_autoheight bottom_0">
-  Vorige week kocht ik het boek <a title="meer info over Hand-Lettering Ledger vind je op bol.com" href="http://www.bol.com/nl/p/hand-lettering-ledger/9200000019076975/" target="_blank">Hand-Lettering Ledger</a>, een mooi werkboek over het zelf maken van handgeschreven letters/woorden. Deze week ben ik zelf aan de slag gegaan met een geïllustreerde quote. Deze illustratie gebruik ik voor een <a title="Laat jezelf zien met een promotionele ansichtkaart" href="http://www.schildertuin.nl/wordpress/2014/09/laat-jezelf-zien-met-een-promotionele-ansichtkaart/" target="_blank">promotionele ansichtkaart</a>, maar daarover binnenkort meer&#8230;
+  Vorige week kocht ik het boek <a title="meer info over Hand-Lettering Ledger vind je op bol.com" href="http://www.bol.com/nl/p/hand-lettering-ledger/9200000019076975/" target="_blank">Hand-Lettering Ledger</a>, een mooi werkboek over het zelf maken van handgeschreven letters/woorden. Deze week ben ik zelf aan de slag gegaan met een geïllustreerde quote. Deze illustratie gebruik ik voor een <a title="Laat jezelf zien met een promotionele ansichtkaart" href="/wordpress/2014/09/laat-jezelf-zien-met-een-promotionele-ansichtkaart/" target="_blank">promotionele ansichtkaart</a>, maar daarover binnenkort meer&#8230;
 </p>
 
 <p class="bol_header clear_autoheight bottom_0">
-  <img class="aligncenter wp-image-6946 size-full" title="geïllustreerde quote &quot;Laat jezelf zien&quot;, ontwerp en illustratie: Hilde Reurink" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/09/laat-jezelf-zien.jpg" alt="geïllustreerde quote &quot;Laat jezelf zien&quot;, ontwerp en illustratie: Hilde Reurink" width="550" height="386" />
+  <img class="aligncenter wp-image-6946 size-full" title="geïllustreerde quote &quot;Laat jezelf zien&quot;, ontwerp en illustratie: Hilde Reurink" src="/wordpress/wp-content/uploads/2014/09/laat-jezelf-zien.jpg" alt="geïllustreerde quote &quot;Laat jezelf zien&quot;, ontwerp en illustratie: Hilde Reurink" width="550" height="386" />
 </p>
 
 <p id="watch-headline-title" class="yt">

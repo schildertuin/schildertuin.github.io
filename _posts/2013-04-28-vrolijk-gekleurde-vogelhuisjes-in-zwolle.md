@@ -18,4 +18,4 @@ Het blijft vooralsnog mysterieus welke persoon of organisatie achter deze diervr
 
 Ik kon vanmorgen de verleiding niet weerstaan een foto te maken van deze vrolijk gekleurde vogelhuizen:
 
-<img class="aligncenter size-full wp-image-3590" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/04/vogelhuisjes_zwolle.jpg" alt="foto van gekleurde vogelhuisjes in boom in Zwolle" width="450" height="712" />
+<img class="aligncenter size-full wp-image-3590" src="/wordpress/wp-content/uploads/2013/04/vogelhuisjes_zwolle.jpg" alt="foto van gekleurde vogelhuisjes in boom in Zwolle" width="450" height="712" />

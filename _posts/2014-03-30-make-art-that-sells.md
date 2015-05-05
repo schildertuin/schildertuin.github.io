@@ -14,7 +14,7 @@ tags:
   - MATS
   - online cursus
 ---
-<a href="http://lillarogers.com/make-art-that-sells/" target="_blank"><img class="size-full wp-image-6321 alignright" title="Meer info over de online cursus Make Art That Sells" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/03/LRSSchool-logo200.jpg" alt="Lilla Rogers Make Art That Sells logo" width="200" height="159" /></a>Ik ga weer naar school, vanaf morgen.  
+<a href="http://lillarogers.com/make-art-that-sells/" target="_blank"><img class="size-full wp-image-6321 alignright" title="Meer info over de online cursus Make Art That Sells" src="/wordpress/wp-content/uploads/2014/03/LRSSchool-logo200.jpg" alt="Lilla Rogers Make Art That Sells logo" width="200" height="159" /></a>Ik ga weer naar school, vanaf morgen.  
 Een school anno 2014, met online lessen, video’s, opdrachten en virtuele klasgenoten via een community op Facebook.
 
 De 5 weekse E-course <a title="Lilla Rogers Make Art That Sells" href="http://lillarogers.com/make-art-that-sells/" target="_blank">Make Art That Sells</a> wordt gegeven door <a title="website van Lilla Rogers" href="http://lillarogers.com/" target="_blank">Lilla Rogers</a>, een internationaal agentschap voor illustratoren.  

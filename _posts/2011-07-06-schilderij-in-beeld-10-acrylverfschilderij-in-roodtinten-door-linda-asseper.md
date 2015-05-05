@@ -9,11 +9,11 @@ tags:
   - acrylverf
   - Linda Asseper
 ---
-<img class="alignleft size-thumbnail wp-image-2063" title="acrylverfschilderij van Linda Asseper" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/06/schilderij-van-Linda-Asseper-150x112.jpg" alt="acrylverfschilderij van Linda Asseper" width="150" height="112" />Linda Asseper schildert veelal met acrylverf. De Schildertuin heeft Linda een aantal vragen gesteld, benieuwd naar haar antwoorden?<!--more Lees het interview met Linda->-->
+<img class="alignleft size-thumbnail wp-image-2063" title="acrylverfschilderij van Linda Asseper" src="/wordpress/wp-content/uploads/2011/06/schilderij-van-Linda-Asseper-150x112.jpg" alt="acrylverfschilderij van Linda Asseper" width="150" height="112" />Linda Asseper schildert veelal met acrylverf. De Schildertuin heeft Linda een aantal vragen gesteld, benieuwd naar haar antwoorden?<!--more Lees het interview met Linda->-->
 
 Linda stuurde een foto in van een door haar gemaakt schilderij in rode tinten:
 
-<img class="aligncenter size-full wp-image-2063" title="acrylverfschilderij van Linda Asseper" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/06/schilderij-van-Linda-Asseper.jpg" alt="acrylverfschilderij van Linda Asseper" width="450" height="338" />
+<img class="aligncenter size-full wp-image-2063" title="acrylverfschilderij van Linda Asseper" src="/wordpress/wp-content/uploads/2011/06/schilderij-van-Linda-Asseper.jpg" alt="acrylverfschilderij van Linda Asseper" width="450" height="338" />
 
 **1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo? **  
 Ik had al eerder wat aan aquarel gedaan, maar sinds een paar jaar ben ik wat fanatieker bezig met acrylverf.

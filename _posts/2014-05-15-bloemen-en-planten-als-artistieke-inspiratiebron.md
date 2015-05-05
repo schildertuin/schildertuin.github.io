@@ -24,15 +24,15 @@ tags:
 
 Ik houd erg van bloemen en planten, in huis en in de tuin. De hele vensterbank staat vol met een wilde verzameling planten: vrouwentongen, drakenbloedboom, een orchidee die al een paar jaar geen bloemen geeft maar nog steeds groene bladeren heeft, een Chinese roos, een paar lidcactussen en een grote bananenplant. Ik fotografeer ook vaak bloemen en planten, vooral tijdens vakanties. In dit artikel een aantal foto&#8217;s uit mijn eigen collectie, gebruik ze ter inspiratie om na te tekenen, te schilderen, te borduren, enz.
 
-<img class="aligncenter wp-image-6537 size-full" title="fotocollage met orchideeen" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/05/orchideeen_collage.jpg" alt="fotocollage met orchideeen" width="400" height="400" />
+<img class="aligncenter wp-image-6537 size-full" title="fotocollage met orchideeen" src="/wordpress/wp-content/uploads/2014/05/orchideeen_collage.jpg" alt="fotocollage met orchideeen" width="400" height="400" />
 
-<img class="aligncenter wp-image-6539 size-full" title="foto van een kleurige soort lidcactus" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/05/lidcactus.jpg" alt="foto van een kleurige soort lidcactus" width="300" height="400" />
+<img class="aligncenter wp-image-6539 size-full" title="foto van een kleurige soort lidcactus" src="/wordpress/wp-content/uploads/2014/05/lidcactus.jpg" alt="foto van een kleurige soort lidcactus" width="300" height="400" />
 
-<img class="aligncenter wp-image-6540 size-full" title="foto van een paarse passiebloem" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/05/passiebloem.jpg" alt="foto van een paarse passiebloem" width="350" height="263" />
+<img class="aligncenter wp-image-6540 size-full" title="foto van een paarse passiebloem" src="/wordpress/wp-content/uploads/2014/05/passiebloem.jpg" alt="foto van een paarse passiebloem" width="350" height="263" />
 
-<img class="aligncenter wp-image-6541 size-full" title="trompetbloemen gefotografeerd op Corfu" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/05/rode_bloemen_corfu.jpg" alt="trompetbloemen gefotografeerd op Corfu" width="300" height="282" />
+<img class="aligncenter wp-image-6541 size-full" title="trompetbloemen gefotografeerd op Corfu" src="/wordpress/wp-content/uploads/2014/05/rode_bloemen_corfu.jpg" alt="trompetbloemen gefotografeerd op Corfu" width="300" height="282" />
 
-<img class="aligncenter wp-image-6542 size-full" title="foto van een roze Chinese roos" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/05/chinese_roos.jpg" alt="foto van een roze Chinese roos" width="300" height="400" />
+<img class="aligncenter wp-image-6542 size-full" title="foto van een roze Chinese roos" src="/wordpress/wp-content/uploads/2014/05/chinese_roos.jpg" alt="foto van een roze Chinese roos" width="300" height="400" />
 
 ## Bloemenprints en planten in de mode en het interieur
 

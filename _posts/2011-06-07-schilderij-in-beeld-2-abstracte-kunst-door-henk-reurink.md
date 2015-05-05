@@ -10,11 +10,11 @@ tags:
   - Henk Reurink
   - kunstenaar
 ---
-<img class="alignleft size-thumbnail wp-image-1884" title="abstract schilderij van Henk" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/06/schilderij-van-Henk-117x150.jpg" alt="abstract schilderij van Henk" width="117" height="150" />De tweede kunstenaar die meedoet aan de rubriek &#8220;Schilderij in beeld&#8221; is Henk Reurink. De Schildertuin heeft Henk een aantal vragen gesteld, benieuwd naar zijn antwoorden?<!--more Lees het interview met Henk->-->
+<img class="alignleft size-thumbnail wp-image-1884" title="abstract schilderij van Henk" src="/wordpress/wp-content/uploads/2011/06/schilderij-van-Henk-117x150.jpg" alt="abstract schilderij van Henk" width="117" height="150" />De tweede kunstenaar die meedoet aan de rubriek &#8220;Schilderij in beeld&#8221; is Henk Reurink. De Schildertuin heeft Henk een aantal vragen gesteld, benieuwd naar zijn antwoorden?<!--more Lees het interview met Henk->-->
 
 Henk stuurde een foto in van een door hem geschilderd abstract schilderij:
 
-<img class="aligncenter size-full wp-image-1884" title="abstract schilderij van Henk" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/06/schilderij-van-Henk.jpg" alt="abstract schilderij van Henk" width="450" height="573" />
+<img class="aligncenter size-full wp-image-1884" title="abstract schilderij van Henk" src="/wordpress/wp-content/uploads/2011/06/schilderij-van-Henk.jpg" alt="abstract schilderij van Henk" width="450" height="573" />
 
 **1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo? **  
 Eind jaren 60, ik dacht: wat Jan Wolkers kan, kan ik ook!

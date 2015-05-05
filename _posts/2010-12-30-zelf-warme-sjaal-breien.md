@@ -12,7 +12,7 @@ tags:
   - wintersjaal breien
   - wol van oud kledingstuk
 ---
-<img class="size-thumbnail wp-image-1031 alignleft" title="De sjaal in close-up" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/12/sjaal2-150x100.jpg" alt="Close-up foto van een grof gebreide sjaal" width="150" height="100" />
+<img class="size-thumbnail wp-image-1031 alignleft" title="De sjaal in close-up" src="/wordpress/wp-content/uploads/2010/12/sjaal2-150x100.jpg" alt="Close-up foto van een grof gebreide sjaal" width="150" height="100" />
 
 **Breien is een ideale combinatiehobby, tijdens het TV kijken brei je zo een eind weg en voor je het weet heb je een sjaal af.**  
 **Ook voor straks in de lente is het een fijne hobby, je kunt prima in de buitenlucht breien.**
@@ -20,7 +20,7 @@ tags:
 Mijn breiproject van de vorige winter: een warme wintersjaal.
 
 <div id="attachment_1030" style="width: 410px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1030 " title="opzet van de sjaal" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/12/sjaal1.jpg" alt="foto van een sjaal in wording op breinaald" width="400" height="300" />
+  <img class="size-full wp-image-1030 " title="opzet van de sjaal" src="/wordpress/wp-content/uploads/2010/12/sjaal1.jpg" alt="foto van een sjaal in wording op breinaald" width="400" height="300" />
   
   <p class="wp-caption-text">
     Het begin van de sjaal
@@ -28,7 +28,7 @@ Mijn breiproject van de vorige winter: een warme wintersjaal.
 </div>
 
 <div id="attachment_1031" style="width: 410px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1031" title="De sjaal in close-up" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/12/sjaal2.jpg" alt="Close-up foto van een grof gebreide sjaal" width="400" height="267" />
+  <img class="size-full wp-image-1031" title="De sjaal in close-up" src="/wordpress/wp-content/uploads/2010/12/sjaal2.jpg" alt="Close-up foto van een grof gebreide sjaal" width="400" height="267" />
   
   <p class="wp-caption-text">
     Met breinaalden nummer 10 gaat het breien lekker snel!
@@ -36,7 +36,7 @@ Mijn breiproject van de vorige winter: een warme wintersjaal.
 </div>
 
 <div id="attachment_1032" style="width: 410px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1032" title="De sjaal is af, lekker voor in de winter!" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/12/sjaal3.jpg" alt="Foto van een zelf gebreide sjaal bij een winterjas" width="400" height="600" />
+  <img class="size-full wp-image-1032" title="De sjaal is af, lekker voor in de winter!" src="/wordpress/wp-content/uploads/2010/12/sjaal3.jpg" alt="Foto van een zelf gebreide sjaal bij een winterjas" width="400" height="600" />
   
   <p class="wp-caption-text">
     En dit is het eindresultaat
@@ -44,7 +44,7 @@ Mijn breiproject van de vorige winter: een warme wintersjaal.
 </div>
 
 <div id="attachment_1033" style="width: 410px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-1033" title="de sjaal samen met mijn winterjas" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/12/sjaal4.jpg" alt="foto van zelfgebreide sjaal en winterjas" width="400" height="600" />
+  <img class="size-full wp-image-1033" title="de sjaal samen met mijn winterjas" src="/wordpress/wp-content/uploads/2010/12/sjaal4.jpg" alt="foto van zelfgebreide sjaal en winterjas" width="400" height="600" />
   
   <p class="wp-caption-text">
     Dit kun jij ook maken!

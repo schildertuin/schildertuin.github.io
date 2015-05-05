@@ -21,7 +21,7 @@ tags:
 *tekst: Hilde Reurink*  
 *illustraties: Marit de Wolf*
 
-**<img class="alignright size-full wp-image-5004" title="zelfportret illustrator Marit de Wolf" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/zelfportretbijinterview.jpg" alt="zelfportret illustrator Marit de Wolf" width="350" height="350" />Marit, vertel eens iets over jezelf.**  
+**<img class="alignright size-full wp-image-5004" title="zelfportret illustrator Marit de Wolf" src="/wordpress/wp-content/uploads/2013/12/zelfportretbijinterview.jpg" alt="zelfportret illustrator Marit de Wolf" width="350" height="350" />Marit, vertel eens iets over jezelf.**  
 Mijn naam is Marit de Wolf, sinds 2000 ben ik werkzaam als zelfstandig illustrator bij mijn eigen bedrijf: de Wolf illustraties. Ik woon in Kampen, waar ik ook mijn studie aan de kunstacademie Constantijn Huygens volgde (het huidige Artez te Zwolle). Mijn werkplek is thuis op zolder en ik heb ook nog een atelier in Kampen dat ik deel met vriendin illustrator Nelleke Jager, samen zijn we atelier Nell en de Wolf en maken we allerlei hippe handgemaakte dingen op de naaimachine en hebben we een uitgebreide kaartencollectie.  
 In 2006 heb ik mijn BIK certificaat gehaald (Beroepskunstenaar In de Klas) en geef ik naast mijn werk als illustrator kunstworkshops op diverse basisscholen en in bibliotheken. Ook geef ik illustratieworkshops namens de Fiep Westendorp Foundation op bijvoorbeeld bso&#8217;s en asielzoekerscentra.
 
@@ -53,7 +53,7 @@ Voor het personeelsblad van Stichting Philadelphia Zorg mocht ik een aantal ico
 Ik ben steeds meer bezig met hoe ik diepgang, inhoud en toegevoegde waarde met mijn werk kan bewerkstelligen. Teksten die écht ergens over gaan, onderwerpen die raken aan maatschappelijke problemen in de maatschappij vind ik een mooie uitdaging om mee aan de slag te gaan. Dit soort opdrachten vind ik bij Mezzo waar ik regelmatig voor illustreer. Ook de NCRV gids publiceert inhoudelijk sterke artikelen over bijvoorbeeld autisme of een interview met Kinderombudsman Marc Dullaert. Het mooiste is natuurlijk een combinatie van onderwerpen met diepgang en wat algemenere, luchtiger onderwerpen om het in balans te houden. Wat ik ook belangrijk vind is dat het contact met de opdrachtgever goed is en dat er wederzijdse waardering is.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5045" title="'Kleurrijk doorbreken' serie illustraties over de allochtone netwerkcoach die allochtone mantelzorger bijstaat - Mezzo" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/vierluik-kleurrijkdoorbreken.jpg" alt="'Kleurrijk doorbreken' serie illustraties over de allochtone netwerkcoach die allochtone mantelzorger bijstaat - Mezzo" width="450" height="450" />
+  <img class="aligncenter size-full wp-image-5045" title="'Kleurrijk doorbreken' serie illustraties over de allochtone netwerkcoach die allochtone mantelzorger bijstaat - Mezzo" src="/wordpress/wp-content/uploads/2013/12/vierluik-kleurrijkdoorbreken.jpg" alt="'Kleurrijk doorbreken' serie illustraties over de allochtone netwerkcoach die allochtone mantelzorger bijstaat - Mezzo" width="450" height="450" />
 </p>
 
 **Hoe kom je aan nieuwe opdrachten?**  
@@ -72,7 +72,7 @@ Ik ben veel op internet te vinden. Social media bijwerken, contacten leggen, con
 Snel kunnen associëren op een tekst of verhaal, veel fantasie hebben en daarna je fantasie kunnen kanaliseren, goed kunnen communiceren, zowel in woord als in beeld, zakelijk durven zijn, vooruit kunnen denken op zakelijk gebied/ kansen kunnen zien.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5048" title=" 'Machtig en meelevend' over twee eeuwen koningshuis in Nederland" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/layoutkoningshuis.jpg" alt="illustratie Marit de Wolf bij artikel over twee eeuwen koningshuis in Nederland" width="450" height="274" />
+  <img class="aligncenter size-full wp-image-5048" title=" 'Machtig en meelevend' over twee eeuwen koningshuis in Nederland" src="/wordpress/wp-content/uploads/2013/12/layoutkoningshuis.jpg" alt="illustratie Marit de Wolf bij artikel over twee eeuwen koningshuis in Nederland" width="450" height="274" />
 </p>
 
 **Ben je lid van een bond of vereniging voor illustratoren?**  
@@ -83,7 +83,7 @@ In de dertien jaar dat ik nu bezig ben als illustrator heb ik heel veel werk gem
 Als ik dan toch een voorbeeld mag noemen: vorig jaar moest ik een illustratie maken bij een interview met Kinderombudsman Marc Dullaert, een opdracht van de NCRV gids. Het ging over de universele rechten van het kind. Een pittig onderwerp waar ik niet zomaar klaar mee was. Uiteindelijk heb ik een heel verstild beeld gemaakt waarin ik ook mijn eigen visie op het onderwerp laat zien. Het ultieme recht van een kind vind ik persoonlijk dat je überhaupt kind mág zijn, vandaar de schaduw van een spelend kind. Het meisje erboven laat echter iets heel anders zien, wat helaas vaak genoeg de harde realiteit is. In dit beeld vind ik dat alles heel mooi in evenwicht is. Met zo&#8217;n complex onderwerp ben je snel geneigd te veel te laten zien. In deze illustratie gaat het er om wat je juist niet ziet, maar wat er wel is. Omdat het mij bij zo&#8217;n lastig onderwerp toch gelukt is een illustratie te maken, voel ik mij wel trots, ja.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5043" title="illustratie van Marit de Wolf voor een artikel over kinderrechten in de NCRV gids" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/illustratie-kinderrechten.jpg" alt="meisje met vlieger, illustratie van Marit de Wolf voor een artikel over kinderrechten in de NCRV gids" width="550" height="489" />
+  <img class="aligncenter size-full wp-image-5043" title="illustratie van Marit de Wolf voor een artikel over kinderrechten in de NCRV gids" src="/wordpress/wp-content/uploads/2013/12/illustratie-kinderrechten.jpg" alt="meisje met vlieger, illustratie van Marit de Wolf voor een artikel over kinderrechten in de NCRV gids" width="550" height="489" />
 </p>
 
 **Welke andere illustratoren bewonder je?**  
@@ -100,7 +100,7 @@ Ook had ik een aantal boekjes van Kleine Beer geïllustreerd door Maurice Sendak
 Op dit moment kijk ik of mijn illustraties ook breder inzetbaar kunnen zijn dan alleen voor de bladenmarkt. Ik heb inmiddels contacten gelegd met diverse ontwerp-bureaus om te kijken of ik op die manier aan een ander type opdrachten kan komen. Ik geloof heel erg in de kracht van illustraties als middel om jezelf en je bedrijf te onderscheiden van de rest. Dus het inzetten van illustraties op websites, apps, nieuwsbrief, weblog, enz. Al die diverse mogelijkheden ben ik aan het onderzoeken. Ook heb ik een oud kinderboekproject, dat ik samen met mijn zus Minke jaren terug al ben begonnen, weer opgepakt: illustraties maken bij een verhaal dat zij heeft geschreven. Uiteindelijk is het blijven liggen en dat vinden we allebei zonde, dus we geven het nu een nieuwe kans!
 
 <p style="text-align: center;">
-  <a href="in o"><img class="aligncenter size-full wp-image-5050" title="schetsboekomslag kinderboek illustratie Marit de Wolf" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/schetsboekomslag.jpg" alt="schetsboekomslag kinderboek illustratie Marit de Wolf" width="550" height="413" /></a>
+  <a href="in o"><img class="aligncenter size-full wp-image-5050" title="schetsboekomslag kinderboek illustratie Marit de Wolf" src="/wordpress/wp-content/uploads/2013/12/schetsboekomslag.jpg" alt="schetsboekomslag kinderboek illustratie Marit de Wolf" width="550" height="413" /></a>
 </p>
 
 **Heb je een tip voor mensen die ook graag illustrator willen worden?**  
@@ -114,6 +114,6 @@ Ooit begon ik als illustrator met het idee om prentenboeken te gaan maken. Het i
 Mijn eigen website: <a title="website van illustrator Marit de Wolf" href="http://www.dewolfillustraties.nl/" target="_blank">Marit de Wolf illustraties</a>  
 Mijn meest actuele werk vind je op <a title="Marit de Wolf op Behance" href="http://www.behance.net/dewolfillustraties" target="_blank">Behance</a>
 
-*Lees ook de andere <a title="Interviews met illustratoren" href="http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
+*Lees ook de andere <a title="Interviews met illustratoren" href="/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
 
-<img class="aligncenter size-full wp-image-5053" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/kijkinziel.jpg" alt="'Kijk in de ziel', illustratie van Marit de Wolf" width="550" height="417" />
+<img class="aligncenter size-full wp-image-5053" src="/wordpress/wp-content/uploads/2013/12/kijkinziel.jpg" alt="'Kijk in de ziel', illustratie van Marit de Wolf" width="550" height="417" />

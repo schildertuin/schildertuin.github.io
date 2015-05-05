@@ -12,7 +12,7 @@ tags:
   - textielkunstwerk
   - textielschilderij
 ---
-<img class="alignleft size-thumbnail wp-image-1114" title="schilderij van textiel met een eekhoorntje" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/01/textieleekhoorn-113x150.jpg" alt="schilderij van textiel met een eekhoorntje" width="113" height="150" />Met restjes stof kun je je eigen textielkunstwerk maken. Hoe?  
+<img class="alignleft size-thumbnail wp-image-1114" title="schilderij van textiel met een eekhoorntje" src="/wordpress/wp-content/uploads/2011/01/textieleekhoorn-113x150.jpg" alt="schilderij van textiel met een eekhoorntje" width="113" height="150" />Met restjes stof kun je je eigen textielkunstwerk maken. Hoe?  
 Neem als basis een lapje stof (liefst effen). Dit lapje moet groot genoeg zijn om een afbeelding op te maken. Het formaat van je schilderij bepaal je natuurlijk zelf.<!--more Maak je eigen textielschilderij-->
 
 Werk je graag naar een doel toe, bedenk dan vantevoren wat je op je schilderij wil maken.  
@@ -25,7 +25,7 @@ Voor een nonchalant effect kun je er ook voor kiezen om stoffen juist niet netje
 
 Wil je je schilderij iets ruimtelijker maken, maak dan bijvoorbeeld 3D-bloemen van vilt of van andere stof.
 
-<img class="aligncenter size-full wp-image-1114" title="schilderij van textiel met een eekhoorntje" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/01/textieleekhoorn.jpg" alt="schilderij van textiel met een eekhoorntje" width="250" height="331" />
+<img class="aligncenter size-full wp-image-1114" title="schilderij van textiel met een eekhoorntje" src="/wordpress/wp-content/uploads/2011/01/textieleekhoorn.jpg" alt="schilderij van textiel met een eekhoorntje" width="250" height="331" />
 
 Als je schilderij af is, kun je de ondergrond afwerken door er een stoffen rand omheen te naaien.  
 Of je maakt een kussenhoes van het schilderij, of je naait het op een tas of een deken, of&#8230;  

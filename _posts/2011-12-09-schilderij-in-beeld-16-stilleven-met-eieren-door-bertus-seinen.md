@@ -11,11 +11,11 @@ tags:
   - modern stilleven
   - stillevens
 ---
-[<img class="alignleft size-thumbnail wp-image-2410" title="schaal met eieren, geschilderd door Bertus Seinen" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/12/schilderij-van-Bertus-150x147.jpg" alt="schaal met eieren, geschilderd door Bertus Seinen" width="150" height="147" />][1]Bertus Seinen schildert veelal stillevens, maar dan wel stillevens met een modern tintje.  Sommige van zijn schilderijen zijn bijna fotorealistisch. De Schildertuin heeft Bertus een aantal vragen gesteld, benieuwd naar zijn antwoorden?
+[<img class="alignleft size-thumbnail wp-image-2410" title="schaal met eieren, geschilderd door Bertus Seinen" src="/wordpress/wp-content/uploads/2011/12/schilderij-van-Bertus-150x147.jpg" alt="schaal met eieren, geschilderd door Bertus Seinen" width="150" height="147" />][1]Bertus Seinen schildert veelal stillevens, maar dan wel stillevens met een modern tintje.  Sommige van zijn schilderijen zijn bijna fotorealistisch. De Schildertuin heeft Bertus een aantal vragen gesteld, benieuwd naar zijn antwoorden?
 
 Bertus stuurde een foto in van een door hem gemaakt schilderij:<!--more-->
 
-**[<img class="aligncenter size-full wp-image-2410" title="schaal met eieren, geschilderd door Bertus Seinen" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/12/schilderij-van-Bertus.jpg" alt="schaal met eieren, geschilderd door Bertus Seinen" width="450" height="441" />][1]1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo?**  
+**[<img class="aligncenter size-full wp-image-2410" title="schaal met eieren, geschilderd door Bertus Seinen" src="/wordpress/wp-content/uploads/2011/12/schilderij-van-Bertus.jpg" alt="schaal met eieren, geschilderd door Bertus Seinen" width="450" height="441" />][1]1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo?**  
 Ik ben begonnen met schilderen midden jaren 80. Begonnen met een cursus  
 olieverf schilderen van natuurschilder Jan Wessels bij de Regenboog in  
 Nijverdal.
@@ -37,4 +37,4 @@ Wil je meer werk van Bertus zien? Surf dan naar zijn <a title="Bekijk het werk v
 
 De Schildertuin bedankt Bertus voor zijn inzending.
 
- [1]: http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/12/schilderij-van-Bertus.jpg
+ [1]: /wordpress/wp-content/uploads/2011/12/schilderij-van-Bertus.jpg

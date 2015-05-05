@@ -16,7 +16,7 @@ tags:
 
 Benieuwd naar Martins schilderij en het verhaal erachter?
 
-[<img class="aligncenter size-full wp-image-2467" title="schilderij met Leprechaun door Martin Bonthuis" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/03/schilderij-van-Martin.jpg" alt="schilderij met Leprechaun door Martin Bonthuis" width="450" height="600" />][1]
+[<img class="aligncenter size-full wp-image-2467" title="schilderij met Leprechaun door Martin Bonthuis" src="/wordpress/wp-content/uploads/2012/03/schilderij-van-Martin.jpg" alt="schilderij met Leprechaun door Martin Bonthuis" width="450" height="600" />][1]
 
 **1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo?**  
 Ik ben zo&#8217;n 2,5 jaar geleden begonnen met schilderen, nadat ik al vele jaren zwart/wit tekeningen maakte, en wel eens iets anders wilde proberen.  
@@ -43,4 +43,4 @@ Want als je op het laatst nog een fout maakt of uitschiet met je penseel, zul je
 
 *De Schildertuin bedankt Martin voor zijn inzending.*
 
- [1]: http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/03/schilderij-van-Martin.jpg
+ [1]: /wordpress/wp-content/uploads/2012/03/schilderij-van-Martin.jpg

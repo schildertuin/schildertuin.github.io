@@ -17,13 +17,13 @@ tags:
   - uiltjes
   - zelf maken Kerst
 ---
-[<img class="alignleft size-thumbnail wp-image-2394" title="maak zelf een kerstuiltje-hanger, download gratis" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/12/kerstuiltjethumbnail1-150x150.gif" alt="maak zelf een kerstuiltje-hanger, download gratis" width="150" height="150" />][1]**Speciaal voor de kerstdagen heb ik doe-het-zelf kersthangers in de vorm van uiltjes ontworpen. Met grote ogen kijken de rood met wit en bruine vogeltjes je aan.**  
+[<img class="alignleft size-thumbnail wp-image-2394" title="maak zelf een kerstuiltje-hanger, download gratis" src="/wordpress/wp-content/uploads/2011/12/kerstuiltjethumbnail1-150x150.gif" alt="maak zelf een kerstuiltje-hanger, download gratis" width="150" height="150" />][1]**Speciaal voor de kerstdagen heb ik doe-het-zelf kersthangers in de vorm van uiltjes ontworpen. Met grote ogen kijken de rood met wit en bruine vogeltjes je aan.**  
 ** Omdat december natuurlijk dé cadeaumaand is mag je het ontwerp gratis downloaden.**  
 ** Print de kerstuiltjes, knip ze uit en hang ze waar je maar wilt.**
 
 ## Werkwijze kersthanger uiltje
 
-  1. Download gratis de pdf, door op deze link te klikken: <a title="print de kersthangers uit en maak zelf schattige kerstuiltjes" href="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/12/kerstuiltjes.pdf" target="_blank">Kerstuiltjes-hangers</a>
+  1. Download gratis de pdf, door op deze link te klikken: <a title="print de kersthangers uit en maak zelf schattige kerstuiltjes" href="/wordpress/wp-content/uploads/2011/12/kerstuiltjes.pdf" target="_blank">Kerstuiltjes-hangers</a>
   2. Print de uiltjes uit op dik, stevig papier.
   3. Knip de uiltjes uit.
   4. Stans het ophanggaatje m.b.v. een perforator uit.
@@ -39,11 +39,11 @@ Als je het leuk vindt om over de kerstuiltjes te schrijven op jouw eigen blog, v
 Bedankt voor je begrip!
 
 <p style="text-align: center;">
-  <a href="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/12/kerstuiltjes.gif"><img class="aligncenter size-full wp-image-2392" title="kerstuiltjes om op te hangen" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/12/kerstuiltjes.gif" alt="kerstuiltjes om uit te printen en op te hangen" width="396" height="370" /></a> Veel knutselplezier!
+  <a href="/wordpress/wp-content/uploads/2011/12/kerstuiltjes.gif"><img class="aligncenter size-full wp-image-2392" title="kerstuiltjes om op te hangen" src="/wordpress/wp-content/uploads/2011/12/kerstuiltjes.gif" alt="kerstuiltjes om uit te printen en op te hangen" width="396" height="370" /></a> Veel knutselplezier!
 </p>
 
 <p style="text-align: center;">
-  <a href="https://www.kaartje2go.nl/kaartencollecties/december-cards?sk_id=48"><img class="aligncenter wp-image-7346 size-full" title="Bestel hier kerstkaarten" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/12/banner2_kerstkaarten.jpg" alt="banner kerstkaarten de Schildertuin" width="250" height="400" /></a>
+  <a href="https://www.kaartje2go.nl/kaartencollecties/december-cards?sk_id=48"><img class="aligncenter wp-image-7346 size-full" title="Bestel hier kerstkaarten" src="/wordpress/wp-content/uploads/2014/12/banner2_kerstkaarten.jpg" alt="banner kerstkaarten de Schildertuin" width="250" height="400" /></a>
 </p>
 
- [1]: http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/12/kerstuiltjethumbnail1.gif
+ [1]: /wordpress/wp-content/uploads/2011/12/kerstuiltjethumbnail1.gif

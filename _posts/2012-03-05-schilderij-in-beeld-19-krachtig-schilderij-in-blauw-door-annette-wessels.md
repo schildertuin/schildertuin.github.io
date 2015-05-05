@@ -14,7 +14,7 @@ tags:
 
 Bekijk het schilderij van Annette en lees het interview:
 
-[<img class="aligncenter size-full wp-image-2455" title="schilderij met krachtige blauwtinten door Annette Wessels" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/03/schilderij-van-Annette.jpg" alt="schilderij met krachtige blauwtinten door Annette Wessels" width="450" height="293" />][1]
+[<img class="aligncenter size-full wp-image-2455" title="schilderij met krachtige blauwtinten door Annette Wessels" src="/wordpress/wp-content/uploads/2012/03/schilderij-van-Annette.jpg" alt="schilderij met krachtige blauwtinten door Annette Wessels" width="450" height="293" />][1]
 
 **1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo?**  
 30 jaar geleden begon ik te schilderen omdat ik een opleiding deed om er les in te geven.
@@ -35,4 +35,4 @@ Wil je meer werk van Annette zien? Surf dan naar haar <a title="Bekijk het werk 
 
 De Schildertuin bedankt Annette voor haar inzending.
 
- [1]: http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/03/schilderij-van-Annette.jpg
+ [1]: /wordpress/wp-content/uploads/2012/03/schilderij-van-Annette.jpg

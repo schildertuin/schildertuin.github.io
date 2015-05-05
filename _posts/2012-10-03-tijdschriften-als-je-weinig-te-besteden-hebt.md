@@ -15,7 +15,7 @@ tags:
   - tips besparen
   - tips gratis tijdschrift
 ---
-<img class="alignright size-full wp-image-2868" title="Buy Nothing New-Maand dag 3" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/10/rozet_BNNM_dag3.png" alt="illustratie blauwe rozet" width="185" height="283" />**Tijdschriften zijn zó leuk, maar ook erg prijzig. Voor een gemiddeld tijdschrift betaal je al snel € 4,-. De meeste mensen lezen een tijdschrift 1x en daarna gaat het de oud papierbak in, zonde eigenlijk.**
+<img class="alignright size-full wp-image-2868" title="Buy Nothing New-Maand dag 3" src="/wordpress/wp-content/uploads/2012/10/rozet_BNNM_dag3.png" alt="illustratie blauwe rozet" width="185" height="283" />**Tijdschriften zijn zó leuk, maar ook erg prijzig. Voor een gemiddeld tijdschrift betaal je al snel € 4,-. De meeste mensen lezen een tijdschrift 1x en daarna gaat het de oud papierbak in, zonde eigenlijk.**
 
 Zelf ben ik een ontzettende tijdschriftenfanaat, vooral van de woonbladen. Een tijdje geleden ben ik gestopt om tijdschriften nieuw in de winkel te kopen, er zijn namelijk heel veel manieren om goedkoop of gratis aan tijdschriften te komen.
 

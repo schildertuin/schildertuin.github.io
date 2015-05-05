@@ -9,14 +9,14 @@ tags:
   - Annemiek Groenewegen
   - schilderij met golven
 ---
-<img class="alignleft size-thumbnail wp-image-2255" title="schilderij met blauwe golven door Annemiek Groenewegen" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/09/schilderij-van-Annemiek-148x150.jpg" alt="schilderij met blauwe golven door Annemiek Groenewegen" width="148" height="150" />Annemiek Groenewegen krijgt rust door te schilderen. De Schildertuin heeft Annemiek  een aantal vragen gesteld, benieuwd naar haar antwoorden?<!--more-->
+<img class="alignleft size-thumbnail wp-image-2255" title="schilderij met blauwe golven door Annemiek Groenewegen" src="/wordpress/wp-content/uploads/2011/09/schilderij-van-Annemiek-148x150.jpg" alt="schilderij met blauwe golven door Annemiek Groenewegen" width="148" height="150" />Annemiek Groenewegen krijgt rust door te schilderen. De Schildertuin heeft Annemiek  een aantal vragen gesteld, benieuwd naar haar antwoorden?<!--more-->
 
 <!--lees het interview met Annemiek-->
 
 Annemiek stuurde een foto in van een door haar gemaakt schilderij in blauwe tinten:
 
-**<img class="aligncenter size-full wp-image-2255" title="schilderij met blauwe golven door Annemiek Groenewegen" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/09/schilderij-van-Annemiek.jpg" alt="schilderij met blauwe golven door Annemiek Groenewegen" width="450" height="454" />1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo? **  
-Ik weet niet hoe oud ik precies was, ik gok 9 of 10 jaar, toen ik als verjaardagskadootje een schildersezel kreeg. Met zo&#8217;n plastic palet! Zie het nog voor me, ik vond het geweldig. Staan voor een schildersezel en schilderen. Toch heeft het lang geduurd voordat ik echt ging schilderen, dat heb ik weer opgepakt rond &#8217;98. Ineens was het er: inspiratie! Schildersezel te voorschijn gehaald en begonnen. Niet meer gestopt <img src="http://www.schildertuin.nl/wordpress/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />
+**<img class="aligncenter size-full wp-image-2255" title="schilderij met blauwe golven door Annemiek Groenewegen" src="/wordpress/wp-content/uploads/2011/09/schilderij-van-Annemiek.jpg" alt="schilderij met blauwe golven door Annemiek Groenewegen" width="450" height="454" />1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo? **  
+Ik weet niet hoe oud ik precies was, ik gok 9 of 10 jaar, toen ik als verjaardagskadootje een schildersezel kreeg. Met zo&#8217;n plastic palet! Zie het nog voor me, ik vond het geweldig. Staan voor een schildersezel en schilderen. Toch heeft het lang geduurd voordat ik echt ging schilderen, dat heb ik weer opgepakt rond &#8217;98. Ineens was het er: inspiratie! Schildersezel te voorschijn gehaald en begonnen. Niet meer gestopt <img src="/wordpress/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />
 
 **2. Wat betekent het schilderen voor jou? **  
 Als ik niet schilder word ik onrustig en sago. Het betekent veel voor mij, ik kan er alles in kwijt. En elke keer is het weer een uitdaging om hetgene wat je bedacht hebt, te vertalen op doek. Heerlijk!

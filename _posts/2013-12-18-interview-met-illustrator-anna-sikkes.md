@@ -24,7 +24,7 @@ tags:
 *illustraties: Anna Sikkes*
 
 **Hoi Anna, vertel eens iets over jezelf.**  
-<img class="alignright size-full wp-image-5218" title="Foto van illustrator Anna Sikkes" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/foto-Anna-Sikkes.jpg" alt="foto-Anna-Sikkes" width="350" height="284" />Ik ben Anna Sikkes, 23 jaar en ben deze zomer afgestudeerd als illustrator. Op dit moment woon ik in Raalte samen met mijn vriend en ben ik werkzaam als zelfstandig illustrator. Als illustrator ben ik continu bezig met het opzoeken van allerlei verrassende invalshoeken voor mijn werk en daarbij is nieuwsgierigheid een belangrijke eigenschap. Ik werk graag op een ambachtelijke manier, maar wissel dat ook af door illustraties te maken d.m.v. fotografie. Voor mijn vak vind ik het belangrijk dat je de kennis in huis hebt om een illustratie neer te zetten die een sterke, verhalende inhoud toont, maar dat het tegelijk ook een aantrekkelijk beeld is om naar te kijken.  
+<img class="alignright size-full wp-image-5218" title="Foto van illustrator Anna Sikkes" src="/wordpress/wp-content/uploads/2013/12/foto-Anna-Sikkes.jpg" alt="foto-Anna-Sikkes" width="350" height="284" />Ik ben Anna Sikkes, 23 jaar en ben deze zomer afgestudeerd als illustrator. Op dit moment woon ik in Raalte samen met mijn vriend en ben ik werkzaam als zelfstandig illustrator. Als illustrator ben ik continu bezig met het opzoeken van allerlei verrassende invalshoeken voor mijn werk en daarbij is nieuwsgierigheid een belangrijke eigenschap. Ik werk graag op een ambachtelijke manier, maar wissel dat ook af door illustraties te maken d.m.v. fotografie. Voor mijn vak vind ik het belangrijk dat je de kennis in huis hebt om een illustratie neer te zetten die een sterke, verhalende inhoud toont, maar dat het tegelijk ook een aantrekkelijk beeld is om naar te kijken.  
 Naast het illustratorschap houd ik mij ook graag bezig met van alles wat maar creatief is. Of dat nu experimenteren met koken is, schilderen of zelf grappige, persoonlijke cadeautjes maken voor vrienden. Naast al dat creatieve geweld houd ik er ook van om af en toe lekker te gaan hardlopen en mijn hoofd leeg te maken voor het opdoen van allerlei nieuwe ideeën.
 
 **Wanneer besloot je illustrator te worden?<!--more-->**
@@ -39,7 +39,7 @@ Ik heb op ArtEZ Hogeschool voor de Kunsten in Zwolle de richting Stories & Desig
 Ik werk graag op een ambachtelijke manier, maar vind het ook heerlijk om dat af te wisselen met fotografie. Voor het tekenen op papier maak ik graag gebruik van acrylverf, potloden en fineliners. De illustraties die ik met de hand maak scan ik in en bewerk ik daarna eventueel met Photoshop door er bijvoorbeeld digitaal in te tekenen. De illustraties die ik door middel van fotografie maak zijn zelfgemaakte 3D-sets of 2D-collages die ik weer fotografeer. Soms kies ik daar bewust voor, omdat je op die manier weer anders naar een beeld kijkt dan wanneer het getekend is. En het geeft ook meer een ruimtelijk effect.
 
 <div id="attachment_5220" style="width: 560px" class="wp-caption aligncenter">
-  <img class=" wp-image-5220  " title="Een kijkje in het leven van mevrouw Dongen, 3D illustratie van Anna Sikkes" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/mevrouw-Dongen-illustratie.jpg" alt="mevrouw-Dongen-illustratie" width="550" height="388" />
+  <img class=" wp-image-5220  " title="Een kijkje in het leven van mevrouw Dongen, 3D illustratie van Anna Sikkes" src="/wordpress/wp-content/uploads/2013/12/mevrouw-Dongen-illustratie.jpg" alt="mevrouw-Dongen-illustratie" width="550" height="388" />
   
   <p class="wp-caption-text">
     Dit is een voorbeeld van zo&#8217;n 3D-set die ik fotografeer. Dit was voor mijn eigen project &#8216;Een kijkje in het leven van mevrouw Dongen&#8217;. Deze foto hoort bij een fotoserie die samen een verhaal vormen over een vrouw en haar bijzondere vriendschap met een opblaaskrokodil.
@@ -56,7 +56,7 @@ Ik denk dat het wel degelijk meespeelt en belangrijk is dat illustratoren een ei
 Wanneer ikzelf naar een illustratie kijk, wil ik dat het beeld iets met mij doet. Het kan bijvoorbeeld een bepaald gevoel opwekken of je wordt erdoor aan het denken gezet. Hoe dan ook, een beeld moet je prikkelen. En of het nu alleen ter decoratie is of ter verduidelijking van een tekst/verhaal, het moet altijd iets uitlokken bij de toeschouwer. Het moet naast het inhoudelijke, ook vooral een aantrekkelijk geheel zijn om naar te kijken.
 
 <div id="attachment_5224" style="width: 360px" class="wp-caption alignleft">
-  <img class="size-full wp-image-5224" title="in eigen lud for Ferdinand, illustratie van Anna Sikkes" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/paard-boven-circus-illustratie.jpg" alt="paard-boven-circus-illustratie" width="350" height="423" />
+  <img class="size-full wp-image-5224" title="in eigen lud for Ferdinand, illustratie van Anna Sikkes" src="/wordpress/wp-content/uploads/2013/12/paard-boven-circus-illustratie.jpg" alt="paard-boven-circus-illustratie" width="350" height="423" />
   
   <p class="wp-caption-text">
     Dit is een van de illustraties die heb gemaakt bij drie verhalen voor een voorleesboek van uitgeverij Afûk. Het boek is in het Fries uitgegeven en heet: It grutte foarlêsboek.
@@ -91,7 +91,7 @@ Ik denk dat een frisse blik op de dingen om je heen een belangrijke vereiste is.
 Dat vind ik lastig te zeggen, omdat ik tot nu toe allemaal leuke opdrachten heb gekregen waarbij ik trots ben op het eindresultaat. Maar als ik toch een illustratie moet noemen is het de illustratie van een geit die ik heb gemaakt voor een dichtbundel.
 
 <div id="attachment_5221" style="width: 560px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-5221 " title="Geit, illustratie van Anna Sikkes voor een dichtbundel" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/geit-illustratie.jpg" alt="geit-illustratie" width="550" height="444" />
+  <img class="size-full wp-image-5221 " title="Geit, illustratie van Anna Sikkes voor een dichtbundel" src="/wordpress/wp-content/uploads/2013/12/geit-illustratie.jpg" alt="geit-illustratie" width="550" height="444" />
   
   <p class="wp-caption-text">
     Deze illustratie is gebruikt voor de dichtbundel een Gaatje in de wereld die de stichting Poëziepaleis heeft uitgebracht na aanleiding van de dichtwedstrijd Kinderen & Poëzie.
@@ -101,7 +101,7 @@ Dat vind ik lastig te zeggen, omdat ik tot nu toe allemaal leuke opdrachten heb 
 Die tekening heeft inmiddels vele fans gekregen. Die geit heb ik ook weer laten terugkomen in een poster voor een nieuwe dichtwedstrijd van diezelfde bundel.
 
 <div id="attachment_5222" style="width: 410px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-5222 " title="Poster kinderen & Poezie, ontwerp en illustratie Anna Sikkes" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/poster-dichtwedstrijd-kinderen-en-poezie.jpg" alt="poster-dichtwedstrijd-kinderen-en-poezie" width="400" height="562" />
+  <img class="size-full wp-image-5222 " title="Poster kinderen & Poezie, ontwerp en illustratie Anna Sikkes" src="/wordpress/wp-content/uploads/2013/12/poster-dichtwedstrijd-kinderen-en-poezie.jpg" alt="poster-dichtwedstrijd-kinderen-en-poezie" width="400" height="562" />
   
   <p class="wp-caption-text">
     Voor de nieuwe dichtwedstrijd &#8216;Kinderen en Poezie&#8217; heb ik ook de poster ontworpen. Hierbij heb ik twee karakters die in de bundel voorkomen terug laten komen op de posters.
@@ -124,7 +124,7 @@ Als kind las ik graag en met veel plezier boeken. Boeken die ik toen heel erg le
 Op dit moment ben ik bezig met mijn eigen project genaamd Dream City. Het is een serie die bestaat uit gelaagde tekeningen van melkpapier. De serie laat mijn droom-utopia zien. Ik was hiermee begonnen, omdat die gelaagdheid zorgt dat ik kan spelen met transparantie. Daardoor ontstaat er een geheel nieuwe werkelijkheid op zichzelf, zoals die van een droom. De illustraties heb ik hiervoor vrij intuïtief getekend, zodat mensen er zelf op los kunnen associëren en verbanden leggen met de wereld die ze voor zich zien. Het werk krijgt daardoor voor iedereen een eigen betekenis. Dit werk van mij kan je bewonderen en kopen tot 15 januari 2014 in galerie <a title="Blauwdruck 'Gemaakt in Zwolle' winkel en netwerkatelier" href="http://blauwdruck.nl/" target="_blank">Blauwdruck</a> in Zwolle.
 
 <div id="attachment_5290" style="width: 560px" class="wp-caption aligncenter">
-  <img class=" wp-image-5290" title="Dream City, tekening op melkpapier van Anna Sikkes" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/Dream-City.jpg" alt="Dream-City" width="550" height="478" />
+  <img class=" wp-image-5290" title="Dream City, tekening op melkpapier van Anna Sikkes" src="/wordpress/wp-content/uploads/2013/12/Dream-City.jpg" alt="Dream-City" width="550" height="478" />
   
   <p class="wp-caption-text">
     Dream City, tekening op melkpapier van Anna Sikkes
@@ -143,10 +143,10 @@ Dat ik mijn eigen prentenboeken uit mag brengen. Niet alleen in Nederland, maar 
 <a title="Anna Sikkes op LinkedIn" href="http://www.linkedin.com/pub/anna-sikkes/17/b83/a64" target="_blank">LinkedIn</a>  
 <a title="Weblog van illustrator Anna Sikkes" href="http://www.anna-sikkes.nl/blog/" target="_blank">Weblog</a> van Anna Sikkes
 
-*Lees ook de andere <a title="Interviews met illustratoren" href="http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
+*Lees ook de andere <a title="Interviews met illustratoren" href="/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
 
 <div id="attachment_5225" style="width: 560px" class="wp-caption alignleft">
-  <img class="size-full wp-image-5225  " title="Groep vogels vliegen, illustratie van Anna Sikkes" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/groep-vogels-vliegen-illustratie.jpg" alt="groep-vogels-vliegen-illustratie" width="550" height="412" />
+  <img class="size-full wp-image-5225  " title="Groep vogels vliegen, illustratie van Anna Sikkes" src="/wordpress/wp-content/uploads/2013/12/groep-vogels-vliegen-illustratie.jpg" alt="groep-vogels-vliegen-illustratie" width="550" height="412" />
   
   <p class="wp-caption-text">
     Dit is een spread uit het verhaal Steef dat ik zelf heb geschreven en geïllustreerd. Dit zijn grote collage-tekeningen die ik ook weer heb gefotografeerd. Het verhaal gaat over een eenzaam vogeltje die blauwe spullen verzamelt als hobby, maar geen vrienden heeft om het mee te delen. Totdat hij op een dag een blauwe walvis vindt en alles verandert.

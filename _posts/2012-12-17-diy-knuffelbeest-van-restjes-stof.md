@@ -22,7 +22,7 @@ tags:
 ** Goedkoop, makkelijk en erg leuk om te doen! Lees in deze tutorial hoe je dat doet.**
 
 <div id="attachment_3087" style="width: 440px" class="wp-caption alignright">
-  <img class=" wp-image-3087" title="handgemaakte knuffelbeesten van restjes stof" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/12/maak_zelf_knuffelbeest.jpg" alt="handgemaakte knuffelbeesten van restjes stof" width="430" height="430" />
+  <img class=" wp-image-3087" title="handgemaakte knuffelbeesten van restjes stof" src="/wordpress/wp-content/uploads/2012/12/maak_zelf_knuffelbeest.jpg" alt="handgemaakte knuffelbeesten van restjes stof" width="430" height="430" />
   
   <p class="wp-caption-text">
     Dit kun jij ook!

@@ -13,7 +13,7 @@ tags:
   - kerstkaarten versturen
   - wel geen kerstkaarten versturen
 ---
-**<img class="alignleft wp-image-4831 size-medium" title="6 goede redenen om kerstkaarten te versturen" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/dieren_kerst_collage_blauw-300x300.jpg" alt="Vrolijke kerstkaart met fotocollage dieren" width="300" height="300" />Het kost je tijd, energie en geld.**  
+**<img class="alignleft wp-image-4831 size-medium" title="6 goede redenen om kerstkaarten te versturen" src="/wordpress/wp-content/uploads/2013/11/dieren_kerst_collage_blauw-300x300.jpg" alt="Vrolijke kerstkaart met fotocollage dieren" width="300" height="300" />Het kost je tijd, energie en geld.**  
 ** Elk jaar weer.**  
 ** Kerstkaarten versturen bedoel ik.**  
 ** Doe jij het nog?**
@@ -34,6 +34,6 @@ Waarom ik dan nog steeds kerstkaarten stuur?
   * een moment van **bezinning**: wat waren de hoogtepunten en wat vergeet je liever meteen?
   * hoe meer **kerstkaarten** je verstuurt, hoe meer je er terug krijgt;)
 
-En, ga jij ze nog versturen dit jaar?[<img class="alignright wp-image-7346 " title="Bestel hier kerstkaarten" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/12/banner2_kerstkaarten.jpg" alt="banner kerstkaarten de Schildertuin" width="186" height="298" />][1]
+En, ga jij ze nog versturen dit jaar?[<img class="alignright wp-image-7346 " title="Bestel hier kerstkaarten" src="/wordpress/wp-content/uploads/2014/12/banner2_kerstkaarten.jpg" alt="banner kerstkaarten de Schildertuin" width="186" height="298" />][1]
 
  [1]: https://www.kaartje2go.nl/kaartencollecties/december-cards?sk_id=48

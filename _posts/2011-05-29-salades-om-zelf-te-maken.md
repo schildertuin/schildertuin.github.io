@@ -13,7 +13,7 @@ tags:
   - salade zelf maken
   - salades
 ---
-<img class="alignleft size-thumbnail wp-image-1806" title="keukengerei" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/05/keukengerei-108x150.gif" alt="illustratie keukengerei" width="108" height="150" />Salades, ik kan er geen genoeg van krijgen. Salade is gezond, lekker en er zijn oneindig veel variaties te bedenken. Ik vind het niet alleen heerlijk om ze te eten, maar ik geniet ook van het zelf bereiden van een salade.<!--more Tips om salades te maken->-->
+<img class="alignleft size-thumbnail wp-image-1806" title="keukengerei" src="/wordpress/wp-content/uploads/2011/05/keukengerei-108x150.gif" alt="illustratie keukengerei" width="108" height="150" />Salades, ik kan er geen genoeg van krijgen. Salade is gezond, lekker en er zijn oneindig veel variaties te bedenken. Ik vind het niet alleen heerlijk om ze te eten, maar ik geniet ook van het zelf bereiden van een salade.<!--more Tips om salades te maken->-->
 
 ## Salades in restaurants
 
@@ -27,7 +27,7 @@ Deze week vond ik een heel informatief filmpje over salades op de website van tv
 
 Ingrediënten salade:
 
-  * rucola sla<img class="alignright size-medium wp-image-1818" title="keukengerei" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/05/keukengerei-216x300.jpg" alt="keukengerei illustratie" width="216" height="300" />
+  * rucola sla<img class="alignright size-medium wp-image-1818" title="keukengerei" src="/wordpress/wp-content/uploads/2011/05/keukengerei-216x300.jpg" alt="keukengerei illustratie" width="216" height="300" />
   * verse koriander (alleen de blaadjes gebruiken)
   * cherry tomaatjes (door de helft snijden)
   * appel (in blokjes snijden)

@@ -22,7 +22,7 @@ tags:
   - naamsbekendheid
   - project illustratie
 ---
-**<img class=" wp-image-4143 alignright" title="gezocht: illustratoren voor interview serie" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/09/illustratie_televisie.jpg" alt="illustratie fotocollage televisie " width="315" height="346" />**Op 10 september 2013 plaatste ik een oproep op deze plek:** Gezocht: illustratoren voor nieuwe rubriek met interviews.  
+**<img class=" wp-image-4143 alignright" title="gezocht: illustratoren voor interview serie" src="/wordpress/wp-content/uploads/2013/09/illustratie_televisie.jpg" alt="illustratie fotocollage televisie " width="315" height="346" />**Op 10 september 2013 plaatste ik een oproep op deze plek:** Gezocht: illustratoren voor nieuwe rubriek met interviews.  
 **
 
 Ik kreeg veel reacties op mijn oproep. Studenten illustratie, beginnende illustratoren, autodidacten en ervaren illustratoren reageerden. De serie interviews liep van oktober 2013 tot maart 2014. **Aanmelden is niet meer mogelijk!**
@@ -35,4 +35,4 @@ Het is een [serie interviews][1] vol inspiratie, creativiteit en passie voor het
 Als beginnend illustrator weet ik hoe lastig het is om naamsbekendheid te krijgen en opdrachten binnen te halen. Met dit project wilde ik illustratoren een plek bieden om hun werk op een speelse manier onder de aandacht van het publiek te brengen.  
 Daarnaast startte ik dit project om inzicht te krijgen in de voor mij nieuwe wereld van illustratoren, een vorm van marktonderzoek.
 
- [1]: http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/ "Interviews met illustratoren"
+ [1]: /wordpress/interviews-met-illustratoren/ "Interviews met illustratoren"

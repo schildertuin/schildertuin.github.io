@@ -12,7 +12,7 @@ tags:
   - teken na
   - tekenstijl
 ---
-<img class="alignleft size-thumbnail wp-image-747" title="School, pentekening" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/09/schoollt-150x108.jpg" alt="pentekening van een school" width="150" height="108" />**De kennis en ervaring van professionele illustratoren en kunstenaars kun je gebruiken om zelf (beter) te leren tekenen. Hoe je dat doet?**  
+<img class="alignleft size-thumbnail wp-image-747" title="School, pentekening" src="/wordpress/wp-content/uploads/2010/09/schoollt-150x108.jpg" alt="pentekening van een school" width="150" height="108" />**De kennis en ervaring van professionele illustratoren en kunstenaars kun je gebruiken om zelf (beter) te leren tekenen. Hoe je dat doet?**  
 Verdiep je eens in een tekenstijl die jou persoonlijk erg aanspreekt. Als voorbeeld kun je een prentenboek nemen of een kinderboek met veel illustraties erin. Bekijk eerst eens op je gemak de illustraties.  
 Let daarbij op compositie, materiaalgebruik, lijnvoering, kleurenpalet, enzovoort.
 
@@ -23,7 +23,7 @@ Om te beginnen teken je een relatief eenvoudige illustratie uit het boek na. Doe
 
 Probeer een aantal illustraties na te tekenen tot je het gevoel hebt dat je in de huid bent gekropen van de illustrator.
 
-<img class="aligncenter size-full wp-image-747" title="School, pentekening" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/09/schoollt.jpg" alt="pentekening van een school" width="400" height="290" />
+<img class="aligncenter size-full wp-image-747" title="School, pentekening" src="/wordpress/wp-content/uploads/2010/09/schoollt.jpg" alt="pentekening van een school" width="400" height="290" />
 
 *Deze tekening bedacht ik zelf en heb ik getekend in de stijl van schrijfster/illustrator <a title="afbeeldingen van Joan Walsh Anglund" href="http://www.google.nl/images?hl=nl&q=joan+walsh+anglund&um=1&ie=UTF-8&source=univ&ei=m4SGTMvVCYveOIOc1fYB&sa=X&oi=image_result_group&ct=title&resnum=4&ved=0CDoQsAQwAw&biw=1280&bih=601" target="_blank">Joan Walsh Anglund</a>. *
 

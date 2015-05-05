@@ -22,7 +22,7 @@ tags:
   - wenskaarten
 ---
 <p style="text-align: left;">
-  <a href="http://www.schildertuin.nl/wordpress/2011/05/bijzondere-wenskaarten/"><img class="alignleft size-thumbnail wp-image-1487" title="koeienkaart" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/01/koeienkaart-150x150.jpg" alt="afbeelding van een koeienkaart" width="150" height="150" /></a>De Schildertuin heeft een eigen <a title="verjaardagskaarten, geboortekaarten, kunstkaarten, rouwkaarten, fotokaarten, trouwkaarten" href="http://kaarten.schildertuin.nl/" target="_blank">kaartenshop</a>. Je kunt hier kaarten bestellen, kaarten aanpassen of zelfs je eigen kaartontwerpen uploaden en bestellen. <!--more Lees meer over de wenskaarten->-->
+  <a href="/wordpress/2011/05/bijzondere-wenskaarten/"><img class="alignleft size-thumbnail wp-image-1487" title="koeienkaart" src="/wordpress/wp-content/uploads/2011/01/koeienkaart-150x150.jpg" alt="afbeelding van een koeienkaart" width="150" height="150" /></a>De Schildertuin heeft een eigen <a title="verjaardagskaarten, geboortekaarten, kunstkaarten, rouwkaarten, fotokaarten, trouwkaarten" href="http://kaarten.schildertuin.nl/" target="_blank">kaartenshop</a>. Je kunt hier kaarten bestellen, kaarten aanpassen of zelfs je eigen kaartontwerpen uploaden en bestellen. <!--more Lees meer over de wenskaarten->-->
 </p>
 
 <p style="text-align: left;">
@@ -48,7 +48,7 @@ tags:
 <h3 style="text-align: left;">
   <p>
     <div id="attachment_1488" style="width: 460px" class="wp-caption aligncenter">
-      <a href="http://kaarten.schildertuin.nl/"><img class="size-full wp-image-1488" title="kaartenshop van de Schildertuin" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/01/sendasmile.jpg" alt="fotocollage met wenskaarten van de Schildertuin" width="450" height="450" /></a>
+      <a href="http://kaarten.schildertuin.nl/"><img class="size-full wp-image-1488" title="kaartenshop van de Schildertuin" src="/wordpress/wp-content/uploads/2011/01/sendasmile.jpg" alt="fotocollage met wenskaarten van de Schildertuin" width="450" height="450" /></a>
       
       <p class="wp-caption-text">
         Klik op de afbeelding en bezoek de kaartenshop

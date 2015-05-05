@@ -11,11 +11,11 @@ tags:
   - Hulya Erdem
   - kunstenaar
 ---
-<img class="alignleft size-thumbnail wp-image-1871" title="portret geschilderd door Hulya" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/06/schilderij-van-Hulya-150x115.jpg" alt="portret geschilderd door Hulya" width="150" height="115" />De eerste kunstenaar die meedoet aan de rubriek &#8220;Schilderij in beeld&#8221; is Hulya Erdem. De Schildertuin heeft Hulya een aantal vragen gesteld, benieuwd naar haar antwoorden? <!--more Lees het interview->-->
+<img class="alignleft size-thumbnail wp-image-1871" title="portret geschilderd door Hulya" src="/wordpress/wp-content/uploads/2011/06/schilderij-van-Hulya-150x115.jpg" alt="portret geschilderd door Hulya" width="150" height="115" />De eerste kunstenaar die meedoet aan de rubriek &#8220;Schilderij in beeld&#8221; is Hulya Erdem. De Schildertuin heeft Hulya een aantal vragen gesteld, benieuwd naar haar antwoorden? <!--more Lees het interview->-->
 
 Hulya stuurde een foto in van een door haar geschilderd portret:
 
-<img class="aligncenter size-full wp-image-1871" title="portret geschilderd door Hulya" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/06/schilderij-van-Hulya.jpg" alt="portret geschilderd door Hulya" width="450" height="346" />
+<img class="aligncenter size-full wp-image-1871" title="portret geschilderd door Hulya" src="/wordpress/wp-content/uploads/2011/06/schilderij-van-Hulya.jpg" alt="portret geschilderd door Hulya" width="450" height="346" />
 
 **1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo? **  
 Ik ben ongeveer 9 jaar geleden begonnen met diverse hobby&#8217;s o.a. knutselen en schilderen. Eerst beschilderde ik objecten, daarna ben ik ook gaan schilderen met acrylverf op doek.

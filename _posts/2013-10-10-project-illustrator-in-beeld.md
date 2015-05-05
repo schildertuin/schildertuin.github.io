@@ -21,7 +21,7 @@ tags:
 </h2>
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-4484 aligncenter" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/uilen_illustratie.gif" alt="uilen illustratie" width="403" height="403" />
+  <img class="size-full wp-image-4484 aligncenter" src="/wordpress/wp-content/uploads/2013/10/uilen_illustratie.gif" alt="uilen illustratie" width="403" height="403" />
 </p>
 
 **Op een dag kreeg ik opeens een idee: elke week een interview met een illustrator op mijn weblog. Een idee is leuk, maar is het ook haalbaar?**

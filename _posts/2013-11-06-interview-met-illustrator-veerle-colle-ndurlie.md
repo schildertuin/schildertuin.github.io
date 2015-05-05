@@ -22,7 +22,7 @@ tags:
 illustraties: Veerle Colle*
 
 <div id="attachment_4796" style="width: 310px" class="wp-caption alignleft">
-  <img class="size-full wp-image-4796" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/zelfportret_Veerle_Colle.jpg" alt="Getekend zelfportret door nDurlie" width="300" height="425" />
+  <img class="size-full wp-image-4796" src="/wordpress/wp-content/uploads/2013/11/zelfportret_Veerle_Colle.jpg" alt="Getekend zelfportret door nDurlie" width="300" height="425" />
   
   <p class="wp-caption-text">
     Getekend zelfportret door nDurlie
@@ -50,7 +50,7 @@ Strips over mijn leven zijn vrij cartoon-gewijs, maar vaak teken ik ook juist he
 Ik weet dat je een soort herkenbaarheid moet hebben en deze heb ik erg lang gezocht. Het was voor mij moeilijk om een personage 2x te tekenen&#8230;tot ik begon met strips over mijn eigen leven te tekenen. Mijn stijl was gezet en ik kon eindelijk mijn personages blijven herkennen. Die stijl die het meeste herkenbaar is, is duidelijk ook het populairste bij het publiek. Mijn Fantasy Art moet nog vele stadia&#8217;s doorlopen, denk ik.
 
 <div id="attachment_4792" style="width: 560px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-4792 " title="stripverhaal van nDurlie" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/nieuwste_werk_nDurlie.jpg" alt="stripverhaal van nDurlie" width="550" height="571" />
+  <img class="size-full wp-image-4792 " title="stripverhaal van nDurlie" src="/wordpress/wp-content/uploads/2013/11/nieuwste_werk_nDurlie.jpg" alt="stripverhaal van nDurlie" width="550" height="571" />
   
   <p class="wp-caption-text">
     stripverhaal van nDurlie
@@ -75,7 +75,7 @@ Momenteel door mond-tot-mond reclame en via mijn Facebook page.  Ik probeer ook
 Op <a title="Facebook pagina van Veerle Colle, alias nDurlie" href="http://facebook.com/nDurliepage" target="_blank">Facebook</a> en op <a title="nDurlie op Twitter" href="http://twitter.com/nDurlie" target="_blank">Twitter</a> .  Op mijn FB pagina post ik elke week enkele stripjes over mezelf die echt gebeuren, het is een soort blog die heel wat mensen volgen. Soms word ik op feestjes herkent als &#8216;die van de stripjes&#8217;, wat ik erg leuk vind. Naast de stripjes ben ik elke maand iemand van de &#8216;fans&#8217; (personen die de page liken/leuk vinden) gaan tekenen. Als een soort bedanking voor al hun steun.
 
 <div id="attachment_4795" style="width: 560px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-4795 " title="Vriendengroep, illustratie van nDurlie" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/vriendengroep_ndurlie.jpg" alt="Vriendengroep, illustratie van nDurlie" width="550" height="390" />
+  <img class="size-full wp-image-4795 " title="Vriendengroep, illustratie van nDurlie" src="/wordpress/wp-content/uploads/2013/11/vriendengroep_ndurlie.jpg" alt="Vriendengroep, illustratie van nDurlie" width="550" height="390" />
   
   <p class="wp-caption-text">
     Vriendengroep, illustratie van nDurlie
@@ -94,7 +94,7 @@ Je moet je eigen stijl kunnen verwerken in de ideeën van een ander. Je moet je 
 **Op welke illustratie ben je zelf het meest trots en waarom?**
 
 <div id="attachment_4794" style="width: 310px" class="wp-caption alignright">
-  <img class="size-full wp-image-4794  " title="'The shadow of evil', illustratie van nDurlie" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/the_shadow_of_evil_by_ndurlie.jpg" alt="'The shadow of evil', illustratie van nDurlie" width="300" height="380" />
+  <img class="size-full wp-image-4794  " title="'The shadow of evil', illustratie van nDurlie" src="/wordpress/wp-content/uploads/2013/11/the_shadow_of_evil_by_ndurlie.jpg" alt="'The shadow of evil', illustratie van nDurlie" width="300" height="380" />
   
   <p class="wp-caption-text">
     &#8216;The shadow of evil&#8217;, illustratie van nDurlie
@@ -131,7 +131,7 @@ Daarom laat ik denk ik overal waar ik kom ook een tekening achter. Zo weten ze: 
 Ik wil een fantasy stripreeks maken die dan verfilmd wordt. Dat is nu eens écht mijn droom. Al ga ik al blij zijn als ik mijn stripje in de FNAC zie liggen.
 
 <div id="attachment_4793" style="width: 560px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-4793 " title="'Superheroes', illustraties van nDurlie" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/superheroes_ndurlie.jpg" alt="'Superheroes', illustraties van nDurlie" width="550" height="192" />
+  <img class="size-full wp-image-4793 " title="'Superheroes', illustraties van nDurlie" src="/wordpress/wp-content/uploads/2013/11/superheroes_ndurlie.jpg" alt="'Superheroes', illustraties van nDurlie" width="550" height="192" />
   
   <p class="wp-caption-text">
     &#8216;Superheroes&#8217;, illustraties van nDurlie
@@ -142,10 +142,10 @@ Ik wil een fantasy stripreeks maken die dan verfilmd wordt. Dat is nu eens écht
 <a title="Facebook pagina van Veerle Colle, alias nDurlie" href="http://facebook.com/nDurliepage " target="_blank">nDurlie’s Facebook page</a>: http://facebook.com/nDurliepage  
 <a title="nDurlies Art op deviantART" href="http://ndurlie.deviantart.com/" target="_blank">Deviant ART</a> voor de meer volwassen art.
 
-*Lees ook de andere <a title="Interviews met illustratoren" href="http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
+*Lees ook de andere <a title="Interviews met illustratoren" href="/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
 
 <div id="attachment_4791" style="width: 360px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-4791 " title="Hurt, illustratie van nDurlie" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/hurt_by_ndurlie.jpg" alt="Hurt, illustratie van nDurlie" width="350" height="496" />
+  <img class="size-full wp-image-4791 " title="Hurt, illustratie van nDurlie" src="/wordpress/wp-content/uploads/2013/11/hurt_by_ndurlie.jpg" alt="Hurt, illustratie van nDurlie" width="350" height="496" />
   
   <p class="wp-caption-text">
     Hurt, illustratie van nDurlie

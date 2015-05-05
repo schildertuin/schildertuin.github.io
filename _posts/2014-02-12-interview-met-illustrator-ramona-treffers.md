@@ -24,7 +24,7 @@ tags:
 *tekst: Hilde Reurink*  
 * illustraties:* *Ramona Treffers*
 
-**<img class="alignleft size-full wp-image-5726" title="foto van illustrator Ramona Treffers" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/foto-Ramona-Treffers.jpg" alt="foto van illustrator Ramona Treffers" width="350" height="427" />Hallo Ramona, vertel eens iets over jezelf.**  
+**<img class="alignleft size-full wp-image-5726" title="foto van illustrator Ramona Treffers" src="/wordpress/wp-content/uploads/2014/02/foto-Ramona-Treffers.jpg" alt="foto van illustrator Ramona Treffers" width="350" height="427" />Hallo Ramona, vertel eens iets over jezelf.**  
 Mijn naam is Ramona en ik ben 23 jaar. Ik woon en werk in Almkerk, Noord-Brabant, waar ik vanuit huis als freelancer werk aan opdrachten en eigen werk. Ik houd heel erg van reizen en samen met mijn vriend, die ook illustrator is, ga ik regelmatig op reis of de natuur in om inspiratie op te doen voor nieuwe illustraties.
 
 **Wanneer besloot je illustrator te worden?<!--more-->**
@@ -38,7 +38,7 @@ Ik werk zowel traditioneel als digitaal. Als ik traditioneel werk ga ik meestal 
 **Hoe zou je jouw stijl van illustreren omschrijven?**  
 Mijn illustraties zijn vaak magische, sprookjesachtige en dromerige beelden. Ik houd heel erg van sferische beelden die een verhaal vertellen en die de kijker meenemen in mijn eigen (romantische) wereld.
 
-**<img class="alignright  wp-image-5737" title="Lost in a magical forest, illustratie van Ramona Treffers" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/Lost-in-a-magical-forest.jpg" alt="Lost in a magical forest, illustratie van Ramona Treffers" width="400" height="411" />Je hoort vaak dat een illustrator een eigen handschrift moet hebben, heb jij die? En zo ja, is het een voordeel of juist een nadeel om een herkenbare tekenstijl te hebben?**  
+**<img class="alignright  wp-image-5737" title="Lost in a magical forest, illustratie van Ramona Treffers" src="/wordpress/wp-content/uploads/2014/02/Lost-in-a-magical-forest.jpg" alt="Lost in a magical forest, illustratie van Ramona Treffers" width="400" height="411" />Je hoort vaak dat een illustrator een eigen handschrift moet hebben, heb jij die? En zo ja, is het een voordeel of juist een nadeel om een herkenbare tekenstijl te hebben?**  
 Zelf heb ik wel een herkenbare stijl. Maar ik kan me ook goed aanpassen aan een andere gewenste stijl. Ik denk dat een eigen handschrift zowel voor- als nadelen heeft. Met een eigen stijl herkennen mensen je en creëer je een eigen identiteit als artiest. Maar aan de andere kant belicht je zo maar één kant en kun je aan een bepaalde stijl gaan vastzitten.
 
 **Wat is volgens jou de functie van een illustratie?**  
@@ -56,7 +56,7 @@ Ik vind het leuk om aan allerlei opdrachten te werken. Van elke soort opdracht s
 **Werk je ook samen met auteurs? Zo ja, hoe verloopt zoʼn samenwerking dan?**  
 Momenteel werk ik samen met een schrijfster uit de VS aan een kinderboek. Zij heeft mij zelf benaderd en vroeg of ik de illustraties van haar nieuwe kinderboek wilde maken. Zij woont natuurlijk een eind hiervandaan en daarom verloopt onze communicatie via e-mail. Zoiets is natuurlijk altijd heel spannend en goede afspraken zijn dan erg belangrijk.
 
-**<img class="alignleft size-full wp-image-5733" title="Liz, illustratie van Ramona Treffers voor een kinderboek" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/Liz.jpg" alt="Liz, illustratie van Ramona Treffers voor een kinderboek" width="400" height="405" />Hoe kom je aan nieuwe opdrachten?**  
+**<img class="alignleft size-full wp-image-5733" title="Liz, illustratie van Ramona Treffers voor een kinderboek" src="/wordpress/wp-content/uploads/2014/02/Liz.jpg" alt="Liz, illustratie van Ramona Treffers voor een kinderboek" width="400" height="405" />Hoe kom je aan nieuwe opdrachten?**  
 Het werven van opdrachten is erg lastig. Zelf ben ik ook nog startende en probeer ik via internet en social media meer naamsbekendheid te krijgen. Ik reageer zelf op diverse oproepen. Daarnaast houd ik exposities, doe mee aan wedstrijden en bezoek ik netwerkbijeenkomsten. Ook heb ik een eigen website, laat ik visitekaartjes achter en verspreid flyers.
 
 &nbsp;
@@ -80,7 +80,7 @@ Passie en plezier hebben in je werk vind ik twee van de belangrijkste eigenschap
 Dat is een lastige vraag! Ik denk dat ik ga voor deze illustratiepagina die ik tijdens mijn afstuderen heb gemaakt. Voor mijn afstudeerproject heb ik toen een boek gemaakt dat is gebaseerd op het verhaal uit Slavomir Rawicz’ boek The Long Walk. Het is een beeldverhaal van 36 pagina’s geworden en elke illustratie is handgeschilderd. Het heeft wat bloed, zweet en tranen gekost maar ik heb het uiteindelijk op tijd afgekregen. Dan ben je toch best wel trots dat het gewoon gelukt is! Met deze pagina was ik het meest tevreden.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5731" title="De Weg Terug, illustratie van Ramona Treffers" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/Meest-trots-op.jpg" alt="De Weg Terug, illustratie van Ramona Treffers" width="550" height="196" />
+  <img class="aligncenter size-full wp-image-5731" title="De Weg Terug, illustratie van Ramona Treffers" src="/wordpress/wp-content/uploads/2014/02/Meest-trots-op.jpg" alt="De Weg Terug, illustratie van Ramona Treffers" width="550" height="196" />
 </p>
 
 **Welke andere illustratoren bewonder je?**  
@@ -96,7 +96,7 @@ Als kind las ik graag sprookjesboeken, stripverhalen als Donald Duck en de hele 
 Momenteel ben ik bezig met een opdracht waarbij ik een kinderboek mag illustreren. Ook ben ik bezig met het voorbereiden van werk voor een nieuwe expositie en kunstroute. Overige tijd besteed ik voornamelijk aan mijn eigen projecten, waaronder <a title="Bamboo & Kota illustraties van Ramona Treffers" href="http://www.behance.net/gallery/The-Adventures-of-Bamboo-Kota/12332891" target="_blank">The Adventures of Bamboo & Kota</a>.
 
 <p style="text-align: center;">
-  <img class="aligncenter  wp-image-5729" title="The Adventures of Bamboo & Kota, illustratie van Ramona Treffers" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/olifant-in-sneeuw.jpg" alt="The Adventures of Bamboo & Kota, illustratie van Ramona Treffers" width="550" height="424" />
+  <img class="aligncenter  wp-image-5729" title="The Adventures of Bamboo & Kota, illustratie van Ramona Treffers" src="/wordpress/wp-content/uploads/2014/02/olifant-in-sneeuw.jpg" alt="The Adventures of Bamboo & Kota, illustratie van Ramona Treffers" width="550" height="424" />
 </p>
 
 **Heb je een tip voor mensen die ook graag illustrator willen worden?**  
@@ -109,8 +109,8 @@ Ik zou het fantastisch vinden om later een eigen studio te hebben van waaruit ik
 Op mijn eigen website: <a title="website van illustrator Ramona Treffers" href="http://www.ramonatreffers.com/" target="_blank">www.ramonatreffers.com</a>, op <a title="Ramona Treffers op Tumblr" href="http://ramonatreffers.tumblr.com/" target="_blank">Tumblr</a>, op <a title="Ramona Treffers op DeviantArt" href="http://ramona19.deviantart.com/" target="_blank">DeviantArt</a>  
 en ik heb een <a title="webshop van Ramona Treffers" href="http://society6.com/ramonatreffers" target="_blank">webshop</a>.
 
-*Lees ook de andere <a title="Interviews met illustratoren" href="http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
+*Lees ook de andere <a title="Interviews met illustratoren" href="/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5735" title="The Adventures of Bamboo & Kota, illustratie van Ramona Treffers" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/The-Adventures-of-Bamboo-Kota.jpg" alt="The Adventures of Bamboo & Kota, illustratie van Ramona Treffers" width="550" height="297" />
+  <img class="aligncenter size-full wp-image-5735" title="The Adventures of Bamboo & Kota, illustratie van Ramona Treffers" src="/wordpress/wp-content/uploads/2014/02/The-Adventures-of-Bamboo-Kota.jpg" alt="The Adventures of Bamboo & Kota, illustratie van Ramona Treffers" width="550" height="297" />
 </p>

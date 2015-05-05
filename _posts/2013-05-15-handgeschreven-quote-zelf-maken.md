@@ -16,7 +16,7 @@ tags:
 Handgeschreven quotes, ben jij ze al tegen gekomen?  
 Ze zijn momenteel helemaal hip.  
 Vanmorgen heb ik er zelf één gemaakt en het was helemaal niet zo moeilijk.  
-Dit is het resultaat: <img class="aligncenter size-full wp-image-3710" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/05/quote1.jpg" alt="handgeschreven quote" width="400" height="529" />
+Dit is het resultaat: <img class="aligncenter size-full wp-image-3710" src="/wordpress/wp-content/uploads/2013/05/quote1.jpg" alt="handgeschreven quote" width="400" height="529" />
 
 Zin om zelf een mooie quote te maken? Dit heb je ervoor nodig:
 

@@ -13,7 +13,7 @@ tags:
 ---
 **Voor Patjila (Annet Visser) is creatief bezig zijn een vanzelfsprekendheid. Ze schildert al zolang ze het zich kan herinneren. Van Patjila ontving ik een foto van een schilderij gemaakt met Encaustic Art, een eeuwenoude schilderkunst. Met deze techniek maakte zij een prachtig mystiek schilderij.**
 
-Bekijk het schilderij van Patjila en lees haar verhaal. [<img class="aligncenter size-full wp-image-2478" title="Encaustic Art schilderij van Patjila" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/03/schilderij-van-Patjila.jpg" alt="Encaustic Art schilderij van Patjila" width="450" height="751" />][1]
+Bekijk het schilderij van Patjila en lees haar verhaal. [<img class="aligncenter size-full wp-image-2478" title="Encaustic Art schilderij van Patjila" src="/wordpress/wp-content/uploads/2012/03/schilderij-van-Patjila.jpg" alt="Encaustic Art schilderij van Patjila" width="450" height="751" />][1]
 
 **1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo?**  
 Vanaf jongs af aan al, ik weet niet beter&#8230;. hoe dat kwam? Geen idee, het hoort gewoon bij me.
@@ -40,4 +40,4 @@ Ga gewoon lekker bezig, grenzeloos, het materiaal is geduldig.
 
 *De Schildertuin bedankt Patjila voor haar inzending.*
 
- [1]: http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/03/schilderij-van-Patjila.jpg
+ [1]: /wordpress/wp-content/uploads/2012/03/schilderij-van-Patjila.jpg

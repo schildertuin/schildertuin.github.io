@@ -19,9 +19,9 @@ tags:
   - zelfstandig ondernemers
 ---
 **Als zelfstandig ondernemer kun je nieuwe opdrachten binnenhalen door te netwerken.**  
-** Klinkt mooi, maar werkt dat echt zo?**  
-** Ja! tenminste, volgens alle marketingboeken die ik lees;). Netwerken zou je écht verder helpen.**  
-** Mmm…van het woord netwerken alleen al kreeg ik koudwatervrees, moest ik dat écht gaan doen???**
+**Klinkt mooi, maar werkt dat echt zo?**  
+**Ja! tenminste, volgens alle marketingboeken die ik lees;). Netwerken zou je écht verder helpen.**  
+**Mmm…van het woord netwerken alleen al kreeg ik koudwatervrees, moest ik dat écht gaan doen???**
 
 ## Opdrachten via netwerken?
 
@@ -32,7 +32,7 @@ Eenmaal binnen bleek mijn angst ongegrond. Ik raakte bij de koffiebar al snel aa
 Inmiddels heb ik 3 verschillende netwerkclubs in Zwolle bezocht: Open Coffee, Business Moms en Bites & Business.  
 En ik heb inderdaad een aantal opdrachten via mijn netwerk gekregen!
 
-## <img class="aligncenter wp-image-6932 size-full" title="netwerken voor ondernemers in Zwolle, illustratie Hilde Reurink" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/08/netwerken.jpg" alt="netwerken voor ondernemers in Zwolle, illustratie Hilde Reurink" width="400" height="400" />
+## <img class="aligncenter wp-image-6932 size-full" title="netwerken voor ondernemers in Zwolle, illustratie Hilde Reurink" src="/wordpress/wp-content/uploads/2014/08/netwerken.jpg" alt="netwerken voor ondernemers in Zwolle, illustratie Hilde Reurink" width="400" height="400" />
 
 ## Open Coffee Zwolle
 
@@ -43,8 +43,6 @@ Elke bijeenkomst start om 9.00 uur met een presentatie van een ondernemer, dat d
 Er komen ondernemers uit allerlei sectoren naar de bijeenkomsten. De keren dat ik er ben geweest zag ik telkens veel nieuwe mensen. De sfeer is gezellig, open en laagdrempelig.  
 <span style="text-decoration: underline;"><strong>Lid worden?</strong></span> Meld je aan via de <a title="info lid worden Open Coffee Zwolle" href="http://www.opencoffeezwolle.nl/lid-worden/" target="_blank">website</a> en/of word lid van de groep Open Coffee Zwolle op <a title="groep Open Coffee Zwolle op LinkedIn" href="http://www.linkedin.com/groups/Open-Coffee-Zwolle-1848638?gid=1848638" target="_blank">LinkedIn</a>.  
 <span style="text-decoration: underline;"><strong>Kosten?</strong></span> Bijna gratis, je betaalt alleen je eigen koffie/thee.
-
-## 
 
 ## Business Moms Overijssel
 
@@ -59,8 +57,6 @@ Leuke, inspirerende sfeer.
 <span style="text-decoration: underline;"><strong>Lid worden?</strong></span> Je mag 2x vrijblijvend een netwerkbijeenkomst bezoeken, daarna besluit je of je wel/geen lid wilt worden.  
 <span style="text-decoration: underline;"><strong>Kosten?</strong></span> De eerste 2x betaal je slechts 5 euro als vergoeding voor de koffie/thee. Het <a title="aanmeldformulier Business Moms" href="http://www.businessmoms.nl/aanmeldformulier" target="_blank">lidmaatschap</a> kost 25 euro per jaar (exclusief BTW).
 
-## 
-
 ## Bites & Business Zwolle
 
 <span style="text-decoration: underline;"><strong>Wat?</strong></span> <a title="website Bites & Business Zwolle" href="http://www.bitesenbusiness.nl/locaties/zwolle" target="_blank">Bites & Business Zwolle</a> organiseert zakelijke netwerkdiners voor ondernemende vrouwen. Zowel zelfstandig ondernemers als vrouwen in loondienst zijn welkom. In een informele setting kun je lekker eten, drinken en praten met andere vrouwen.  
@@ -72,4 +68,4 @@ Ik vond de enveloppenmethode erg leuk en nuttig. Ook positief was de stoelwissel
 <span style="text-decoration: underline;"><strong>Lid worden?</strong></span> Je mag 1x vrijblijvend meedoen aan een netwerkdiner, je betaalt dan alleen de kosten voor het diner. Als je vaker wilt komen dien je lid te worden.  
 <span style="text-decoration: underline;"><strong>Kosten?</strong></span> De kosten voor elk diner bedragen zo’n 35 tot 40 euro exclusief BTW. Het lidmaatschap kost 50 euro (excl. BTW).
 
-<img class="aligncenter wp-image-6937 size-full" title="netwerken voor ondernemers in Zwolle, metrokaart illustratie Hilde Reurink" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/08/metrokaart_netwerken.jpg" alt="netwerken voor ondernemers in Zwolle, metrokaart illustratie Hilde Reurink" width="550" height="318" />
+<img class="aligncenter wp-image-6937 size-full" title="netwerken voor ondernemers in Zwolle, metrokaart illustratie Hilde Reurink" src="/wordpress/wp-content/uploads/2014/08/metrokaart_netwerken.jpg" alt="netwerken voor ondernemers in Zwolle, metrokaart illustratie Hilde Reurink" width="550" height="318" />

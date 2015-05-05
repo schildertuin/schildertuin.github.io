@@ -19,7 +19,7 @@ tags:
 *tekst: Hilde Reurink*  
 *illustraties: Anke Nobel*
 
-**<span style="color: #000000;">Hallo Anke, vertel eens iets over jezelf.</span>**<img class="size-full wp-image-4191 alignright" alt="Anke Nobel portretfoto" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/Anke-Nobel-portretfoto.jpg" width="250" height="280" />  
+**<span style="color: #000000;">Hallo Anke, vertel eens iets over jezelf.</span>**<img class="size-full wp-image-4191 alignright" alt="Anke Nobel portretfoto" src="/wordpress/wp-content/uploads/2013/10/Anke-Nobel-portretfoto.jpg" width="250" height="280" />  
 Ik ben 58 en al 35 jaar actief als zelfstandig illustrator. Voor mij is dit nog steeds het leukste vak dat er bestaat. Ik beschouw het vooral als een ambacht waarvoor vakmanschap, creativiteit en voortdurende inzet (of nieuwsgierigheid?) de belangrijkste vereisten zijn.  
 Ik woon en werk, samen met mijn partner (grafisch vormgever), in Lelystad. In mijn vrije tijd speel ik met veel plezier percussie in het Amsterdamse straatorkest &#8216;<a title="straatorkest met wereldmuziek-repertoire" href="http://www.toeters-en-bellen.nl" target="_blank">Toeters en Bellen</a>’ en ga ik graag naar jazzconcerten. Verder wandel en fotografeer ik graag in de natuur, zoals bijvoorbeeld de Oostvaardersplassen waar we vlakbij wonen.<!--more-->
 
@@ -36,7 +36,7 @@ Vaak begin ik gewoon met een potlood (altijd een vulpotlood met zo&#8217;n mooi 
 Je zou mijn manier van illustreren kunnen omschrijven als helder, functioneel, informatief. In de loop der jaren ben ik me steeds meer gaan toeleggen op het maken van <a title="lees meer over infographics op Wikipedia" href="http://nl.wikipedia.org/wiki/Infographic" target="_blank">infographics</a>. Dat ligt me goed en ik vind het een boeiende uitdaging om informatie op een duidelijke en aantrekkelijke manier over te brengen.
 
 <div id="attachment_4208" style="width: 560px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-4208" alt="H-Link35 vergassingsinstallatie illustratie van Anke Nobel" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/H-Link35_vergassingsinstallatie_AnkeNobel.jpg" width="550" height="420" />
+  <img class="size-full wp-image-4208" alt="H-Link35 vergassingsinstallatie illustratie van Anke Nobel" src="/wordpress/wp-content/uploads/2013/10/H-Link35_vergassingsinstallatie_AnkeNobel.jpg" width="550" height="420" />
   
   <p class="wp-caption-text">
     &#8216;Zo werkt een vergassingsinstallatie&#8217; over het opwekken van energie m.b.v. biomassa, in dit geval olijvenpulp. De illustratie/infographic is gemaakt voor het septembernummer 2013 van H/Link, het magazine van De Haagse Hogeschool.
@@ -58,7 +58,7 @@ Het tekenen van een serie tuinstoelen voor een folder.
 **Heb je zelf een voorkeur voor bepaalde opdrachtgevers of opdrachten?**
 
 <div id="attachment_4212" style="width: 310px" class="wp-caption alignleft">
-  <img class="size-medium wp-image-4212" alt="Oorthermometer illustratie Anke Nobel" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/Oor+thermometer-Anke-Nobel-300x300.jpg" width="300" height="300" />
+  <img class="size-medium wp-image-4212" alt="Oorthermometer illustratie Anke Nobel" src="/wordpress/wp-content/uploads/2013/10/Oor+thermometer-Anke-Nobel-300x300.jpg" width="300" height="300" />
   
   <p class="wp-caption-text">
     Illustratie van een oorthermometer, gemaakt voor een brochure van Covidien (productie: VasDiaz).
@@ -90,7 +90,7 @@ Ik was vroeger lid van de NIC (Nederlandse Illustratoren Club). Die is opgegaan 
 Meestal ben ik het meest trots op de illustratie die ik het laatst heb gemaakt.
 
 <div id="attachment_4205" style="width: 560px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-4205     " alt="Econexis-huis illustratie door Anke Nobel" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/09/Econexis-huis-Anke-Nobel.jpg" width="550" height="393" />
+  <img class="size-full wp-image-4205     " alt="Econexis-huis illustratie door Anke Nobel" src="/wordpress/wp-content/uploads/2013/09/Econexis-huis-Anke-Nobel.jpg" width="550" height="393" />
   
   <p class="wp-caption-text">
     Het Econexishuis te Zwolle van netbeheerder Enexis. Het huis is voorzien van de modernste snufjes op het gebied van energie-neutraal wonen. De illustratie is gebruikt voor een educatieve poster, een productie van DST (het experience bureau) te Baarn.
@@ -126,11 +126,11 @@ Steeds blijven schaven, verbeteren en vernieuwen.
   * <a title="Anke Nobel op BNO" href="http://www.bno.nl/portfolios?q=anke+nobel" target="_blank"> BNO</a> (Beroepsorganisatie Nederlandse Ontwerpers)
   * <a title="werk van Anke Nobel op Dutch-illustration" href="http://www.dutch-illustration.com/members/ankenobel" target="_blank"> Dutch-illustration</a>
 
-***Lees ook de andere <a title="Interviews met illustratoren" href="http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*  
+***Lees ook de andere <a title="Interviews met illustratoren" href="/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*  
 **
 
 <div id="attachment_4228" style="width: 560px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-4228 " alt="illustratie over bliksem voor EON magazine door Anke Nobel" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/09/EON-20131-bliksem-Anke-Nobel.jpg" width="550" height="733" />
+  <img class="size-full wp-image-4228 " alt="illustratie over bliksem voor EON magazine door Anke Nobel" src="/wordpress/wp-content/uploads/2013/09/EON-20131-bliksem-Anke-Nobel.jpg" width="550" height="733" />
   
   <p class="wp-caption-text">
     “Donders het bliksemt!”; een illustratie over maatregelen die je in huis kunt nemen om schade door blikseminslag te voorkomen. Gemaakt voor de voorjaarseditie 2013 van het E.ON magazine in opdracht van HeadOffice te Hilversum dat ook de layout verzorgde.
@@ -138,7 +138,7 @@ Steeds blijven schaven, verbeteren en vernieuwen.
 </div>
 
 <div id="attachment_4227" style="width: 560px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-4227 " alt="infographic BGT-Geonovum door Anke Nobel" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/09/BGT-Geonovum-Anke-Nobel.jpg" width="550" height="389" />
+  <img class="size-full wp-image-4227 " alt="infographic BGT-Geonovum door Anke Nobel" src="/wordpress/wp-content/uploads/2013/09/BGT-Geonovum-Anke-Nobel.jpg" width="550" height="389" />
   
   <p class="wp-caption-text">
     Basisregistratie Grootschalige Topografie; een overzicht van de manier waarop de digitale kaart van Nederland tot stand komt en wordt gebruikt. Herkenbaar zijn de gebouwen van de Ministeries, Rijkswaterstaat en ProRail.<br />Opdrachtgever: Geonovum, Amersfoort.

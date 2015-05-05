@@ -14,7 +14,7 @@ tags:
 
 Bekijk het schilderij van Helga en lees haar verhaal:
 
-[<img class="aligncenter size-full wp-image-2505" title="schilderij met engel door Helga Westerbeke" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/04/schilderij_van_Helga.jpg" alt="schilderij met engel door Helga Westerbeke" width="234" height="528" />][1]
+[<img class="aligncenter size-full wp-image-2505" title="schilderij met engel door Helga Westerbeke" src="/wordpress/wp-content/uploads/2012/04/schilderij_van_Helga.jpg" alt="schilderij met engel door Helga Westerbeke" width="234" height="528" />][1]
 
 **1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo?**  
 Jaren geleden ben ik begonnen met schilderen. Waarom? Doordat ik mijn vader altijd zag schilderen, ik ging het bijna als vanzelf ook doen.
@@ -37,4 +37,4 @@ Schilderen is voor mij loslaten van de dagelijkse dingen, jezelf laten meevoeren
 
 *De Schildertuin bedankt Helga voor haar inzending.*
 
- [1]: http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/04/schilderij_van_Helga.jpg
+ [1]: /wordpress/wp-content/uploads/2012/04/schilderij_van_Helga.jpg

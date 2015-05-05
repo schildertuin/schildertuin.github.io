@@ -22,7 +22,7 @@ De Schildertuin interviewde Charis over haar werk als illustrator.**
 *illustraties: Charis Felice*
 
 <div id="attachment_4719" style="width: 310px" class="wp-caption alignright">
-  <img class="size-full wp-image-4719 " src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/foto-Charis-Felice.jpg" alt="foto van Charis Felice" width="300" height="300" />
+  <img class="size-full wp-image-4719 " src="/wordpress/wp-content/uploads/2013/10/foto-Charis-Felice.jpg" alt="foto van Charis Felice" width="300" height="300" />
   
   <p class="wp-caption-text">
     Charis Felice, fotografie: Carlijn Huys
@@ -43,7 +43,7 @@ Ik heb mezelf geleerd te tekenen. Ik ben sowieso een doener. Ik ben geen schoolt
 **Welk materiaal gebruik je om je illustraties te maken?**  
 Het liefst gebruik ik een gewone balpen om mee te beginnen. Hiermee maak ik ideeën en schetsen. Met balpen zie je alle &#8220;foutjes&#8221; die je gemaakt hebt, dit vind ik wel interessant. Voor de uiteindelijke illustratie bedenk ik van tevoren welke techniek het beste past bij hetgeen ik wil illustreren. Ik vind het ook erg leuk om met grafische technieken te werken omdat het voor mezelf dan nog een beetje een verrassing is wat er uit gaat komen. Linoleum is mijn favoriet.
 
-**<img class="size-full wp-image-4729 alignright" title="'one way ticket to paradise', illustratie Charis Felice" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/one-way-ticket-to-paradise.jpg" alt="'one way ticket to paradise', illustratie Charis Felice" width="400" height="382" />Hoe zou je jouw stijl van illustreren omschrijven?**  
+**<img class="size-full wp-image-4729 alignright" title="'one way ticket to paradise', illustratie Charis Felice" src="/wordpress/wp-content/uploads/2013/10/one-way-ticket-to-paradise.jpg" alt="'one way ticket to paradise', illustratie Charis Felice" width="400" height="382" />Hoe zou je jouw stijl van illustreren omschrijven?**  
 Mijn stijl is op het eerste gezicht vrolijk en kleurrijk en bestaat uit gekleurde vlakken. Ik vind het interessant om dromerige thema&#8217;s in de breedste zin van het woord te gebruiken. In mijn vrije tijd vind ik het juist leuk om directe en kritische illustraties en tekeningen te maken over wat ik meemaak of wat er in mijn hoofd speelt. Meestal zijn dat zwarte lijntekeningen, precies het tegenovergestelde van wat ik in opdracht doe.
 
 **Heb jij een eigen stijl? En vind je dat een voordeel of juist een nadeel?**  
@@ -63,7 +63,7 @@ Dit wil niet zeggen dat ik geen geld vraag voor mijn werk. Ik werk er tenslotte 
 Ondernemend zijn en gepassioneerd met betrekking tot je werk.
 
 <div id="attachment_4732" style="width: 560px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-4732 " title="fairtrade brochure met illustraties van Charis Felice" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/fairtrade-brochure.jpg" alt="fairtrade brochure met illustraties van Charis Felice" width="550" height="320" />
+  <img class="size-full wp-image-4732 " title="fairtrade brochure met illustraties van Charis Felice" src="/wordpress/wp-content/uploads/2013/10/fairtrade-brochure.jpg" alt="fairtrade brochure met illustraties van Charis Felice" width="550" height="320" />
   
   <p class="wp-caption-text">
     fairtrade brochure met illustraties van Charis Felice
@@ -86,7 +86,7 @@ Ik verslond boeken (het liefst met een zak chips ernaast!). Uit de bibliotheek h
 Ik ben bezig met een geïllustreerde versie van het boek ‘<a title="The Doors of Perception is een boek van Aldous Huxley, lees meer op Wikipedia" href="http://nl.wikipedia.org/wiki/De_Deuren_der_Waarneming" target="_blank">The Doors of Perception</a>’. Ik heb het boek niet letterlijk geïllustreerd, maar heb me laten inspireren door psychedelisch werk en ervaringen. Dit werk is op mijn <a title="bekijk illustraties voor The Doors of Perception van Charis Felice" href="http://charisfelice.nl/portfolio_tag/thedoorsofperception/" target="_blank">portfolio</a> website te bekijken.
 
 <div id="attachment_4725" style="width: 560px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-4725" title="'Snaketree', illustratie voor The Doors of Perception van Charis Felice" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/illustratie-linoleum-boom.jpg" alt="'Snaketree', illustratie voor The Doors of Perception van Charis Felice" width="550" height="275" />
+  <img class="size-full wp-image-4725" title="'Snaketree', illustratie voor The Doors of Perception van Charis Felice" src="/wordpress/wp-content/uploads/2013/10/illustratie-linoleum-boom.jpg" alt="'Snaketree', illustratie voor The Doors of Perception van Charis Felice" width="550" height="275" />
   
   <p class="wp-caption-text">
     &#8216;Snaketree&#8217;, illustratie voor The Doors of Perception van Charis Felice
@@ -103,7 +103,7 @@ Een autonome illustrator zijn, onafhankelijk van opdrachtgevers.
 webshop: <a title="bezoek de webshop met fair trade kleding van Charis Felice" href="http://www.charisfelice.com/" target="_blank">www.charisfelice.com</a>  
 portfolio: <a title="bekijk het online portfolio van Charis Felice" href="http://charisfelice.nl/" target="_blank">www.charisfelice.nl</a>
 
-***Lees ook de andere <a title="Interviews met illustratoren" href="http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*  
+***Lees ook de andere <a title="Interviews met illustratoren" href="/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*  
 **
 
-<img class="alignnone size-full wp-image-4734" title="poster met zakenman en Wifi, illustratie Charis Felice" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/charis_felice_zakenman_wifi.jpg" alt="poster met zakenman en Wifi, illustratie Charis Felice" width="250" height="325" /> <img class="alignnone size-full wp-image-4735" title="poster met meisje en Wifi, illustratie Charis Felice" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/poster-op-kantoor.jpg" alt="poster met meisje en Wifi, illustratie Charis Felice" width="250" height="335" />
+<img class="alignnone size-full wp-image-4734" title="poster met zakenman en Wifi, illustratie Charis Felice" src="/wordpress/wp-content/uploads/2013/10/charis_felice_zakenman_wifi.jpg" alt="poster met zakenman en Wifi, illustratie Charis Felice" width="250" height="325" /> <img class="alignnone size-full wp-image-4735" title="poster met meisje en Wifi, illustratie Charis Felice" src="/wordpress/wp-content/uploads/2013/10/poster-op-kantoor.jpg" alt="poster met meisje en Wifi, illustratie Charis Felice" width="250" height="335" />

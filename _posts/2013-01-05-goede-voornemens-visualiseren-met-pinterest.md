@@ -19,7 +19,7 @@ tags:
 ** En ben je die goede intenties in februari alweer vergeten?**  
 ** Lees wat je kunt doen om jouw goede voornemens te visualiseren en ze daadwerkelijk uit te voeren.**
 
-## Pinterest prikbord goede voornemens<img class="alignright size-medium wp-image-740" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/09/salade-225x300.jpg" alt="Foto van een tomatensalade met basilicum en pijnboompitten" width="225" height="300" />
+## Pinterest prikbord goede voornemens<img class="alignright size-medium wp-image-740" src="/wordpress/wp-content/uploads/2010/09/salade-225x300.jpg" alt="Foto van een tomatensalade met basilicum en pijnboompitten" width="225" height="300" />
 
 Op de virtuele prikbordensite <a title="website Pinterest" href="http://pinterest.com/" target="_blank">Pinterest</a> kun je zelf prikborden aanmaken. Online afbeeldingen die je aanspreken ‘pin’ je op die borden. Pinterest is een makkelijk hulpmiddel om je voornemens te visualiseren. Hoe je dat precies doet?
 

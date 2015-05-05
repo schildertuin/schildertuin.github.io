@@ -14,7 +14,7 @@ tags:
   - fotocollage
   - photocollage
 ---
-<img class="aligncenter wp-image-6553 size-full" title="Alpaca cactus, photocollage, design by Hilde Reurink" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/05/alpaca_cactus.jpg" alt="Alpaca cactus, photocollage, design by Hilde Reurink" width="550" height="550" />
+<img class="aligncenter wp-image-6553 size-full" title="Alpaca cactus, photocollage, design by Hilde Reurink" src="/wordpress/wp-content/uploads/2014/05/alpaca_cactus.jpg" alt="Alpaca cactus, photocollage, design by Hilde Reurink" width="550" height="550" />
 
 <p style="text-align: center;">
   &#8216;<strong>Alpaca Cactus</strong>&#8216;

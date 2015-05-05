@@ -21,7 +21,7 @@ tags:
 * illustraties:* *Francien van Lang*
 
 **Francien, vertel eens iets over jezelf.**  
-<img class="alignright  wp-image-5581" title="dit is illustrator Francien van Lang" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/01/portretfoto-Francien-van-Lang.jpg" alt="portretfoto illustrator Francien van Lang" width="280" height="275" />Hoi, mijn naam is Francien van Lang en ik woon in Noord-Brabant, samen met mijn zoon van 13 jaar. Ik werk als illustrator voor kinderboeken en maak ook regelmatig illustraties in opdracht voor diverse projecten, bijvoorbeeld voor websites.
+<img class="alignright  wp-image-5581" title="dit is illustrator Francien van Lang" src="/wordpress/wp-content/uploads/2014/01/portretfoto-Francien-van-Lang.jpg" alt="portretfoto illustrator Francien van Lang" width="280" height="275" />Hoi, mijn naam is Francien van Lang en ik woon in Noord-Brabant, samen met mijn zoon van 13 jaar. Ik werk als illustrator voor kinderboeken en maak ook regelmatig illustraties in opdracht voor diverse projecten, bijvoorbeeld voor websites.
 
 **Wanneer besloot je illustrator te worden?<!--more-->  **
 
@@ -38,7 +38,7 @@ Inkt, aquarelverf, potlood, en acrylverf. Meestal gebruik ik meerdere materialen
 Vrolijk.
 
 <p style="text-align: center;">
-  <img class="aligncenter  wp-image-5582" title="Poezeliens huis, illustratie van Francien van Lang" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/01/poezeliens-huis.jpg" alt="Poezeliens huis, illustratie van Francien van Lang" width="400" height="545" />
+  <img class="aligncenter  wp-image-5582" title="Poezeliens huis, illustratie van Francien van Lang" src="/wordpress/wp-content/uploads/2014/01/poezeliens-huis.jpg" alt="Poezeliens huis, illustratie van Francien van Lang" width="400" height="545" />
 </p>
 
 **Heb jij als illustrator een eigen handschrift?  **  
@@ -53,7 +53,7 @@ Ja bijna altijd, voor uitgevers en websites. Op dit moment ben ik bezig met een 
 **Wat was je allereerste illustratie-opdracht?  **  
 Ik teken al best lang en ben begonnen met een kleine advertentie in de Club, een blad voor jongeren. Daarvoor tekende ik portretten in opdracht.
 
-**<img class="alignleft size-full wp-image-5588" title="multitaskende vrouw, illustratie Francien van Lang" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/01/multitasken.jpg" alt="multitaskende vrouw, illustratie Francien van Lang" width="350" height="476" />Heb je zelf een voorkeur voor bepaalde opdrachtgevers of opdrachten?**  
+**<img class="alignleft size-full wp-image-5588" title="multitaskende vrouw, illustratie Francien van Lang" src="/wordpress/wp-content/uploads/2014/01/multitasken.jpg" alt="multitaskende vrouw, illustratie Francien van Lang" width="350" height="476" />Heb je zelf een voorkeur voor bepaalde opdrachtgevers of opdrachten?**  
 Niet echt, het is afhankelijk van de opdracht, of dit nu voor een kinderboek is of juist een nieuw idee voor een reclameontwerp. Laatst had ik een tekening gemaakt en deze staat nu op een website over ontspanning. Maar tekenen voor kinderen blijft wel het allerleukst.
 
 **Werk je ook samen met auteurs? Zo ja, hoe verloopt zoʼn samenwerking dan?**  
@@ -79,7 +79,7 @@ Ik begin ‘s morgens als mijn zoon naar school gaat en werk dan tot 3 of 4 uur.
 **Wat zijn volgens jou belangrijke eigenschappen voor een illustrator?**  
 Volg je hart en heb vooral plezier in illustreren. Kunnen samenwerken. Je kunnen inleven, vooral bij een nieuw verhaal.
 
-**<img class="alignright size-full wp-image-5585" title="sprookjes, illustratie Francien van Lang" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/01/sprookjes.jpg" alt="sprookjes, illustratie Francien van Lang" width="400" height="468" />Wanneer ben je trots op een illustratie?**  
+**<img class="alignright size-full wp-image-5585" title="sprookjes, illustratie Francien van Lang" src="/wordpress/wp-content/uploads/2014/01/sprookjes.jpg" alt="sprookjes, illustratie Francien van Lang" width="400" height="468" />Wanneer ben je trots op een illustratie?**  
 Dat is moeilijk, maar als een illustratie goed gelukt is en ook uiteindelijk goed overkomt dan ben ik daar wel trots op!
 
 **Welke andere illustratoren bewonder je?  **  
@@ -103,8 +103,8 @@ Heel veel kinderboeken tekenen en misschien ooit eens het prentenboek voor de Ki
 **Waar kunnen mensen jouw werk bekijken op internet?**  
 Op mijn eigen website <a title="Website van illustrator Francien van Lang" href="http://www.francienvanlang.nl/" target="_blank">francienvanlang.nl</a>
 
-*Lees ook de andere <a title="Interviews met illustratoren" href="http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
+*Lees ook de andere <a title="Interviews met illustratoren" href="/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5576" title="Sportieve kinderen met spandoek, illustratie Francien van Lang" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/01/kinderen-en-sport.jpg" alt="Sportieve kinderen met spandoek, illustratie Francien van Lang" width="550" height="411" />
+  <img class="aligncenter size-full wp-image-5576" title="Sportieve kinderen met spandoek, illustratie Francien van Lang" src="/wordpress/wp-content/uploads/2014/01/kinderen-en-sport.jpg" alt="Sportieve kinderen met spandoek, illustratie Francien van Lang" width="550" height="411" />
 </p>

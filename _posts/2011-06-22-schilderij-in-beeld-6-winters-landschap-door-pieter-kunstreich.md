@@ -10,11 +10,11 @@ tags:
   - olieverf
   - Pietr Kunstreich
 ---
-<img class="alignleft size-thumbnail wp-image-2009" title="winters landschap geschilderd door Pieter" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/06/schilderij-van-Pieter-150x110.jpg" alt="winters landschap geschilderd door Pieter" width="150" height="110" />Pieter Kunstreich schildert landschappen met olieverf. Zijn schilderijen ademen rust en ruimte uit. De Schildertuin heeft Pieter een aantal vragen gesteld, benieuwd naar zijn antwoorden?<!--more Lees het interview met Pieter->-->
+<img class="alignleft size-thumbnail wp-image-2009" title="winters landschap geschilderd door Pieter" src="/wordpress/wp-content/uploads/2011/06/schilderij-van-Pieter-150x110.jpg" alt="winters landschap geschilderd door Pieter" width="150" height="110" />Pieter Kunstreich schildert landschappen met olieverf. Zijn schilderijen ademen rust en ruimte uit. De Schildertuin heeft Pieter een aantal vragen gesteld, benieuwd naar zijn antwoorden?<!--more Lees het interview met Pieter->-->
 
 Pieter stuurde een foto in van een door hem gemaakt olieverfschilderij van een winters landschap:
 
-<img class="aligncenter size-full wp-image-2009" title="winters landschap geschilderd door Pieter" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/06/schilderij-van-Pieter.jpg" alt="winters landschap geschilderd door Pieter" width="450" height="330" />
+<img class="aligncenter size-full wp-image-2009" title="winters landschap geschilderd door Pieter" src="/wordpress/wp-content/uploads/2011/06/schilderij-van-Pieter.jpg" alt="winters landschap geschilderd door Pieter" width="450" height="330" />
 
 **1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo? **  
 Ik schilder van jongs af aan, dus is het mijn beroep geworden. Ik heb sinds 1975 als illustrator voor vele Duitstalige uitgeverijen gewerkt. Intussen schilder ik voor mijzelf en ik exposeer: landschappen. Ik vind het nog steeds leuk om de hele dag buiten of in mijn studio te schilderen, ook na zo veel jaren (40!)

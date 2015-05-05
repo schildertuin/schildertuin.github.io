@@ -14,7 +14,7 @@ tags:
   - tips meer volgers Pinterest
 ---
 <div id="attachment_3140" style="width: 360px" class="wp-caption alignright">
-  <img class="size-full wp-image-3140 " src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/01/pinterest_open_bord_maken.jpg" alt="schermafbeelding aanmaken nieuw bord op Pinterest" width="350" height="320" />
+  <img class="size-full wp-image-3140 " src="/wordpress/wp-content/uploads/2013/01/pinterest_open_bord_maken.jpg" alt="schermafbeelding aanmaken nieuw bord op Pinterest" width="350" height="320" />
   
   <p class="wp-caption-text">
     Typ in het vakje bij de pijl de naam van degene die mee mag pinnen op jouw Pinterest bord

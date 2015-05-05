@@ -9,12 +9,12 @@ tags:
   - emotie schilderij
   - Settia Ramautarsing
 ---
-<img class="alignleft size-thumbnail wp-image-2298" title="schilderij-van-Settia-Ramautarsing" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/10/schilderij-van-Settia1-122x150.jpg" alt="schilderij-van-Settia-Ramautarsing" width="122" height="150" />Settia Ramautarsing schildert emoties. Het schilderen is voor haar een echte uitlaadklep. De Schildertuin heeft Settia een aantal vragen gesteld, benieuwd naar haar antwoorden?<!--moreLees het interview met Settia-->
+<img class="alignleft size-thumbnail wp-image-2298" title="schilderij-van-Settia-Ramautarsing" src="/wordpress/wp-content/uploads/2011/10/schilderij-van-Settia1-122x150.jpg" alt="schilderij-van-Settia-Ramautarsing" width="122" height="150" />Settia Ramautarsing schildert emoties. Het schilderen is voor haar een echte uitlaadklep. De Schildertuin heeft Settia een aantal vragen gesteld, benieuwd naar haar antwoorden?<!--moreLees het interview met Settia-->
 
 Settia stuurde een foto in van een door haar gemaakt schilderij:
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-2298" title="schilderij-van-Settia-Ramautarsing" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/10/schilderij-van-Settia1.jpg" alt="schilderij-van-Settia-Ramautarsing" width="450" height="549" />
+  <img class="aligncenter size-full wp-image-2298" title="schilderij-van-Settia-Ramautarsing" src="/wordpress/wp-content/uploads/2011/10/schilderij-van-Settia1.jpg" alt="schilderij-van-Settia-Ramautarsing" width="450" height="549" />
 </p>
 
 **1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo? **  

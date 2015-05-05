@@ -12,7 +12,7 @@ tags:
   - recepten met restjes
   - restjes
 ---
-[<img class="alignleft size-thumbnail wp-image-740" title="salade" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/09/salade-112x150.jpg" alt="Foto van een tomatensalade" width="112" height="150" />][1]Restjes, kliekjes, afval? Neeeee! gebruik ze om heerlijke gerechten mee te maken.
+[<img class="alignleft size-thumbnail wp-image-740" title="salade" src="/wordpress/wp-content/uploads/2010/09/salade-112x150.jpg" alt="Foto van een tomatensalade" width="112" height="150" />][1]Restjes, kliekjes, afval? Neeeee! gebruik ze om heerlijke gerechten mee te maken.
 
 Per jaar gooit de gemiddelde Nederlandse consument zo’n 40 tot 50 kg voedsel weg. Dat staat gelijk aan ongeveer 130 euro per jaar.<!--more Lees hoe je geld bespaart door te koken met restjes->--> Deze cijfers zijn afkomstig van de volgende online bronnen:
 
@@ -24,7 +24,7 @@ Per jaar gooit de gemiddelde Nederlandse consument zo’n 40 tot 50 kg voedsel w
 Dat moet toch anders kunnen!  
 Het is heel goed mogelijk om van restjes eten een heerlijke maaltijd te maken. Zelf word ik altijd het meest creatief als ik ga koken met restjes.
 
-<img class="aligncenter size-full wp-image-740" title="salade" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/09/salade.jpg" alt="Foto van een tomatensalade" width="250" height="333" />
+<img class="aligncenter size-full wp-image-740" title="salade" src="/wordpress/wp-content/uploads/2010/09/salade.jpg" alt="Foto van een tomatensalade" width="250" height="333" />
 
 ## Wat kun je maken met restjes en hoe verspil je zo min mogelijk voedsel?
 
@@ -53,4 +53,4 @@ Koken met restjes is spannend, lekker en je eigen creativiteit wordt gestimuleer
 
 Eet voordelig en smakelijk!
 
- [1]: http://www.schildertuin.nl/wordpress/2011/04/creatief-koken-met-restjes/
+ [1]: /wordpress/2011/04/creatief-koken-met-restjes/

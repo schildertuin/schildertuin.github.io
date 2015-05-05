@@ -17,6 +17,6 @@ tags:
 
 Als freelance dessinontwerper heb ik zelf al een flink aantal dessins ontworpen. Op dit weblog wil ik je een kijkje geven in mijn werkwijze en inspiratiebronnen. Binnenkort lees je meer over dessins en dessinontwerp.
 
-[<img class="aligncenter size-full wp-image-2543" title="dessin-met-enge-beesten-op-blauwe-ruitjes" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/05/dessin-met-enge-beesten-op-blauwe-ruitjes.gif" alt="dessin-met-enge-beesten-op-blauwe-ruitjes" width="450" height="450" />][1]
+[<img class="aligncenter size-full wp-image-2543" title="dessin-met-enge-beesten-op-blauwe-ruitjes" src="/wordpress/wp-content/uploads/2012/05/dessin-met-enge-beesten-op-blauwe-ruitjes.gif" alt="dessin-met-enge-beesten-op-blauwe-ruitjes" width="450" height="450" />][1]
 
- [1]: http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/05/dessin-met-enge-beesten-op-blauwe-ruitjes.gif
+ [1]: /wordpress/wp-content/uploads/2012/05/dessin-met-enge-beesten-op-blauwe-ruitjes.gif

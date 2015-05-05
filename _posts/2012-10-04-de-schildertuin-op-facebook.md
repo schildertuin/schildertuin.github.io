@@ -9,7 +9,7 @@ tags:
   - Facebook Schildertuin
 ---
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-2903" title="Schildertuin_op_Facebook" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/10/Schildertuin_op_Facebook.jpg" alt="De Schildertuin is nu ook op Facebook te vinden" width="500" height="500" />De <a title="De Schildertuin op Facebook" href="http://www.facebook.com/schildertuin" target="_blank">Facebook</a> pagina van de Schildertuin is een feit.
+  <img class="aligncenter size-full wp-image-2903" title="Schildertuin_op_Facebook" src="/wordpress/wp-content/uploads/2012/10/Schildertuin_op_Facebook.jpg" alt="De Schildertuin is nu ook op Facebook te vinden" width="500" height="500" />De <a title="De Schildertuin op Facebook" href="http://www.facebook.com/schildertuin" target="_blank">Facebook</a> pagina van de Schildertuin is een feit.
 </p>
 
 <p style="text-align: center;">

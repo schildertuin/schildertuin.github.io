@@ -10,11 +10,11 @@ tags:
   - klassieke schildertechniek
   - Marcel Hoppenbrouwers
 ---
-<img class="alignleft size-thumbnail wp-image-2023" title="portret van een clown, geschilderd door Marcel" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/06/schilderij-van-Marcel-112x150.jpg" alt="portret van een clown, geschilderd door Marcel" width="112" height="150" />Marcel Hoppenbrouwers schildert portretten volgens de technieken van de oude meesters. Het klassieke schilderen heeft Marcel een eigen draai gegeven door acrylverf te gebruiken. De Schildertuin heeft Marcel een aantal vragen gesteld, benieuwd naar zijn antwoorden?<!--more Lees het interview met Marcel->-->
+<img class="alignleft size-thumbnail wp-image-2023" title="portret van een clown, geschilderd door Marcel" src="/wordpress/wp-content/uploads/2011/06/schilderij-van-Marcel-112x150.jpg" alt="portret van een clown, geschilderd door Marcel" width="112" height="150" />Marcel Hoppenbrouwers schildert portretten volgens de technieken van de oude meesters. Het klassieke schilderen heeft Marcel een eigen draai gegeven door acrylverf te gebruiken. De Schildertuin heeft Marcel een aantal vragen gesteld, benieuwd naar zijn antwoorden?<!--more Lees het interview met Marcel->-->
 
 Marcel stuurde een foto in van een door hem geschilderd portret van een clown:
 
-**<img class="aligncenter size-full wp-image-2023" title="portret van een clown, geschilderd door Marcel" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/06/schilderij-van-Marcel.jpg" alt="portret van een clown, geschilderd door Marcel" width="450" height="600" />1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo? **  
+**<img class="aligncenter size-full wp-image-2023" title="portret van een clown, geschilderd door Marcel" src="/wordpress/wp-content/uploads/2011/06/schilderij-van-Marcel.jpg" alt="portret van een clown, geschilderd door Marcel" width="450" height="600" />1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo? **  
 Ik heb altijd wel getekend vanaf mijn jeugd, maar schilderen kwam pas laat, in 2000, het jaar dat ik bij een carnavalsbouwclub ontwerper werd. Vanaf die tijd ben ik intensief gaan studeren op de technieken, waarmee de oude meesters hun ongelooflijke resultaten behaalden.
 
 **2. Wat betekent het schilderen voor jou? **  

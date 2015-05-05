@@ -22,7 +22,7 @@ tags:
 **De Schildertuin interviewde Agnes over haar illustratieve werk en haar inspiratiebronnen.**
 
 *tekst: Hilde Reurink*  
-*illustraties: Agnes Stapper<img class="alignright size-full wp-image-4874" title="Agnes Stapper met zoontje" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/foto-Agnes-Stapper.jpg" alt="foto van illustrator Agnes Stapper" width="350" height="525" />*
+*illustraties: Agnes Stapper<img class="alignright size-full wp-image-4874" title="Agnes Stapper met zoontje" src="/wordpress/wp-content/uploads/2013/11/foto-Agnes-Stapper.jpg" alt="foto van illustrator Agnes Stapper" width="350" height="525" />*
 
 **Hallo Agnes, vertel eens iets over jezelf.**  
 Mijn naam is Agnes Stapper (35 jaar) en ik woon samen met mijn zoontje (6 jaar) in Gemert. Naast mijn werk in het onderwijs als docent tekenen geef ik ook schildercursussen aan kinderen en volwassen. Mijn werk als illustrator is eigenlijk bij toeval ontstaan en richt zich voornamelijk op kinderen. Het is een mix van kindertekeningen en mijn fantasie en kennis van compositie en materiaal. Maar ik maak ook illustraties waarbij ik me laat leiden door toevallige lijnen. Elke keer weer een uitdaging om iets nieuws te ontdekken. Verder vind ik het heerlijk om te fotograferen en continu op zoek te zijn naar nieuwe inspiratievolle beelden.
@@ -39,7 +39,7 @@ Ik heb de docentenopleiding tekenen en schilderen gedaan op de Kunstacademie. In
 Het materiaal waarmee ik werk is een combinatie van collage, ecoline, aquarelverf en mijn laatste ontdekking…de graphitint potloden van Derwent. Zo mooi, die vergrijsde kleuren in combinatie met het felle kleurgebruik van ecoline. Verder gebruik ik als hulpmiddel af en toe ook Photoshop.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-4879" title="kerstkaart met eekhoorns" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/Kerstkaart-met-eekhoorns.jpg" alt="Kerstkaart-met-eekhoorns" width="550" height="417" />
+  <img class="aligncenter size-full wp-image-4879" title="kerstkaart met eekhoorns" src="/wordpress/wp-content/uploads/2013/11/Kerstkaart-met-eekhoorns.jpg" alt="Kerstkaart-met-eekhoorns" width="550" height="417" />
 </p>
 
 **Hoe zou je jouw stijl van illustreren omschrijven?**  
@@ -48,7 +48,7 @@ Door de eigenschappen van het materiaal dat ik gebruik ontstaat er een ouderwets
 **Je hoort vaak dat een illustrator een eigen handschrift moet hebben, heb jij die?**  
 Ik denk wel dat ik een eigen handschrift heb, maar dit handschrift wordt mede bepaald door de kinderen waarvan de tekeningen afkomstig zijn. Wat ik met die kindertekeningen doe is uiteindelijk bepalend voor het eindbeeld. Mijn eigen tekeningen zijn uniek door de wijze waarop ik tot een beeld kom. Ik denk dat het een voordeel is om een eigen handschrift te hebben. Als je iets hebt waarmee je jezelf kan onderscheiden kun je dit natuurlijk op een positieve manier gebruiken om op te vallen.
 
-**<img class="alignleft size-full wp-image-4886" title="illustratie van een paddestoelenbos" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/Paddestoelenbos-illustratie.jpg" alt="paddestoelen bos, illustratie Agnes Stapper" width="350" height="460" />Wat is volgens jou de functie van een illustratie?**  
+**<img class="alignleft size-full wp-image-4886" title="illustratie van een paddestoelenbos" src="/wordpress/wp-content/uploads/2013/11/Paddestoelenbos-illustratie.jpg" alt="paddestoelen bos, illustratie Agnes Stapper" width="350" height="460" />Wat is volgens jou de functie van een illustratie?**  
 Voor mij is de functie van een illustratie op de eerste plaats bedoeld als een beeld om blij van te worden. Het kan een verhaal vertellen zonder woorden en het kan bedoeld zijn ter decoratie.
 
 **Werk je in opdracht?**  
@@ -70,7 +70,7 @@ Via social media en mond tot mond reclame. Ik denk dat social media niet meer we
 **Kun je leven van je illustraties of heb je nog een andere baan ernaast?**  
 Ik kan nog niet leven van het illustreren, het is iets wat ik nog aan het ontwikkelen ben. Daarnaast werk ik nog 4 dagen als docent tekenen.
 
-**<img class="alignright size-full wp-image-4888" title="kerstkaart met rendier" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/rendier-illustratie.jpg" alt="rendier, illustratie Agnes Stapper" width="300" height="447" />Hoe ziet een gemiddelde werkdag van jou eruit?**  
+**<img class="alignright size-full wp-image-4888" title="kerstkaart met rendier" src="/wordpress/wp-content/uploads/2013/11/rendier-illustratie.jpg" alt="rendier, illustratie Agnes Stapper" width="300" height="447" />Hoe ziet een gemiddelde werkdag van jou eruit?**  
 Mijn werkdag als illustrator begint meestal in de avonduren of op een vrije woensdagochtend. Tussendoor heb ik dan al inspiratie opgedaan en ben ik aan het schetsen. Als ik dan tevreden ben over de schets, ga ik aan de slag. Ik werk altijd in één keer door totdat het af is. Dan kan ik gewoon niet stoppen en ben ik zo benieuwd naar het eindresultaat. Meestal laat ik het een dag of twee rusten en bekijk ik mijn werk opnieuw. Ben ik tevreden of pas ik kleine dingen nog aan? Met een frisse blik zie je meer.
 
 **Wat zijn volgens jou belangrijke eigenschappen voor een illustrator?**  
@@ -82,7 +82,7 @@ Ik ben het meest trots op mijn allereerste echte illustratie die ik samen met mi
 **Welke andere illustratoren bewonder je?**  
 Noëlle Smit, Isabelle Arsenault , Fiep Westendorp en Lieke van der Vorst.
 
-**<img class="alignleft size-full wp-image-4884" title="illustratie van een leeuwtje" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/Leeuwtje-illustratie.jpg" alt="Leeuwtje, illustratie Agnes Stapper" width="350" height="245" />Waarin vind jij inspiratie?**  
+**<img class="alignleft size-full wp-image-4884" title="illustratie van een leeuwtje" src="/wordpress/wp-content/uploads/2013/11/Leeuwtje-illustratie.jpg" alt="Leeuwtje, illustratie Agnes Stapper" width="350" height="245" />Waarin vind jij inspiratie?**  
 Ik vind inspiratie in kindertekeningen, oude prentenboeken en kaarten, van mooie patronen en op Pinterest.
 
 **Las je als kind graag boeken? Zo ja, wat waren jouw favoriete (prenten)boeken?**  
@@ -100,8 +100,8 @@ Ik zou heel graag een boek maken en natuurlijk zou het leuk zijn als mijn werk i
 **Waar kunnen mensen jouw werk bekijken op internet?**  
 Op mijn eigen website: <a title="Kunstbengel, website van illustrator Agnes Stapper" href="http://www.kunstbengel.nl" target="_blank">www.kunstbengel.nl</a>.
 
-*Lees ook de andere <a title="Interviews met illustratoren" href="http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
+*Lees ook de andere <a title="Interviews met illustratoren" href="/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-4881" title="Happy heart cloud " src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/happy-heart-cloud.jpg" alt="Happy heart cloud, illustratie Agnes Stapper" width="550" height="400" />
+  <img class="aligncenter size-full wp-image-4881" title="Happy heart cloud " src="/wordpress/wp-content/uploads/2013/11/happy-heart-cloud.jpg" alt="Happy heart cloud, illustratie Agnes Stapper" width="550" height="400" />
 </p>

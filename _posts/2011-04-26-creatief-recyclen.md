@@ -21,7 +21,7 @@ tags:
   - upcyclen
   - upcycling
 ---
-[<img class="alignleft wp-image-1437 size-thumbnail" title="creatief recyclen: tas gemaakt met gerecycled materiaal" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/04/retrotas-102x150.jpg" alt="creatief recyclen: tas gemaakt met gerecycled materiaal" width="102" height="150" />][1]Tover plastic tasjes om tot duurzame gebruiksartikelen.  
+[<img class="alignleft wp-image-1437 size-thumbnail" title="creatief recyclen: tas gemaakt met gerecycled materiaal" src="/wordpress/wp-content/uploads/2011/04/retrotas-102x150.jpg" alt="creatief recyclen: tas gemaakt met gerecycled materiaal" width="102" height="150" />][1]Tover plastic tasjes om tot duurzame gebruiksartikelen.  
 Vermaak afgedankte kleding tot babykleertjes.  
 Restyle oude terracotta potjes en schalen tot etagėre.<!--more Bekijk de filmpjes over creatief recyclen->-->
 
@@ -41,4 +41,4 @@ Recycle kunst van plastic tasjes, filmpje van Man bijt hond:
 
 Grappig gemaakt filmpje op Youtube over wat je met oud papier kunt doen:
 
- [1]: http://www.schildertuin.nl/wordpress/2011/04/creatief-recyclen/
+ [1]: /wordpress/2011/04/creatief-recyclen/

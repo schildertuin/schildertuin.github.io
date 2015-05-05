@@ -23,5 +23,5 @@ We kozen samen uit welke dieren er bij de aap op het papier mochten: een konijn,
 </h2>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5611" title="mixed media collage illustratie met aap, hond, kat, konijn en vlinders" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/01/aap-met-dieren.jpg" alt="mixed media collage illustratie met aap, hond, kat, konijn en vlinders" width="450" height="644" />
+  <img class="aligncenter size-full wp-image-5611" title="mixed media collage illustratie met aap, hond, kat, konijn en vlinders" src="/wordpress/wp-content/uploads/2014/01/aap-met-dieren.jpg" alt="mixed media collage illustratie met aap, hond, kat, konijn en vlinders" width="450" height="644" />
 </p>

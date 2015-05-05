@@ -23,7 +23,7 @@ tags:
 *illustraties: Serena Westra*  
 ****
 
-**Hoi Serena, vertel eens iets over jezelf.**<img class="alignright size-full wp-image-4454" alt="foto Serena Westra" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/foto-Serena-Westra.jpg" width="250" height="375" />  
+**Hoi Serena, vertel eens iets over jezelf.**<img class="alignright size-full wp-image-4454" alt="foto Serena Westra" src="/wordpress/wp-content/uploads/2013/10/foto-Serena-Westra.jpg" width="250" height="375" />  
 Ik ben Serena Westra, ik ben 23 jaar en ik woon in Amsterdam. Ik ben net afgestudeerd aan de master New Media & Digital Culture van de UvA.  
 Ik teken al mijn hele leven, maar ik had er nooit zoveel tijd voor en daarnaast dacht ik niet dat het meer zou kunnen zijn dan een hobby. Nu ik ben afgestudeerd en als freelancer werk heb ik veel meer tijd en merk ik dat er ook daadwerkelijk interesse voor mijn illustraties is. Mijn illustraties gaan vaak over mensen die ik ken en het zijn plaatjes die goed in een kinderboek passen.
 
@@ -52,7 +52,7 @@ In de huidige (internet) cultuur wordt beeld steeds belangrijker. Kijk bijv. naa
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-4469" alt="illustratie aanmoediging" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/illustratie-aanmoediging.jpg" width="550" height="321" />
+  <img class="aligncenter size-full wp-image-4469" alt="illustratie aanmoediging" src="/wordpress/wp-content/uploads/2013/10/illustratie-aanmoediging.jpg" width="550" height="321" />
 </p>
 
  **Wat was je allereerste illustratie-opdracht?**  
@@ -62,7 +62,7 @@ Het maken van een etagère ter gelegenheid van iemands 25e trouwdag. Het was ont
 Ik begon met het maken van verjaardagskaarten voor vrienden en familie. Dat soort dingen vind ik nog steeds het leukst: mensen blij maken en verrassen met een persoonlijk kaartje of cadeautje. Toch zou ik het ook heel leuk vinden om een boek te illustreren.
 
 <p style="text-align: center;">
-  <img class="aligncenter  wp-image-4458" alt="verjaardagskaart illustratie door Serena Westra" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/verjaardagskaart.jpg" width="422" height="439" />
+  <img class="aligncenter  wp-image-4458" alt="verjaardagskaart illustratie door Serena Westra" src="/wordpress/wp-content/uploads/2013/10/verjaardagskaart.jpg" width="422" height="439" />
 </p>
 
 **Werk je ook samen met auteurs?**  
@@ -77,7 +77,7 @@ Ja zeker! Als afgestudeerde in nieuwe media kan ik natuurlijk niet anders, haha.
 **Heb je weleens een opdracht gekregen via social media?**  
 Ja, de meeste opdrachten komen via mijn Facebook pagina. Het bleek dat veel vrienden niet wisten dat ik zo veel bezig ben met illustreren. Ik had een keer een bordje erop gezet en daardoor kreeg ik een aantal aanvragen voor beschilderde bordjes.
 
-<img class="aligncenter size-full wp-image-4456" alt="beschilderde bordjes door Serena Westra" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/beschilderde-bordjes.jpg" width="550" height="514" />
+<img class="aligncenter size-full wp-image-4456" alt="beschilderde bordjes door Serena Westra" src="/wordpress/wp-content/uploads/2013/10/beschilderde-bordjes.jpg" width="550" height="514" />
 
 **Kun je leven van je illustraties of heb je ook nog een andere baan ernaast?**  
 Nee, ik kan er zeker nog niet van leven. Eerlijk gezegd hoeft dat ook (nog) niet, ik heb net 5 jaar lang &#8216;gezwoegd&#8217; om mijn Master of Arts te halen en ik zou het zonde vinden om daar niet verder mee te gaan. Door me op <a title="lees op Wikipedia wat datavisualisatie is" href="http://nl.wikipedia.org/wiki/Datavisualisatie" target="_blank">datavisualisatie</a> te richten kan ik mijn studie combineren met het illustreren. Ik heb gemerkt dat het bij sollicitaties een voordeel is dat ik naast mijn academische vaardigheden ook creatief ben. Het is ook iets waardoor mensen je onthouden.
@@ -88,7 +88,7 @@ Het liefste teken ik &#8216;s avonds. Overdag ben ik dan bezig met het beantwoor
 **Wat zijn volgens jou belangrijke eigenschappen voor een illustrator?**  
 Een eigen stijl hebben, passie voor het vak, je kunnen inleven in de opdrachtgever en eigenlijk moet je ook een goede PR- en communicatiepersoon zijn wil je opvallen.
 
-**<img class="alignright size-full wp-image-4463" alt="illustratie kasteel met prins" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/illustratie-kasteel-met-prins.jpg" width="450" height="645" />Op welke illustratie ben je zelf het meest trots en waarom?**  
+**<img class="alignright size-full wp-image-4463" alt="illustratie kasteel met prins" src="/wordpress/wp-content/uploads/2013/10/illustratie-kasteel-met-prins.jpg" width="450" height="645" />Op welke illustratie ben je zelf het meest trots en waarom?**  
 Het meest trots ben ik op de illustratie bij het verhaal &#8216;De Prinses op de Erwt&#8217;. Het is een schilderij met veel sfeer, verschillende materialen en een sprookjesachtig beeld. Het bos op de voorkant is gemaakt door het knippen van zwart papier, de berg met krijt en ecoline, de toren met Oost-Indische inkt en de achtergrond met ecoline. Ik vind het grappig dat de prins in de toren zit en dat de prinses hem komt redden, meestal is het andersom.
 
 &nbsp;
@@ -111,12 +111,12 @@ Hoewel ik al heel lang teken, is het maken van tekeningen in opdracht totaal nie
 **Heb je een tip voor mensen die ook graag illustrator willen worden?**  
 Gewoon door blijven gaan met tekenen. Laat je werk zien en wie weet waar je komt!
 
-**<img class="alignleft  wp-image-4466" alt="illustratie roodborstje" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/illustratie-roodborstje.jpg" width="264" height="335" />Wat wil je als illustrator nog bereiken?**  
+**<img class="alignleft  wp-image-4466" alt="illustratie roodborstje" src="/wordpress/wp-content/uploads/2013/10/illustratie-roodborstje.jpg" width="264" height="335" />Wat wil je als illustrator nog bereiken?**  
 Ik zou het heel gaaf vinden om mijn tekeningen in een echt kinderboek te zien, een keer voor <a title="bezoek de website van Flow Magazine" href="http://www.flowmagazine.com/" target="_blank">Flow</a> te illustreren of om mijn werk op te hangen in een café in Amsterdam.
 
 **Meer over Serena Westra en haar werk vind je op:**  
 haar website: <a title="Serena Westra illustraties" href="http://serenawestra.com/illustraties/" target="_blank">www.serenawestra.com/illustraties</a>  
 Facebook: <a title="Serena Westra Illustraties op Facebook" href="https://www.facebook.com/serenawestraillustraties" target="_blank">www.facebook.com/serenawestraillustraties</a>
 
-***Lees ook de andere <a title="Interviews met illustratoren" href="http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*  
+***Lees ook de andere <a title="Interviews met illustratoren" href="/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*  
 **

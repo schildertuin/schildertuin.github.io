@@ -27,7 +27,7 @@ tags:
   - wall art
 ---
 Intensief. Inspirerend. Leerzaam. Overweldigend.  
-Dát was de online cursus Make Art That Sells (Part A) kort gezegd.<a href="http://lillarogers.com/make-art-that-sells/" target="_blank"><img class="alignright wp-image-6321 size-full" title="lees meer over de cursus Make Art That Sells van Lilla Rogers" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/03/LRSSchool-logo200.jpg" alt="logo Make Art That Sells" width="200" height="159" /></a>  
+Dát was de online cursus Make Art That Sells (Part A) kort gezegd.<a href="http://lillarogers.com/make-art-that-sells/" target="_blank"><img class="alignright wp-image-6321 size-full" title="lees meer over de cursus Make Art That Sells van Lilla Rogers" src="/wordpress/wp-content/uploads/2014/03/LRSSchool-logo200.jpg" alt="logo Make Art That Sells" width="200" height="159" /></a>  
 Vijf weken lang was ik bezig met tekenen, schilderen, inspiratie opdoen, interviews lezen, trends ontdekken en opdrachten maken.  
 Na afloop van deze 5 weken had ik echt even de tijd nodig om alles te verwerken en te genieten van een beetje rust. Maar nu is het tijd om alles wat ik leerde op een rijtje te zetten en verder te gaan met de volgende stap.
 
@@ -44,7 +44,7 @@ In een beveiligde online schoolomgeving stond elke werkdag weer iets nieuws, alt
 
 ## Leerpunten week 1: BOLT FABRIC
 
-<img class="alignright wp-image-6510 size-full" title="dessinontwerp retro kitchen, design by Hilde Reurink" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/05/BOLT_FABRIC_WEEK1_MATS_Hilde_Reurink.gif" alt="dessinontwerp retro kitchen, design by Hilde Reurink" width="400" height="500" />
+<img class="alignright wp-image-6510 size-full" title="dessinontwerp retro kitchen, design by Hilde Reurink" src="/wordpress/wp-content/uploads/2014/05/BOLT_FABRIC_WEEK1_MATS_Hilde_Reurink.gif" alt="dessinontwerp retro kitchen, design by Hilde Reurink" width="400" height="500" />
 
   * Alle ins en outs van de Bolt Fabric markt
   * Kleur is ontzettend belangrijk
@@ -61,7 +61,7 @@ In een beveiligde online schoolomgeving stond elke werkdag weer iets nieuws, alt
 
 ## Leerpunten week 2: HOME DECOR
 
-<img class="alignleft wp-image-6514 size-full" title="sierborden met illustratie van vogels en planten, design by Hilde Reurink" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/05/HOME_DECOR_WEEK2_MATS_Hilde_Reurink.jpg" alt="sierborden met illustratie van vogels en planten, design by Hilde Reurink" width="400" height="500" />
+<img class="alignleft wp-image-6514 size-full" title="sierborden met illustratie van vogels en planten, design by Hilde Reurink" src="/wordpress/wp-content/uploads/2014/05/HOME_DECOR_WEEK2_MATS_Hilde_Reurink.jpg" alt="sierborden met illustratie van vogels en planten, design by Hilde Reurink" width="400" height="500" />
 
   * Alle ins en outs van de Home Decor markt (producten, trends)
   * Hoe je je werk professioneel kunt presenteren
@@ -74,7 +74,7 @@ In een beveiligde online schoolomgeving stond elke werkdag weer iets nieuws, alt
 
 ## Leerpunten week 3: CHILDREN’S BOOKS
 
-<img class="alignright wp-image-6517 size-full" title="cover kinderboek The Fow and the Crow, illustration Hilde Reurink" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/05/CHILDRENS_BOOKS_WEEK3_MATS_Hilde_Reurink.jpg" alt="cover kinderboek The Fow and the Crow, illustration Hilde Reurink" width="400" height="500" />
+<img class="alignright wp-image-6517 size-full" title="cover kinderboek The Fow and the Crow, illustration Hilde Reurink" src="/wordpress/wp-content/uploads/2014/05/CHILDRENS_BOOKS_WEEK3_MATS_Hilde_Reurink.jpg" alt="cover kinderboek The Fow and the Crow, illustration Hilde Reurink" width="400" height="500" />
 
   * Alles over de wereld van het kinderboek
   * Maak aansprekende karakters
@@ -85,7 +85,7 @@ In een beveiligde online schoolomgeving stond elke werkdag weer iets nieuws, alt
 
 ## Leerpunten week 4: WALL ART
 
-<img class="alignleft wp-image-6521 size-full" title="schilderij mixed media collage door Hilde Reurink" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/05/WALL_ART_WEEK4_MATS_Hilde_Reurink.jpg" alt="schilderij mixed media collage door Hilde Reurink" width="400" height="400" />
+<img class="alignleft wp-image-6521 size-full" title="schilderij mixed media collage door Hilde Reurink" src="/wordpress/wp-content/uploads/2014/05/WALL_ART_WEEK4_MATS_Hilde_Reurink.jpg" alt="schilderij mixed media collage door Hilde Reurink" width="400" height="400" />
 
   * Heb vooral plezier tijdens je werk, klanten zien jouw plezier terug in het product
   * Durf te experimenteren met materialen en technieken
@@ -104,7 +104,7 @@ In een beveiligde online schoolomgeving stond elke werkdag weer iets nieuws, alt
   * Maak werk met populaire onderwerpen, maar dan wel op een vernieuwende, frisse en eigen manier
   * Bosdieren en quotes zijn grote trends op dit moment
 
-<img class="aligncenter wp-image-6448 size-full" title="Design for a hyper lush zipper pouch by Hilde Reurink" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/05/hyper_lush_zipper_pouch.jpg" alt="Design for a hyper lush zipper pouch by Hilde Reurink" width="550" height="450" />
+<img class="aligncenter wp-image-6448 size-full" title="Design for a hyper lush zipper pouch by Hilde Reurink" src="/wordpress/wp-content/uploads/2014/05/hyper_lush_zipper_pouch.jpg" alt="Design for a hyper lush zipper pouch by Hilde Reurink" width="550" height="450" />
 
 Heb je na het lezen van dit artikel zin gekregen om ook de online cursus Make Art That Sells te gaan volgen, kijk dan op de website van <a title="Lees meer over e-course Make Art That Sells" href="http://lillarogers.com/school/about-the-course/" target="_blank">Lilla Rogers</a> voor alle info. Op 20 oktober 2014 starten de nieuwe cursussen weer.
 

@@ -12,7 +12,7 @@ tags:
   - maak zelf kookboek
   - recepten
 ---
-<img class="alignleft size-thumbnail wp-image-738" title="foto van mijn receptenmap" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/09/receptenmap-150x89.jpg" alt="foto van een eigen receptenmap" width="150" height="89" />Wat zullen we vanavond eten?  Je wilt wel eens wat anders dan aardappels, groente en vlees, maar je inspiratie is nu echt op. Ik was ook een beetje moe van het dagelijks terugkerende voedseldilemma en zocht naar een oplossing.<!--more--> Ik besloot mijn eigen kookboek samen te stellen. Lees hoe jij dit ook kunt doen.
+<img class="alignleft size-thumbnail wp-image-738" title="foto van mijn receptenmap" src="/wordpress/wp-content/uploads/2010/09/receptenmap-150x89.jpg" alt="foto van een eigen receptenmap" width="150" height="89" />Wat zullen we vanavond eten?  Je wilt wel eens wat anders dan aardappels, groente en vlees, maar je inspiratie is nu echt op. Ik was ook een beetje moe van het dagelijks terugkerende voedseldilemma en zocht naar een oplossing.<!--more--> Ik besloot mijn eigen kookboek samen te stellen. Lees hoe jij dit ook kunt doen.
 
 ### Benodigdheden:
 
@@ -29,7 +29,7 @@ Als je de benodigdheden bij elkaar hebt, is het maken van het kookboek heel simp
 
 Je eigen kookboek is net een plant, hij moet groeien. Haal recepten van internet af, bedenk ze zelf, kopieer ze uit kookboeken of schrijf beproefde recepten van vrienden over. Je receptenbestand zal zo steeds groter worden.
 
-<img class="aligncenter size-full wp-image-738" title="foto van mijn receptenmap" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/09/receptenmap.jpg" alt="foto van een eigen receptenmap" width="300" height="178" />
+<img class="aligncenter size-full wp-image-738" title="foto van mijn receptenmap" src="/wordpress/wp-content/uploads/2010/09/receptenmap.jpg" alt="foto van een eigen receptenmap" width="300" height="178" />
 
 Hier een aantal nuttige links met recepten:
 
@@ -51,7 +51,7 @@ Je eigen kookboek is een dynamisch product en gaat met zijn tijd mee. Was een re
 
 Geen geklungel meer met een kookboek dat niet open blijft liggen op de juiste bladzijde en veel ruimte inneemt. Je haalt de showtas met het gewenste recept gewoon uit de multomap en legt dit op je werkplek. Knoeien is ook geen probleem meer: je veegt de showtas makkelijk schoon met een keukendoekje.
 
-### Indeling<img class="alignright size-full wp-image-740" title="salade" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/09/salade.jpg" alt="Foto van een tomatensalade" width="250" height="333" />
+### Indeling<img class="alignright size-full wp-image-740" title="salade" src="/wordpress/wp-content/uploads/2010/09/salade.jpg" alt="Foto van een tomatensalade" width="250" height="333" />
 
 Je kunt door middel van tabbladen je kookboek indelen zoals jij dat wilt. Sorteer je recepten bijvoorbeeld op het soort gang (voor-, bij-, hoofd- of nagerecht).
 

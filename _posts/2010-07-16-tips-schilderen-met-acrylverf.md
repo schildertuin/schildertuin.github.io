@@ -14,10 +14,10 @@ tags:
   - tips acrylverf
   - tips schilderen acrylverf
 ---
-<img class="alignleft size-thumbnail wp-image-440" title="schildertip acrylverf 1" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/07/schildertip5-107x150.jpg" alt="foto met een verfbakje en roller" width="107" height="150" />Hoe kun je snel en gemakkelijk grote oppervlakten in een egale kleur schilderen?<!--more-->
+<img class="alignleft size-thumbnail wp-image-440" title="schildertip acrylverf 1" src="/wordpress/wp-content/uploads/2010/07/schildertip5-107x150.jpg" alt="foto met een verfbakje en roller" width="107" height="150" />Hoe kun je snel en gemakkelijk grote oppervlakten in een egale kleur schilderen?<!--more-->
 
 <div>
-  <img class="aligncenter size-full wp-image-440" title="schildertip acrylverf 1" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/07/schildertip5.jpg" alt="" width="179" height="250" />
+  <img class="aligncenter size-full wp-image-440" title="schildertip acrylverf 1" src="/wordpress/wp-content/uploads/2010/07/schildertip5.jpg" alt="" width="179" height="250" />
 </div>
 
 ### Benodigdheden:
@@ -36,7 +36,7 @@ tags:
   * afsluitclip voor plastic zakken
 
 <div>
-  <img class="aligncenter size-full wp-image-441" title="schildertip acrylverf 2" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/07/schildertip1.jpg" alt="" width="200" height="127" />
+  <img class="aligncenter size-full wp-image-441" title="schildertip acrylverf 2" src="/wordpress/wp-content/uploads/2010/07/schildertip1.jpg" alt="" width="200" height="127" />
 </div>
 
 ### Werkwijze:
@@ -48,13 +48,13 @@ tags:
     (Goeie) acrylverf is duurder dan latex, dus zo bespaar je weer geld.
 
 <div>
-  <img class="aligncenter size-full wp-image-443" title="schildertip acrylverf 3" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/07/schildertip2.jpg" alt="" width="173" height="114" /><img class="aligncenter size-full wp-image-444" title="schildertip acrylverf 4" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/07/schildertip3.jpg" alt="" width="200" height="114" />
+  <img class="aligncenter size-full wp-image-443" title="schildertip acrylverf 3" src="/wordpress/wp-content/uploads/2010/07/schildertip2.jpg" alt="" width="173" height="114" /><img class="aligncenter size-full wp-image-444" title="schildertip acrylverf 4" src="/wordpress/wp-content/uploads/2010/07/schildertip3.jpg" alt="" width="200" height="114" />
 </div>
 
   * Smeer nu m.b.v. de kwast de verfroller in met verf en zorg dat de verf gelijkmatig verdeeld is over de roller.
 
 <div>
-  <img class="aligncenter size-full wp-image-445" title="schildertip acrylverf 5" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/07/schildertip4.jpg" alt="" width="250" height="115" />
+  <img class="aligncenter size-full wp-image-445" title="schildertip acrylverf 5" src="/wordpress/wp-content/uploads/2010/07/schildertip4.jpg" alt="" width="250" height="115" />
 </div>
 
   * Rol nu de verfroller over het schildersdoek. Rol horizontaal, verticaal en diagonaal en zorg ervoor dat elk plekje bedekt is.

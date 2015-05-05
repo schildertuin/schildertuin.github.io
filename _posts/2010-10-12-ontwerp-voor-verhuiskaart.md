@@ -14,9 +14,9 @@ tags:
   - verhuiskaart
 ---
 <p style="text-align: left;">
-  <img class="alignleft size-thumbnail wp-image-904" title="het fantasiehuisje digitaal ingekleurd" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/10/fantasiehuiskleur-103x150.gif" alt="het fantasiehuisje digitaal ingekleurd" width="103" height="150" />Afgelopen zondag had ik zin om gewoon ouderwets te tekenen, je weet wel: met papier en een potlood. Geïnspireerd door een prentenboek ontstond er een schattig fantasiehuisje.<!--more--> De schets trok ik over met een zwarte fineliner. 
+  <img class="alignleft size-thumbnail wp-image-904" title="het fantasiehuisje digitaal ingekleurd" src="/wordpress/wp-content/uploads/2010/10/fantasiehuiskleur-103x150.gif" alt="het fantasiehuisje digitaal ingekleurd" width="103" height="150" />Afgelopen zondag had ik zin om gewoon ouderwets te tekenen, je weet wel: met papier en een potlood. Geïnspireerd door een prentenboek ontstond er een schattig fantasiehuisje.<!--more--> De schets trok ik over met een zwarte fineliner. 
   
-  <img class="size-full wp-image-901 aligncenter" title="schets van een fantasiehuisje" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/10/fantasiehuisschets.jpg" alt="schets van een fantasiehuisje" width="300" height="434" />
+  <img class="size-full wp-image-901 aligncenter" title="schets van een fantasiehuisje" src="/wordpress/wp-content/uploads/2010/10/fantasiehuisschets.jpg" alt="schets van een fantasiehuisje" width="300" height="434" />
 </p>
 
 Daarna heb ik de tekening ingescand.
@@ -26,13 +26,13 @@ Daarna heb ik de tekening ingescand.
 De tekening wilde ik gaan gebruiken voor een verhuiskaart, dus de volgende stap was het omzetten van de tekening in een digitaal bestand, beter nog: een vectortekening. Hierna begon het leuke werk: inkleuren!
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-904 aligncenter" title="het fantasiehuisje digitaal ingekleurd" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/10/fantasiehuiskleur.gif" alt="het fantasiehuisje digitaal ingekleurd" width="300" height="434" />
+  <img class="size-full wp-image-904 aligncenter" title="het fantasiehuisje digitaal ingekleurd" src="/wordpress/wp-content/uploads/2010/10/fantasiehuiskleur.gif" alt="het fantasiehuisje digitaal ingekleurd" width="300" height="434" />
 </p>
 
 Toen het huisje naar mijn zin was, heb ik er een geschikte achtergrondfoto uit eigen collectie bij gezocht. Uiteindelijk foto en afbeelding samengevoegd en nog wat kleine illustraties (vlindertjes en gras) toegevoegd om het af te maken.
 
 <div id="attachment_899" style="width: 310px" class="wp-caption alignright">
-  <img class="size-full wp-image-899" title="Uiteindelijke ontwerp van de verhuiskaart" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/10/fantasiehuisaf.jpg" alt="Uiteindelijke ontwerp van de verhuiskaart: illustratie fantasiehuis in combinatie met een foto" width="300" height="434" />
+  <img class="size-full wp-image-899" title="Uiteindelijke ontwerp van de verhuiskaart" src="/wordpress/wp-content/uploads/2010/10/fantasiehuisaf.jpg" alt="Uiteindelijke ontwerp van de verhuiskaart: illustratie fantasiehuis in combinatie met een foto" width="300" height="434" />
   
   <p class="wp-caption-text">
     de kaart is te koop via Kaartje2go

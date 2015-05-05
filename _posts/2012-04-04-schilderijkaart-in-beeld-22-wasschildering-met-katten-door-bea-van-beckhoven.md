@@ -15,7 +15,7 @@ tags:
 
 Bekijk de kaart van Bea en lees haar verhaal.
 
-**[<img class="aligncenter size-full wp-image-2493" title="wasschilderij-met katten-en-vrouw-door-Bea-van-Beckhoven" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/03/schilderij-van-Bea-van-Beckhoven.jpg" alt="wasschilderij-met katten-en-vrouw-door-Bea-van-Beckhoven" width="226" height="311" />][1]1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo?**  
+**[<img class="aligncenter size-full wp-image-2493" title="wasschilderij-met katten-en-vrouw-door-Bea-van-Beckhoven" src="/wordpress/wp-content/uploads/2012/03/schilderij-van-Bea-van-Beckhoven.jpg" alt="wasschilderij-met katten-en-vrouw-door-Bea-van-Beckhoven" width="226" height="311" />][1]1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo?**  
 Ik ben in 1986 begonnen met wasschilderen, ik volgde een aquarelschilderworkshop&#8230;  en de docente zei: &#8220;we gaan vandaag eens iets heel anders doen, we gaan wasschilderen met de Encaustic Art-techniek, dat is  echt iets voor Bea&#8221;&#8230;ze heeft gelijk gekregen.
 
 **2. Wat betekent het schilderen voor jou?**  
@@ -35,4 +35,4 @@ Wat ik van workshoppers heb gezien:
 
 *De Schildertuin bedankt Bea voor haar inzending.*
 
- [1]: http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/03/schilderij-van-Bea-van-Beckhoven.jpg
+ [1]: /wordpress/wp-content/uploads/2012/03/schilderij-van-Bea-van-Beckhoven.jpg

@@ -22,7 +22,7 @@ tags:
 * illustraties: Anique Petit  
 *
 
-**Hoi Anique, vertel eens iets over jezelf.<img class="alignright  wp-image-5338" title="Dit is Anique" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/foto-van-Anique-Petit.jpg" alt="foto van illustrator Anique Petit" width="308" height="231" />**  
+**Hoi Anique, vertel eens iets over jezelf.<img class="alignright  wp-image-5338" title="Dit is Anique" src="/wordpress/wp-content/uploads/2013/12/foto-van-Anique-Petit.jpg" alt="foto van illustrator Anique Petit" width="308" height="231" />**  
 Ik ben 25 jaar en woonachtig in Helmond, Onlangs studeerde ik af bij Sint Lucas Pro als DTP-er (Desktop Publisher), een hele leuke en leerzame ervaring!  Vóór deze opleiding was ik altijd al creatief bezig, de mensen om me heen zeiden altijd: ‘daar moet je echt wat mee’ en daar hadden ze helemaal gelijk in, want ik ben op dat gebied echt helemaal in mijn element!
 
 **Wanneer besloot je illustrator te worden?**<!--more-->
@@ -35,7 +35,7 @@ Ik ben nog veel aan het experimenteren en dat zal vast en zeker tot ontwikkeling
 Mijn stijl is vooral geïnspireerd op mijn reizen naar het prachtige continent Afrika, het zijn vertalingen van emoties.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5343" title="Afrikaanse vrouw met vogels, illustratie van Anique Petit" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/Afrikaanse-vrouw-met-vogels.jpg" alt="Afrikaanse vrouw met vogels, illustratie van Anique Petit" width="350" height="516" />
+  <img class="aligncenter size-full wp-image-5343" title="Afrikaanse vrouw met vogels, illustratie van Anique Petit" src="/wordpress/wp-content/uploads/2013/12/Afrikaanse-vrouw-met-vogels.jpg" alt="Afrikaanse vrouw met vogels, illustratie van Anique Petit" width="350" height="516" />
 </p>
 
 **Heb je zelf een voorkeur voor bepaalde opdrachtgevers of opdrachten?**  
@@ -53,16 +53,16 @@ Zoals ik eerder al zei heb ik erg veel inspiratie opgedaan tijdens mijn reizen n
 ‘s Nachts heb ik de meeste inspiratie; in die stilte krijg ik vaak een bepaald gevoel en daaruit ontstaat dan een illustratie.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5342" title="Afrikaanse vrouw, illustratie van Anique Petit" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/Afrikaanse-vrouw.jpg" alt="Afrikaanse vrouw, illustratie van Anique Petit" width="550" height="412" />
+  <img class="aligncenter size-full wp-image-5342" title="Afrikaanse vrouw, illustratie van Anique Petit" src="/wordpress/wp-content/uploads/2013/12/Afrikaanse-vrouw.jpg" alt="Afrikaanse vrouw, illustratie van Anique Petit" width="550" height="412" />
 </p>
 
 **Wat las je als kind graag?**  
-Vera de muis <img src="http://www.schildertuin.nl/wordpress/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Vera de muis <img src="/wordpress/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
 
-**<img class="alignleft size-medium wp-image-5346" title="engel, illustratie van Anique Petit" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/engel1-211x300.jpg" alt="engel, illustratie van Anique Petit" width="211" height="300" />Wat wil je als illustrator nog bereiken?**  
+**<img class="alignleft size-medium wp-image-5346" title="engel, illustratie van Anique Petit" src="/wordpress/wp-content/uploads/2013/12/engel1-211x300.jpg" alt="engel, illustratie van Anique Petit" width="211" height="300" />Wat wil je als illustrator nog bereiken?**  
 Een heleboel, ik hoop echt vaker mijn passie te mogen delen met anderen!
 
 **Waar kunnen mensen jouw werk bekijken op internet?**  
 Op mijn eigen website: <a title="portfolio van illustrator Anique Petit" href="http://aniquepetit.wix.com/madeby" target="_blank">madebyanique</a>.
 
-*Lees ook de andere <a title="Interviews met illustratoren" href="http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
+*Lees ook de andere <a title="Interviews met illustratoren" href="/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*

@@ -21,7 +21,7 @@ tags:
 *illustraties: Riët Stegehuis*
 
 <div id="attachment_4520" style="width: 360px" class="wp-caption alignright">
-  <img class="size-full wp-image-4520" title="getekend zelfportret illustrator Riët Stegehuis" alt="getekend zelfportret illustrator Riët Stegehuis" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/zelfportret.jpg" width="350" height="354" />
+  <img class="size-full wp-image-4520" title="getekend zelfportret illustrator Riët Stegehuis" alt="getekend zelfportret illustrator Riët Stegehuis" src="/wordpress/wp-content/uploads/2013/10/zelfportret.jpg" width="350" height="354" />
   
   <p class="wp-caption-text">
     getekend zelfportret illustrator Riët Stegehuis
@@ -56,7 +56,7 @@ Ik heb gewerkt voor (toen nog) de Zwolse Courant, een project voor de Bibliothee
 In 2011 heb ik een eigen boekje met gedichten en illustraties uit laten geven.
 
 <div id="attachment_4528" style="width: 360px" class="wp-caption alignnone">
-  <img class="size-full wp-image-4528    " title="De stukgedanste schoentjes, illustratie door Riët Stegehuis" alt="De stukgedanste schoentjes, illustratie door Riët Stegehuis" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/stukgedanste-schoentjes.jpg" width="350" height="370" />
+  <img class="size-full wp-image-4528    " title="De stukgedanste schoentjes, illustratie door Riët Stegehuis" alt="De stukgedanste schoentjes, illustratie door Riët Stegehuis" src="/wordpress/wp-content/uploads/2013/10/stukgedanste-schoentjes.jpg" width="350" height="370" />
   
   <p class="wp-caption-text">
     tekening voor een sprookje van Grimm: de koning met een stukgedanst schoentje
@@ -95,7 +95,7 @@ Ja, van <a title="website Zwols Illustratoren Netwerk" href="http://www.zwolsill
 Moeilijk, maar ik denk toch die van Roda en de Wolf.
 
 <div id="attachment_4547" style="width: 410px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-4547 " title="Roda en de wolf (Grimm), illustratie van Riët Stegehuis" alt="Roda en de wolf (Grimm), illustratie van Riët Stegehuis" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/roda-en-de-wolf.jpg" width="400" height="434" />
+  <img class="size-full wp-image-4547 " title="Roda en de wolf (Grimm), illustratie van Riët Stegehuis" alt="Roda en de wolf (Grimm), illustratie van Riët Stegehuis" src="/wordpress/wp-content/uploads/2013/10/roda-en-de-wolf.jpg" width="400" height="434" />
   
   <p class="wp-caption-text">
     Roda en de wolf (sprookje van Grimm), illustratie van Riët Stegehuis
@@ -116,7 +116,7 @@ Er zijn er nog veeeeeel meer, maar dat is een uitputtende lijst.
 Ik heb net een serie zwart/wit tekeningen en een omslag in kleur afgerond voor een dichtbundel, en krijg over een week of 2 de sleutel voor een groter zolderatelier net een deur verder. Nu ben ik dus even niet actief op dat gebied.
 
 <div id="attachment_4533" style="width: 360px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-4533" title="voorkant gedichtenbundel, illustratie Riët Stegehuis" alt="voorkant gedichtenbundel, illustratie Riët Stegehuis" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/omslag-dichtbundel.jpg" width="350" height="465" />
+  <img class="size-full wp-image-4533" title="voorkant gedichtenbundel, illustratie Riët Stegehuis" alt="voorkant gedichtenbundel, illustratie Riët Stegehuis" src="/wordpress/wp-content/uploads/2013/10/omslag-dichtbundel.jpg" width="350" height="465" />
   
   <p class="wp-caption-text">
     illustratie voor de omslag van de nog uit te komen gedichtenbundel “Hameriaanse gedichtenkronkels”
@@ -124,7 +124,7 @@ Ik heb net een serie zwart/wit tekeningen en een omslag in kleur afgerond voor e
 </div>
 
 <div id="attachment_4532" style="width: 260px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-4532" title="zwart/wit illustratie voor gedichtenbundel door Riët Stegehuis" alt="zwart/wit illustratie voor gedichtenbundel door Riët Stegehuis" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/pentekening-oude-vrouw.jpg" width="250" height="271" />
+  <img class="size-full wp-image-4532" title="zwart/wit illustratie voor gedichtenbundel door Riët Stegehuis" alt="zwart/wit illustratie voor gedichtenbundel door Riët Stegehuis" src="/wordpress/wp-content/uploads/2013/10/pentekening-oude-vrouw.jpg" width="250" height="271" />
   
   <p class="wp-caption-text">
     een zwart/wittekening (Gigolo) uit de nog uit te komen gedichtenbundel “Hameriaanse gedichtenkronkels”
@@ -143,11 +143,11 @@ Meer boeken illustreren, ook nog een paar eigen boeken.
 <a title="werk van Riët Stegehuis op site kunstenaarsvereniging Palet" href="http://www.paletzwolle.nl/members/riet-stegehuis/" target="_blank">www.paletzwolle.nl/members/riet-stegehuis/</a>  
 <a title="portfolio Riët Stegehuis op site Zwols Illustratoren Netwerk" href="http://www.zwolsillustratorennetwerk.nl/leden/rietstegehuis" target="_blank">www.zwolsillustratorennetwerk.nl/leden/rietstegehuis</a>
 
-***Lees ook de andere <a title="Interviews met illustratoren" href="http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*  
+***Lees ook de andere <a title="Interviews met illustratoren" href="/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*  
 **
 
 <div id="attachment_4539" style="width: 410px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-4539" title="kus voor de vis, illustratie Grimm boek door Riët Stegehuis" alt="kus voor de vis, illustratie Grimm boek door Riët Stegehuis" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/kus-voor-visk.jpg" width="400" height="573" />
+  <img class="size-full wp-image-4539" title="kus voor de vis, illustratie Grimm boek door Riët Stegehuis" alt="kus voor de vis, illustratie Grimm boek door Riët Stegehuis" src="/wordpress/wp-content/uploads/2013/10/kus-voor-visk.jpg" width="400" height="573" />
   
   <p class="wp-caption-text">
     kus voor de vis, illustratie Grimm boek door Riët Stegehuis

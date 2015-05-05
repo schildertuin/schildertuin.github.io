@@ -22,7 +22,7 @@ tags:
 *tekst: Hilde Reurink*  
 * illustraties:* *Marijke Klompmaker*
 
-**Hoi Marijke, vertel eens iets over jezelf.**<img class="alignright  wp-image-5974" title="dit is illustrator Marijke Klompmaker" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/03/Marijke-Klompmaker-foto.jpg" alt="foto van illustrator Marijke Klompmaker" width="240" height="360" />  
+**Hoi Marijke, vertel eens iets over jezelf.**<img class="alignright  wp-image-5974" title="dit is illustrator Marijke Klompmaker" src="/wordpress/wp-content/uploads/2014/03/Marijke-Klompmaker-foto.jpg" alt="foto van illustrator Marijke Klompmaker" width="240" height="360" />  
 Ik ben Marijke Klompmaker en ik ben al heel lang illustrator (zo&#8217;n 20 jaar&#8230;!). Ik heb een atelier in Groningen, met 8 anderen zit ik in een oud pand.  
 Ik maak werk voor kinderboeken (laatst bijvoorbeeld een omslag en 10 zwart-wit tekeningen voor een 8+ boekje), ik teken 8 keer per jaar illustraties voor een uitgave van Veilig Verkeer Nederland en illustreer soms voor educatieve methodes.
 
@@ -40,7 +40,7 @@ Papier, inkt, acryl, plakkaatverf. Ik maak momenteel ook collages, met de hand. 
 **Hoe zou je jouw stijl van illustreren omschrijven?**  
 Het was eerst schilderachtig, sfeervol. Op dit moment vind ik het leuk om een andere kant op te gaan: strakker en grafischer.
 
-**<img class="alignleft size-full wp-image-5980" title="mijnheer Bril met slak, een illustratie van Marijke Klompmaker" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/03/mijnheeer-bril_slak.jpg" alt="mijnheer Bril met slak, een illustratie van Marijke Klompmaker" width="350" height="358" />Is het voor een illustrator een voordeel of juist een nadeel om een herkenbare tekenstijl te hebben?**  
+**<img class="alignleft size-full wp-image-5980" title="mijnheer Bril met slak, een illustratie van Marijke Klompmaker" src="/wordpress/wp-content/uploads/2014/03/mijnheeer-bril_slak.jpg" alt="mijnheer Bril met slak, een illustratie van Marijke Klompmaker" width="350" height="358" />Is het voor een illustrator een voordeel of juist een nadeel om een herkenbare tekenstijl te hebben?**  
 Het is wel belangrijk. Opdrachtgevers weten dan waar ze aan toe zijn, wat ze ongeveer zullen krijgen. Ook is het belangrijk voor jou als &#8216;merk&#8217;. Als je langer bezig bent krijg je vanzelf een eigen handschrift.
 
 **Wat is volgens jou de functie van een illustratie?**  
@@ -57,7 +57,7 @@ Dubbelleuke opdracht dus&#8230;
 Ik vind opdrachten waarbij ik mijn fantasie kan gebruiken het leukst. Maar nu vind ik het ook leuk om mee te denken met andere ZZP&#8217;ers. Voorbeeld: een yoga-docente wil een advertentie maken voor haar yoga-reizen. Wat voor illustratie is hierbij goed en hoe kan ze die het beste inzetten?
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5977" title="deze illustratie maakte Marijke Klompmaker voor een advertentie voor Yoga-reizen" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/03/Souljoy-yoga-illustratie.jpg" alt="illustratie van Marijke Klompmaker voor een advertentie voor Yoga-reizen" width="550" height="413" />
+  <img class="aligncenter size-full wp-image-5977" title="deze illustratie maakte Marijke Klompmaker voor een advertentie voor Yoga-reizen" src="/wordpress/wp-content/uploads/2014/03/Souljoy-yoga-illustratie.jpg" alt="illustratie van Marijke Klompmaker voor een advertentie voor Yoga-reizen" width="550" height="413" />
 </p>
 
 **Werk je ook samen met auteurs? Zo ja, hoe verloopt zoʼn samenwerking dan? **  
@@ -66,7 +66,7 @@ Als ik een leesboek illustreer probeer ik altijd contact te krijgen met de schri
 **Hoe kom je aan nieuwe opdrachten?**  
 Ik word eigenlijk altijd gevraagd. Omdat ik de laatste tijd wat minder opdrachten heb, heb ik een marketingcursus gevolgd. Ik heb mijn website aangepast (zoekmachinevriendelijker laten maken en ik heb de teksten verbeterd). Ook laat ik actiever aan mensen weten dat ik graag ergens illustraties voor maak. Daarnaast heb ik een <a title="weblog van illustrator Marijke Klompmaker" href="http://www.marijkeklompmaker.com/website/marijke-klompmaker-illustrator-groningen-blog/" target="_blank">blog</a>, waar mensen zich sinds kort ook voor kunnen inschrijven. Iedere week zet ik er een nieuw werk op. Het leuke is dat ik er zelf helemaal door word geïnspireerd.
 
-**<img class="alignleft size-full wp-image-5988" title="mijnheer Bril salueert, een illustratie van Marijke Klompmaker" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/03/strip-Bril-salueert.jpg" alt="mijnheer Bril salueert, een illustratie van Marijke Klompmaker" width="350" height="383" />Maak je gebruik van social media om je eigen werk te promoten?**  
+**<img class="alignleft size-full wp-image-5988" title="mijnheer Bril salueert, een illustratie van Marijke Klompmaker" src="/wordpress/wp-content/uploads/2014/03/strip-Bril-salueert.jpg" alt="mijnheer Bril salueert, een illustratie van Marijke Klompmaker" width="350" height="383" />Maak je gebruik van social media om je eigen werk te promoten?**  
 Yep! Ik ben vanwege het werk op Facebook gegaan, en heb er (naast een persoonlijk account, waar ik ook voornamelijk werk op zet) een <a title="Facebook pagina van illustrator Marijke Klompmaker" href="https://www.facebook.com/pages/Marijke-Klompmaker-Illustration/1410604912493846" target="_blank">Facebook bedrijfspagina</a>.
 
 **Kun je leven van je illustraties of heb je ook nog een andere baan ernaast?**  
@@ -86,7 +86,7 @@ Ja, ik ben lid van <a title="website FNV Kiem, de vakbond voor werknemers, freel
 Ik ben het meest blij met werk dat nooit is uitgeven, over meneer Bril. En ik ben trots op een vrij werk, &#8216;de Kira&#8217;s&#8217;.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5982" title="de Kira's, illustratie met meisje en wolf, getekend door Marijke Klompmaker" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/03/wolf.jpg" alt="de Kira's, illustratie met meisje en wolf, getekend door Marijke Klompmaker" width="350" height="490" />
+  <img class="aligncenter size-full wp-image-5982" title="de Kira's, illustratie met meisje en wolf, getekend door Marijke Klompmaker" src="/wordpress/wp-content/uploads/2014/03/wolf.jpg" alt="de Kira's, illustratie met meisje en wolf, getekend door Marijke Klompmaker" width="350" height="490" />
 </p>
 
 **Welke andere illustratoren bewonder je?**  
@@ -110,10 +110,10 @@ Ik wil graag nog een keer een prentenboek maken. En nog meer een eigen stijl ont
 **Waar kunnen mensen jouw werk bekijken op internet?**  
 Op mijn eigen website: <a title="website van illustrator Marijke Klompmaker" href="http://www.marijkeklompmaker.com/" target="_blank">www.marijkeklompmaker.com</a> en op m&#8217;n bijbehorende <a title="weblog van illustrator Marijke Klompmaker" href="http://www.marijkeklompmaker.com/website/marijke-klompmaker-illustrator-groningen-blog/" target="_blank">blog</a> (en als je het leuk vind kun je je hiervoor inschrijven!).
 
-<span style="color: #000000;"><em>Lees ook de andere <a title="Interviews met illustratoren" href="http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/" target="_blank"><span style="color: #000000;">interviews met illustratoren</span></a>!</em></span>
+<span style="color: #000000;"><em>Lees ook de andere <a title="Interviews met illustratoren" href="/wordpress/interviews-met-illustratoren/" target="_blank"><span style="color: #000000;">interviews met illustratoren</span></a>!</em></span>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5984" title="vis uit de kom, illustratie voor de weblog van Marijke Klompmaker" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/03/weblog-vis-uit-de-kom.jpg" alt="vis uit de kom, illustratie voor de weblog van Marijke Klompmaker" width="550" height="258" />
+  <img class="aligncenter size-full wp-image-5984" title="vis uit de kom, illustratie voor de weblog van Marijke Klompmaker" src="/wordpress/wp-content/uploads/2014/03/weblog-vis-uit-de-kom.jpg" alt="vis uit de kom, illustratie voor de weblog van Marijke Klompmaker" width="550" height="258" />
 </p>
 
 &nbsp;

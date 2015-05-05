@@ -16,7 +16,7 @@ tags:
   - vakantie
   - "vakantiefoto's"
 ---
-### **<img class="alignleft wp-image-6723" title="7 tips voor bijzondere vakantiefoto's" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/07/fototoestel-borduursel.jpg" alt="borduursel met fototoestel en bloemen" width="378" height="378" />Wat voor soort foto&#8217;s maak jij tijdens je vakantie?**
+### **<img class="alignleft wp-image-6723" title="7 tips voor bijzondere vakantiefoto's" src="/wordpress/wp-content/uploads/2014/07/fototoestel-borduursel.jpg" alt="borduursel met fototoestel en bloemen" width="378" height="378" />Wat voor soort foto&#8217;s maak jij tijdens je vakantie?**
 
 **Zelf vind ik de niet-standaard foto’s vaak het leukst. Afbladderende verf op een oude deur of een foto genomen vanuit een ongebruikelijk gezichtspunt (ga eens iets door de knieën) of een foto van een straatkat. Of kleding aan een waslijn, wapperend in de warme zomerse wind?**
 
@@ -32,6 +32,6 @@ tags:
   6. Maak een beeldverslag van je vakantie door foto’s te nemen van wat je deed en wat je zag. Bijv. dat openbare toilet dat je redding was toen je tijdens een uitje erg nodig naar de w.c. moest. Of een foto van de stapel boeken en tijdschriften die je las tijdens je vakantie. Of een foto van die aardige gastvrouw van de Bed and Breakfast waar je logeerde. Of dat kitscherige schilderij aan de muur van jullie vakantiehuisje. Vakantiegevoel zit vaak in kleine details, probeer het gevoel en de sfeer te vangen in foto’s.
   7. Maak een foto van elke parkeerplaats waar je stopte.
 
-<img class="aligncenter wp-image-6732 size-full" title="7 tips voor bijzondere vakantiefoto's" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/07/vakantiefoto-collage.jpg" alt="vakantiefoto collage" width="700" height="490" />
+<img class="aligncenter wp-image-6732 size-full" title="7 tips voor bijzondere vakantiefoto's" src="/wordpress/wp-content/uploads/2014/07/vakantiefoto-collage.jpg" alt="vakantiefoto collage" width="700" height="490" />
 
 &nbsp;

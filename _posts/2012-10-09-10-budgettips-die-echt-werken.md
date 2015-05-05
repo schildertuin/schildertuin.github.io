@@ -22,7 +22,7 @@ tags:
   - tips geld overhouden
   - tweedehands
 ---
-**Heb jij een gat in je hand?**<img class="alignright wp-image-6179" title="10 budgettips die écht werken" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/03/geldwolf.jpg" alt="10 budgettips die écht werken" width="326" height="326" />  
+**Heb jij een gat in je hand?**<img class="alignright wp-image-6179" title="10 budgettips die écht werken" src="/wordpress/wp-content/uploads/2014/03/geldwolf.jpg" alt="10 budgettips die écht werken" width="326" height="326" />  
 **En wil je er iets aan doen?**  
 **Wil jij aan het einde van de maand geld overhouden?**  
 **Met deze 10 budgettips gaat dat je zeker lukken!**
@@ -39,7 +39,7 @@ Het loont om de prijskaartjes in de super te bestuderen. Vergelijk niet alleen d
 **4. Stel je aankoop uit**  
 Moet je schoenenpaar nummer 321 nou echt vandaag nog aanschaffen? Stort de wereld in als je nú dat leuke shirt niet kunt kopen? Denk bij elke niet-urgente aankoop even na voor je het afrekent bij de kassa. Wacht vervolgens een paar dagen, hoogstwaarschijnlijk is je kooplust dan al iets getemperd. Kun je het product na een week nog steeds niet uit je hoofd zetten? In dat geval zou ik zeggen: koop het gewoon!
 
-**5. Koop tweedehands<img class="alignleft wp-image-4650 size-full" title="koop tweedehands kleding en bespaar veel geld" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/illustratie-tweedehands-kledingwinkel.jpg" alt="koop tweedehands kleding en bespaar veel geld" width="550" height="335" />**  
+**5. Koop tweedehands<img class="alignleft wp-image-4650 size-full" title="koop tweedehands kleding en bespaar veel geld" src="/wordpress/wp-content/uploads/2013/10/illustratie-tweedehands-kledingwinkel.jpg" alt="koop tweedehands kleding en bespaar veel geld" width="550" height="335" />**  
 [Tweedehands kopen][1] is niet meer suf, stoffig en saai, het is hip en leuk! Zoek in de huis-aan-huis krant naar plaatselijke rommelmarkten, bezoek de kringloopwinkel of struin vanachter je PC Marktplaats af.
 
 **6. Wees creatief**  
@@ -65,6 +65,6 @@ Kopen is niet het hoogste goed. Er zijn zoveel leuke dingen die niets kosten. Ma
 
 &nbsp;
 
- [1]: http://www.schildertuin.nl/wordpress/2013/10/tweedehands-kleding-shoppen-in-zwolle/ "adresjes in Zwolle voor tweedehands kleding"
- [2]: http://www.schildertuin.nl/wordpress/2011/06/zelf-stempels-maken-van-linoleum/ "Zelf stempels maken van linoleum"
- [3]: http://www.schildertuin.nl/wordpress/2011/04/creatief-koken-met-restjes/ "Creatief koken met restjes"
+ [1]: /wordpress/2013/10/tweedehands-kleding-shoppen-in-zwolle/ "adresjes in Zwolle voor tweedehands kleding"
+ [2]: /wordpress/2011/06/zelf-stempels-maken-van-linoleum/ "Zelf stempels maken van linoleum"
+ [3]: /wordpress/2011/04/creatief-koken-met-restjes/ "Creatief koken met restjes"

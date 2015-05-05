@@ -10,11 +10,11 @@ tags:
   - Karin Merlijn
   - schilderen door meditatie
 ---
-<img class="alignleft size-thumbnail wp-image-1985" title="meditatie schilderij van Karin" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/06/schilderij-van-Karin-150x112.jpg" alt="meditatie schilderij van Karin" width="150" height="112" />Karin Merlijn schildert op gevoel. Haar schilderijen zijn daardoor heel verrassend. De Schildertuin heeft Karin een aantal vragen gesteld, benieuwd naar haar antwoorden?<!--more Lees het interview met Karin->-->
+<img class="alignleft size-thumbnail wp-image-1985" title="meditatie schilderij van Karin" src="/wordpress/wp-content/uploads/2011/06/schilderij-van-Karin-150x112.jpg" alt="meditatie schilderij van Karin" width="150" height="112" />Karin Merlijn schildert op gevoel. Haar schilderijen zijn daardoor heel verrassend. De Schildertuin heeft Karin een aantal vragen gesteld, benieuwd naar haar antwoorden?<!--more Lees het interview met Karin->-->
 
 Karin stuurde een foto in van een door haar gemaakt intuïtief schilderij:
 
-<img class="aligncenter size-full wp-image-1985" title="meditatie schilderij van Karin" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/06/schilderij-van-Karin.jpg" alt="meditatie schilderij van Karin" width="450" height="336" />
+<img class="aligncenter size-full wp-image-1985" title="meditatie schilderij van Karin" src="/wordpress/wp-content/uploads/2011/06/schilderij-van-Karin.jpg" alt="meditatie schilderij van Karin" width="450" height="336" />
 
 **1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo? **  
 Ik heb mijn hele leven al geschilderd. Vanaf dat ik een potlood of kwast kon vasthouden.  
@@ -36,7 +36,7 @@ Overwegend warme kleuren, die passen bij kracht en wat koele kleuren voor de bal
 Gewoon beginnen en niet nadenken.  
 Dat geeft verrassende resultaten.  
 Meng eens schelpenzand, zaagsel en draadjes door de verf voor reliëf.  
-En&#8230;kom eens een workshop intuïtief schilderen volgen bij mij in Zutphen <img src="http://www.schildertuin.nl/wordpress/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" />
+En&#8230;kom eens een workshop intuïtief schilderen volgen bij mij in Zutphen <img src="/wordpress/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" />
 
 &nbsp;
 

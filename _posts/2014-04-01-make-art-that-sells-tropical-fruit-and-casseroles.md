@@ -22,7 +22,7 @@ tags:
   - tekeningen
   - tropical fruit
 ---
-<img class="size-full wp-image-6341 alignright" title="illustration of a cup for Make Art That Sells course" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/04/kopje.jpg" alt="illustration of a cup for Make Art That Sells course" width="250" height="191" />
+<img class="size-full wp-image-6341 alignright" title="illustration of a cup for Make Art That Sells course" src="/wordpress/wp-content/uploads/2014/04/kopje.jpg" alt="illustration of a cup for Make Art That Sells course" width="250" height="191" />
 
 **Ha! De online cursus <a title="online cursus van Lilla Rogers: Make Art That Sells" href="http://lillarogers.com/make-art-that-sells/" target="_blank">Make Art That Sells</a> is van start gegaan.**  
 Gisteren kregen we onze eerste les over het onderwerp van deze week: BOLT FABRIC.  
@@ -42,7 +42,7 @@ Lerares <a title="lees het interview met Lilla Rogers op haar website" href="htt
 ## The mini exercise of week 1: TROPICAL FRUIT AND CASSEROLES
 
 <div id="attachment_6343" style="width: 260px" class="wp-caption alignleft">
-  <img class="size-full wp-image-6343 " title="illustration of a kiwi for Make Art That Sells course" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/04/kiwi.jpg" alt="illustration of a kiwi for Make Art That Sells course" width="250" height="199" />
+  <img class="size-full wp-image-6343 " title="illustration of a kiwi for Make Art That Sells course" src="/wordpress/wp-content/uploads/2014/04/kiwi.jpg" alt="illustration of a kiwi for Make Art That Sells course" width="250" height="199" />
   
   <p class="wp-caption-text">
     illustratie: Hilde Reurink
@@ -59,7 +59,7 @@ Casseroles zijn ovenschalen. Google maar eens op de fabrikant Pyrex, dan vind je
 </h2>
 
 <div id="attachment_6369" style="width: 121px" class="wp-caption alignleft">
-  <img class="size-medium wp-image-6369 " title="illustrations of tropical fruit for Make Art That Sells course" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/04/tropisch-111x300.jpg" alt="illustrations of tropical fruit for Make Art That Sells course" width="111" height="300" />
+  <img class="size-medium wp-image-6369 " title="illustrations of tropical fruit for Make Art That Sells course" src="/wordpress/wp-content/uploads/2014/04/tropisch-111x300.jpg" alt="illustrations of tropical fruit for Make Art That Sells course" width="111" height="300" />
   
   <p class="wp-caption-text">
     illustratie: Hilde Reurink
@@ -75,7 +75,7 @@ Lilla moedigt aan om op verschillende manieren te tekenen met uiteenlopend mater
 *Lilla encourages to draw in different styles and with different materials. The result doesn&#8217;t have to be beautiful or perfect, if only you have fun. And certainly I really had fun making it! I like the restriction of 2 subjects. I took time to study a few fruit species and draw them, from real models and also from photos.*
 
 <div id="attachment_6348" style="width: 210px" class="wp-caption alignright">
-  <img class="size-full wp-image-6348  " title="illustration of a dessert bowl for Make Art That Sells course" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/04/dessertschaaltje.jpg" alt="illustration of a dessert bowl for Make Art That Sells course" width="200" height="156" />
+  <img class="size-full wp-image-6348  " title="illustration of a dessert bowl for Make Art That Sells course" src="/wordpress/wp-content/uploads/2014/04/dessertschaaltje.jpg" alt="illustration of a dessert bowl for Make Art That Sells course" width="200" height="156" />
   
   <p class="wp-caption-text">
     illustratie: Hilde Reurink
@@ -87,9 +87,9 @@ Voor het tekenen van de ovenschalen en aanverwante producten heb ik eerst refere
 *For drawing the casseroles and other dishes I searched for reference material on <a title="my MATS board on Pinterest with Pyrex and tropical fruit" href="http://www.pinterest.com/schildertuin/make-art-that-sells-mats/" target="_blank">Pinterest</a>. Afterwards I used my own imagination to draw. I rediscovered pastel crayons, pastel and colour pencils. But I also used my all time favourite acrylic paint.*
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-6351" title="illustration of a vintage casserole Pyrex style for Make Art That Sells course" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/04/ovenschaal.jpg" alt="illustration of a vintage casserole Pyrex style for Make Art That Sells course" width="500" height="240" />
+  <img class="aligncenter size-full wp-image-6351" title="illustration of a vintage casserole Pyrex style for Make Art That Sells course" src="/wordpress/wp-content/uploads/2014/04/ovenschaal.jpg" alt="illustration of a vintage casserole Pyrex style for Make Art That Sells course" width="500" height="240" />
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-6346" title="illustration of Pyrex style dishes for Make Art That Sells course" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/04/ovenschalen.jpg" alt="illustration of Pyrex style dishes for Make Art That Sells course" width="550" height="430" />
+  <img class="aligncenter size-full wp-image-6346" title="illustration of Pyrex style dishes for Make Art That Sells course" src="/wordpress/wp-content/uploads/2014/04/ovenschalen.jpg" alt="illustration of Pyrex style dishes for Make Art That Sells course" width="550" height="430" />
 </p>

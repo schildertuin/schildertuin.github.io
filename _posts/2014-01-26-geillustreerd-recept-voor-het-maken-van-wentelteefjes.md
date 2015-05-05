@@ -23,7 +23,7 @@ Illustrator Francien van Lang startte onlangs een nieuwe Nederlandse blog met de
 Het maken van een illustratie is 1 ding, maar de illustratie verweven met een recept, da&#8217;s een heel ander verhaal! Ik vond het nogal een uitdaging, maar het is toch gelukt, zie hier mijn recept voor wentelteefjes:
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5552" title="Maak zelf wentelteefjes met dit recept, illustratie Hilde Reurink " src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/01/recept_wentelteefjes.jpg" alt="geillustreerd recept voor maken wentelteefjes, illustratie Hilde Reurink " width="500" height="707" />
+  <img class="aligncenter size-full wp-image-5552" title="Maak zelf wentelteefjes met dit recept, illustratie Hilde Reurink " src="/wordpress/wp-content/uploads/2014/01/recept_wentelteefjes.jpg" alt="geillustreerd recept voor maken wentelteefjes, illustratie Hilde Reurink " width="500" height="707" />
 </p>
 
 **Zó maakte ik dit recept:**

@@ -15,7 +15,7 @@ tags:
   - viltrozet
   - viltrozetten
 ---
-<img class="alignleft size-thumbnail wp-image-880" title="rozet1" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/10/rozet1-150x112.jpg" alt="" width="150" height="112" />Vilt is een makkelijk en veelzijdig materiaal. In dit artikel laat ik je zien hoe je zelf een rozet van vilt kunt maken.<!--more-->
+<img class="alignleft size-thumbnail wp-image-880" title="rozet1" src="/wordpress/wp-content/uploads/2010/10/rozet1-150x112.jpg" alt="" width="150" height="112" />Vilt is een makkelijk en veelzijdig materiaal. In dit artikel laat ik je zien hoe je zelf een rozet van vilt kunt maken.<!--more-->
 
 ### Benodigdheden:
 
@@ -44,13 +44,13 @@ tags:
 <div id='gallery-2' class='gallery galleryid-878 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/10/rozet1.jpg'><img width="150" height="112" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/10/rozet1-150x112.jpg" class="attachment-thumbnail" alt="rozet1" /></a>
+      <a href='/wordpress/wp-content/uploads/2010/10/rozet1.jpg'><img width="150" height="112" src="/wordpress/wp-content/uploads/2010/10/rozet1-150x112.jpg" class="attachment-thumbnail" alt="rozet1" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/10/rozet2.jpg'><img width="150" height="148" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/10/rozet2-150x148.jpg" class="attachment-thumbnail" alt="rozet2" /></a>
+      <a href='/wordpress/wp-content/uploads/2010/10/rozet2.jpg'><img width="150" height="148" src="/wordpress/wp-content/uploads/2010/10/rozet2-150x148.jpg" class="attachment-thumbnail" alt="rozet2" /></a>
     </dt>
   </dl>
   

@@ -23,7 +23,7 @@ Af en toe maak ik foto’s van de voortgang van mijn eigen werk. Het is leuk om 
 Hier een paar foto’s van een uil die ik schilderde met acrylverf op papier:
 
 <div id="attachment_3756" style="width: 460px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-3756" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/07/uil_illustratie_1.jpg" alt="illustratie uil stap 1" width="450" height="600" />
+  <img class="size-full wp-image-3756" src="/wordpress/wp-content/uploads/2013/07/uil_illustratie_1.jpg" alt="illustratie uil stap 1" width="450" height="600" />
   
   <p class="wp-caption-text">
     Het begin is er: de potloodtekening schilder ik in met acrylverf
@@ -31,7 +31,7 @@ Hier een paar foto’s van een uil die ik schilderde met acrylverf op papier:
 </div>
 
 <div id="attachment_3757" style="width: 560px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-3757" title="illustratie uil stap 2" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/07/uil_illustratie_2.jpg" alt="illustratie uil stap 2" width="550" height="413" />
+  <img class="size-full wp-image-3757" title="illustratie uil stap 2" src="/wordpress/wp-content/uploads/2013/07/uil_illustratie_2.jpg" alt="illustratie uil stap 2" width="550" height="413" />
   
   <p class="wp-caption-text">
     De vleugels, de romp en het vestje zijn ingekleurd
@@ -39,7 +39,7 @@ Hier een paar foto’s van een uil die ik schilderde met acrylverf op papier:
 </div>
 
 <div id="attachment_3758" style="width: 460px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-3758" title="illustratie uil stap 3" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/07/uil_illustratie_3.jpg" alt="illustratie uil stap 3" width="450" height="553" />
+  <img class="size-full wp-image-3758" title="illustratie uil stap 3" src="/wordpress/wp-content/uploads/2013/07/uil_illustratie_3.jpg" alt="illustratie uil stap 3" width="450" height="553" />
   
   <p class="wp-caption-text">
     De poten en het takje waarop de uil zit ingekleurd
@@ -47,7 +47,7 @@ Hier een paar foto’s van een uil die ik schilderde met acrylverf op papier:
 </div>
 
 <div id="attachment_3759" style="width: 460px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-3759" title="illustratie uil stap 4" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/07/uil_illustratie_4.jpg" alt="illustratie uil stap 4" width="450" height="586" />
+  <img class="size-full wp-image-3759" title="illustratie uil stap 4" src="/wordpress/wp-content/uploads/2013/07/uil_illustratie_4.jpg" alt="illustratie uil stap 4" width="450" height="586" />
   
   <p class="wp-caption-text">
     Door het toevoegen van kleur en structuur gaan de ogen veel meer leven. Schaduw en licht geven de uil meer &#8216;body&#8217;.
@@ -55,7 +55,7 @@ Hier een paar foto’s van een uil die ik schilderde met acrylverf op papier:
 </div>
 
 <div id="attachment_3760" style="width: 460px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-3760" title="illustratie uil stap 5" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/07/uil_illustratie_5.jpg" alt="illustratie uil stap 5" width="450" height="565" />
+  <img class="size-full wp-image-3760" title="illustratie uil stap 5" src="/wordpress/wp-content/uploads/2013/07/uil_illustratie_5.jpg" alt="illustratie uil stap 5" width="450" height="565" />
   
   <p class="wp-caption-text">
     De laatste stap: schilderen van veren op de kop van de uil en nog meer schaduw en licht toegevoegd.
@@ -67,7 +67,7 @@ Hier een paar foto’s van een uil die ik schilderde met acrylverf op papier:
 </p>
 
 <div id="attachment_3762" style="width: 460px" class="wp-caption aligncenter">
-  <a title="De uil is te koop als uitnodiging voor 'n kinderfeestje, bekijk hem via de site van Kaartje2go" href="http://www.kaartje2go.nl/uitnodigingen/uil-kinderfeestje" target="_blank"><img class="size-full wp-image-3762  " src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/07/uil_illustratie_6.jpg" alt="uil illustratie stap 6" width="450" height="624" /></a>
+  <a title="De uil is te koop als uitnodiging voor 'n kinderfeestje, bekijk hem via de site van Kaartje2go" href="http://www.kaartje2go.nl/uitnodigingen/uil-kinderfeestje" target="_blank"><img class="size-full wp-image-3762  " src="/wordpress/wp-content/uploads/2013/07/uil_illustratie_6.jpg" alt="uil illustratie stap 6" width="450" height="624" /></a>
   
   <p class="wp-caption-text">
     Deze uil kun je versturen als uitnodiging voor een kinderfeestje, bestel hem via <a href="http://www.kaartje2go.nl/kaartenwinkel/De+Schildertuin/?sk_id=48" target="_blank" rel="nofollow">Kaartje2go</a>

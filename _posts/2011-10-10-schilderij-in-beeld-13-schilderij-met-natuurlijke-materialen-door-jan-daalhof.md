@@ -11,11 +11,11 @@ tags:
   - schilder
   - schilderijen met natuurlijke materialen
 ---
-<img class="alignleft size-thumbnail wp-image-2288" title="schilderij-van-Jan-Daalhof" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/10/schilderij-van-Jan-150x112.jpg" alt="schilderij-van-Jan-Daalhof" width="150" height="112" />Schilder en kunstenaar Jan Daalhof schildert spontaan op gevoel zonder vooropgezet plan, de materialen en kleuren leiden de weg. De Schildertuin heeft Jan een aantal vragen gesteld, benieuwd naar zijn antwoorden?<!--more-->
+<img class="alignleft size-thumbnail wp-image-2288" title="schilderij-van-Jan-Daalhof" src="/wordpress/wp-content/uploads/2011/10/schilderij-van-Jan-150x112.jpg" alt="schilderij-van-Jan-Daalhof" width="150" height="112" />Schilder en kunstenaar Jan Daalhof schildert spontaan op gevoel zonder vooropgezet plan, de materialen en kleuren leiden de weg. De Schildertuin heeft Jan een aantal vragen gesteld, benieuwd naar zijn antwoorden?<!--more-->
 
 Jan stuurde een foto in van een door hem gemaakt schilderij:
 
-<img class="aligncenter size-full wp-image-2288" title="schilderij-van-Jan-Daalhof" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/10/schilderij-van-Jan.jpg" alt="schilderij-van-Jan-Daalhof" width="450" height="338" />
+<img class="aligncenter size-full wp-image-2288" title="schilderij-van-Jan-Daalhof" src="/wordpress/wp-content/uploads/2011/10/schilderij-van-Jan.jpg" alt="schilderij-van-Jan-Daalhof" width="450" height="338" />
 
 &nbsp;
 

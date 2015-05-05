@@ -10,10 +10,10 @@ tags:
   - zelf biologisch druivensap maken
   - zelf druivensap maken
 ---
-<img class="alignleft wp-image-683 size-thumbnail" title="Zelf biologisch druivensap maken" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/08/druivenstruik1-150x112.jpg" alt="foto van een druivenstruik" width="150" height="112" />**Heb je een druivenstruik in de tuin staan? En weet je niet wat je met die grote hoeveelheid vruchten moet? Maak er druivensap van!**
+<img class="alignleft wp-image-683 size-thumbnail" title="Zelf biologisch druivensap maken" src="/wordpress/wp-content/uploads/2010/08/druivenstruik1-150x112.jpg" alt="foto van een druivenstruik" width="150" height="112" />**Heb je een druivenstruik in de tuin staan? En weet je niet wat je met die grote hoeveelheid vruchten moet? Maak er druivensap van!**
 
 <div>
-  <img class="alignright wp-image-684 size-full" title="Zelf biologisch druivensap maken" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/08/druivenstruik2.jpg" alt="foto van een druivenstruik" width="150" height="113" />
+  <img class="alignright wp-image-684 size-full" title="Zelf biologisch druivensap maken" src="/wordpress/wp-content/uploads/2010/08/druivenstruik2.jpg" alt="foto van een druivenstruik" width="150" height="113" />
 </div>
 
 &nbsp;
@@ -42,7 +42,7 @@ Heb je geen tuin en/of druivenstruik, dan kun je de druiven eventueel ook op de 
   * Doe de druiventrossen in een emmer.
   * Haal nu alle goede druiven van de trossen af en leg deze in de diepe bak.
   * Als je er -naar jouw mening- voldoende hebt, ga je ze heel goed wassen.
-  * Giet al het water af, zodat je schone druiven over houdt.<img class="alignright wp-image-683 size-full" title="Zelf biologisch druivensap maken" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/08/druivenstruik1.jpg" alt="foto van een druivenstruik" width="250" height="188" />
+  * Giet al het water af, zodat je schone druiven over houdt.<img class="alignright wp-image-683 size-full" title="Zelf biologisch druivensap maken" src="/wordpress/wp-content/uploads/2010/08/druivenstruik1.jpg" alt="foto van een druivenstruik" width="250" height="188" />
   * Nu is het de bedoeling dat je de druiven in de bak gaat persen m.b.v. je voeten, was daarom eerst je voeten heel zorgvuldig met water en zeep en spoel ze daarna heel goed af onder de kraan of douche.
   * Ga nu met je blote voeten in de bak staan, bovenop de druiven en maak een lopende beweging.
   * Ga door tot alle druiven uitgeperst zijn.

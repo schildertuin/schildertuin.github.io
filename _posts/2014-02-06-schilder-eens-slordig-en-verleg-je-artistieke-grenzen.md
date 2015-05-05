@@ -29,7 +29,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5704" title="'Zo vrij als een vogel', geschilderd met acrylverf op aquarelpapier" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/zo-vrij-als-een-vogel.jpg" alt="'Zo vrij als een vogel', blauwe vogel geschilderd door Hilde Reurink" width="450" height="599" />
+  <img class="aligncenter size-full wp-image-5704" title="'Zo vrij als een vogel', geschilderd met acrylverf op aquarelpapier" src="/wordpress/wp-content/uploads/2014/02/zo-vrij-als-een-vogel.jpg" alt="'Zo vrij als een vogel', blauwe vogel geschilderd door Hilde Reurink" width="450" height="599" />
 </p>
 
 <p style="text-align: left;">
@@ -41,7 +41,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5703" title="Deze 2 verliefde varkentjes schilderde ik met acrylverf op aquarelpapier" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/verliefde-varkentjes.jpg" alt="verliefde varkentjes geschilderd door Hilde Reurink" width="450" height="604" />
+  <img class="aligncenter size-full wp-image-5703" title="Deze 2 verliefde varkentjes schilderde ik met acrylverf op aquarelpapier" src="/wordpress/wp-content/uploads/2014/02/verliefde-varkentjes.jpg" alt="verliefde varkentjes geschilderd door Hilde Reurink" width="450" height="604" />
 </p>
 
 <p style="text-align: left;">

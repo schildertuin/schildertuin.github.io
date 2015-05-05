@@ -19,7 +19,7 @@ tags:
 *tekst: Hilde Reurink*  
 * illustraties: Mirthe van der Bijl*
 
-**<img class="alignleft  wp-image-5308" title="foto van illustrator Mirthe van der Bijl" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/foto-Mirthe-van-der-Bijl-297x300.jpg" alt="foto-Mirthe-van-der-Bijl" width="238" height="240" />Hallo Mirthe, vertel eens iets over jezelf.**  
+**<img class="alignleft  wp-image-5308" title="foto van illustrator Mirthe van der Bijl" src="/wordpress/wp-content/uploads/2013/12/foto-Mirthe-van-der-Bijl-297x300.jpg" alt="foto-Mirthe-van-der-Bijl" width="238" height="240" />Hallo Mirthe, vertel eens iets over jezelf.**  
 Ik ben Mirthe, ik ben 21 jaar, woon in een kleine stad vlakbij Utrecht en studeer in Utrecht op de HKU (Hoge School voor de Kunsten Utrecht). Daar studeer ik nu voor het vierde en laatste jaar illustratie. Ik hou van mijn katten en andere dieren, natuurlijk tekenen en schilderen, videogames spelen, lezen en Britse detectives en andere spannende series kijken.
 
 &nbsp;
@@ -35,7 +35,7 @@ Eerst werkte ik veel met ecoline en andere waterverf, maar tegenwoordig werk ik 
 **Hoe zou je jouw stijl van illustreren omschrijven?**  
 Ik denk naïef, mijn stijl is een beetje kinderlijk of wellicht is versimpeld een goed woord. Ik gebruik graag grote vormen en vlakken en weinig lijnen.
 
-**<img class="alignright  wp-image-5314" title="hakmes boven snijplank met balpen, illustratie Mirthe van der Bijl" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/illustratie-hakmes-en-balpen-op-snijplank.jpg" alt="illustratie-hakmes-en-balpen-op-snijplank" width="280" height="371" />Je hoort vaak dat een illustrator een eigen handschrift moet hebben, heb jij die? En is het een voordeel of juist een nadeel om een herkenbare tekenstijl te hebben?**  
+**<img class="alignright  wp-image-5314" title="hakmes boven snijplank met balpen, illustratie Mirthe van der Bijl" src="/wordpress/wp-content/uploads/2013/12/illustratie-hakmes-en-balpen-op-snijplank.jpg" alt="illustratie-hakmes-en-balpen-op-snijplank" width="280" height="371" />Je hoort vaak dat een illustrator een eigen handschrift moet hebben, heb jij die? En is het een voordeel of juist een nadeel om een herkenbare tekenstijl te hebben?**  
 Ik vind dat mijn handschrift veel vorm heeft gekregen het afgelopen jaar. Het is heel belangrijk je eigen herkenbare stijl te hebben. Niet alleen om origineel te zijn, het is voor opdrachtgevers ook belangrijk dat ze je kunnen herkennen en weten wat ze kunnen verwachten als ze je voor een illustratie vragen. Zelf vind ik het ook leuk om een tijdschrift door te bladeren en te kijken of ik de illustraties herken op illustrator.
 
 **Wat is volgens jou de functie van een illustratie?**  
@@ -48,7 +48,7 @@ Op mijn opleiding krijg ik er natuurlijk heel veel. In het derde jaar kregen we 
 Ik hou van opdrachten waarbij er wat punten vaststaan, maar waarbij ik zelf ook nog best wat vrijheid heb om in te vullen. Ook ben ik gek op character design, dus iets met leuke karakters is altijd een opdracht waar ik blij van word. Op het moment ben ik bezig met nadenken over interactieve illustratie en heb hier vorig jaar op school drie blokken aan besteed. Dit vond ik ook ontzettend interessant om te doen.
 
 <div id="attachment_5317" style="width: 460px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-5317" title="radijsje in koelkast, illustratie Mirthe van der Bijl" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/school-food-illustratie.jpg" alt="school-food-illustratie" width="450" height="318" />
+  <img class="size-full wp-image-5317" title="radijsje in koelkast, illustratie Mirthe van der Bijl" src="/wordpress/wp-content/uploads/2013/12/school-food-illustratie.jpg" alt="school-food-illustratie" width="450" height="318" />
   
   <p class="wp-caption-text">
     Radijsje ontworpen voor The School Food Trust, een organisatie die zorgt dat kinderen o.a. leren wat een gezonde leefstijl is
@@ -77,7 +77,7 @@ Nee nog niet. Ik zou me hier eigenlijk eens wat meer in moeten verdiepen. Lid wo
 Ik ben het meest trots op mijn interactieve illustraties voor een point-and-click-game. Ik had een vijver gemaakt van acryl binder, kikkers, leliebladen van rubber en alles werd een mooi geheel. Vervolgens moest ik bedenken hoe iemand het moest spelen als een spelletje en de figuren animeren. Het is gewoon heel gaaf dat de figuurtjes die plat begonnen op papier dan tot leven komen op de computer door een klik met de muis.
 
 <div id="attachment_5311" style="width: 560px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-5311" title="interactief spel point and click met kikker op lelieblad, illustratie Mirthe van der Bijl" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/interactieve-illustratie-spel-met-kikker.jpg" alt="interactieve-illustratie-spel-met-kikker" width="550" height="365" />
+  <img class="size-full wp-image-5311" title="interactief spel point and click met kikker op lelieblad, illustratie Mirthe van der Bijl" src="/wordpress/wp-content/uploads/2013/12/interactieve-illustratie-spel-met-kikker.jpg" alt="interactieve-illustratie-spel-met-kikker" width="550" height="365" />
   
   <p class="wp-caption-text">
     Interactieve illustratie voor een point-and-click game
@@ -102,12 +102,12 @@ Elke dag tekenen en kritisch kijken naar wat je beter kunt doen. Als je elke dag
 **Wat wil je als illustrator nog bereiken?**  
 Nou, ik wil dit jaar eerst graag afstuderen natuurlijk! Dat wordt ook heel leuk. Ik ben voor mijn afstuderen onderzoek aan het doen naar hoe je interactie en nieuwe media in zou kunnen zetten voor kinderen. Op dat gebied worden ook zo veel bijzondere dingen gedaan. Maar ik zou ook nog graag eens illustraties maken voor kleding, lijkt me heel gaaf als mensen je illustraties dragen.
 
-**<img class="alignleft size-medium wp-image-5319" title="uitnodiging voor festival, illustratie Mirthe van der Bijl" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/uitnodiging-300x195.jpg" alt="uitnodiging" width="300" height="195" />Waar kunnen mensen jouw werk bekijken op internet?**  
+**<img class="alignleft size-medium wp-image-5319" title="uitnodiging voor festival, illustratie Mirthe van der Bijl" src="/wordpress/wp-content/uploads/2013/12/uitnodiging-300x195.jpg" alt="uitnodiging" width="300" height="195" />Waar kunnen mensen jouw werk bekijken op internet?**  
 Mijn blog: <a title="Weblog van Mirthe van der Bijl op Tumblr" href="http://mirthebloom.tumblr.com/" target="_blank">mirthebloom.tumblr.com</a>  
 en mijn portfolio: <a title="Portfolio van illustrator Mirthe van der Bijl" href="http://mirtheportfolio.tumblr.com/" target="_blank">mirtheportfolio.tumblr.com </a>
 
-*Lees ook de andere <a title="Interviews met illustratoren" href="http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
+*Lees ook de andere <a title="Interviews met illustratoren" href="/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5312" title="bordspel Moby Dick, illustraties van Mirthe van der Bijl" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/12/spel-moby-dick-walvisduik.jpg" alt="spel-moby-dick-walvisduik" width="550" height="413" />
+  <img class="aligncenter size-full wp-image-5312" title="bordspel Moby Dick, illustraties van Mirthe van der Bijl" src="/wordpress/wp-content/uploads/2013/12/spel-moby-dick-walvisduik.jpg" alt="spel-moby-dick-walvisduik" width="550" height="413" />
 </p>

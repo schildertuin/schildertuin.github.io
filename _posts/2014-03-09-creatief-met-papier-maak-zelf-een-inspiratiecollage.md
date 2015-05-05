@@ -21,7 +21,7 @@ tags:
 **In deze opdracht maak je in korte tijd een papiercollage met eenvoudige middelen.**  
 ** De collage geeft je inspiratie voor nieuwe creatieve projecten.**
 
-## <img class="alignright  wp-image-6101" title="dit heb je nodig om zelf een papiercollage te maken" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/03/benodigdheden-collage.jpg" alt="fotocollage van benodigdheden om zelf een papiercollage te maken" width="300" height="300" />Benodigdheden papiercollage:
+## <img class="alignright  wp-image-6101" title="dit heb je nodig om zelf een papiercollage te maken" src="/wordpress/wp-content/uploads/2014/03/benodigdheden-collage.jpg" alt="fotocollage van benodigdheden om zelf een papiercollage te maken" width="300" height="300" />Benodigdheden papiercollage:
 
   * 1 vel papier (A4 of groter)
   * schaar
@@ -34,7 +34,7 @@ tags:
 
 &nbsp;
 
-<img class="alignleft  wp-image-6097" title="maak zelf een papiercollage in 1 uur tijd" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/03/speelgoedwekker1.jpg" alt="foto van een speelgoedwekker" width="175" height="186" />
+<img class="alignleft  wp-image-6097" title="maak zelf een papiercollage in 1 uur tijd" src="/wordpress/wp-content/uploads/2014/03/speelgoedwekker1.jpg" alt="foto van een speelgoedwekker" width="175" height="186" />
 
 &nbsp;
 
@@ -57,7 +57,7 @@ tags:
 </p>
 
 <div id="attachment_6085" style="width: 560px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-6085 " title="maak zelf een inspiratiecollage met een thema" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/03/inspiratiecollage_feest.jpg" alt="inspiratiecollage met het thema feest" width="550" height="386" />
+  <img class="size-full wp-image-6085 " title="maak zelf een inspiratiecollage met een thema" src="/wordpress/wp-content/uploads/2014/03/inspiratiecollage_feest.jpg" alt="inspiratiecollage met het thema feest" width="550" height="386" />
   
   <p class="wp-caption-text">
     mijn inspiratiecollage met het thema feest

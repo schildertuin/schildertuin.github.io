@@ -22,7 +22,7 @@ Deze week heb ik nieuwe geboortekaartjes voor <a title="ga naar de site van Kaar
 De namen en geboortedatum zijn aanpasbaar. De kaart is er in 3 varianten: voor een meisjes tweeling, een jongens tweeling en voor een jongen-meisje tweeling.
 
 <div id="attachment_4082" style="width: 424px" class="wp-caption aligncenter">
-  <a href="http://www.kaartje2go.nl/geboortekaartjes/olifantjes-tweeling-jongen-en-meisje" target="_blank"><img class="size-full wp-image-4082      " title="je kunt deze geboortekaart via Kaartje2go bestellen, klik op de kaart" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/08/geboortekaart_olifantjes_tweeling_jongen_meisje.jpg" alt="geboortekaart met roze en blauwe olifantje voor tweeling jongen-meisje" width="414" height="414" /></a>
+  <a href="http://www.kaartje2go.nl/geboortekaartjes/olifantjes-tweeling-jongen-en-meisje" target="_blank"><img class="size-full wp-image-4082      " title="je kunt deze geboortekaart via Kaartje2go bestellen, klik op de kaart" src="/wordpress/wp-content/uploads/2013/08/geboortekaart_olifantjes_tweeling_jongen_meisje.jpg" alt="geboortekaart met roze en blauwe olifantje voor tweeling jongen-meisje" width="414" height="414" /></a>
   
   <p class="wp-caption-text">
     geboortekaart met olifantjes voor een jongen-meisje tweeling
@@ -30,7 +30,7 @@ De namen en geboortedatum zijn aanpasbaar. De kaart is er in 3 varianten: voor e
 </div>
 
 <div id="attachment_4083" style="width: 424px" class="wp-caption aligncenter">
-  <a href="http://www.kaartje2go.nl/geboortekaartjes/olifantjes-tweeling-jongens" target="_blank"><img class="size-full wp-image-4083  " title="je kunt deze geboortekaart via Kaartje2go bestellen, klik op de kaart" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/08/geboortekaart_olifantjes_tweeling_jongens.jpg" alt="geboortekaart met blauwe olifantjes voor tweeling jongens" width="414" height="414" /></a>
+  <a href="http://www.kaartje2go.nl/geboortekaartjes/olifantjes-tweeling-jongens" target="_blank"><img class="size-full wp-image-4083  " title="je kunt deze geboortekaart via Kaartje2go bestellen, klik op de kaart" src="/wordpress/wp-content/uploads/2013/08/geboortekaart_olifantjes_tweeling_jongens.jpg" alt="geboortekaart met blauwe olifantjes voor tweeling jongens" width="414" height="414" /></a>
   
   <p class="wp-caption-text">
     geboortekaart met olifantjes voor een jongens tweeling
@@ -38,7 +38,7 @@ De namen en geboortedatum zijn aanpasbaar. De kaart is er in 3 varianten: voor e
 </div>
 
 <div id="attachment_4084" style="width: 424px" class="wp-caption aligncenter">
-  <a href="http://www.kaartje2go.nl/geboortekaartjes/olifantjes-tweeling-meisjes" target="_blank"><img class="size-full wp-image-4084 " title="je kunt deze geboortekaart via Kaartje2go bestellen, klik op de kaart" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/08/geboortekaart_olifantjes_tweeling_meisjes.jpg" alt="geboortekaart met roze olifantjes voor tweeling meisjes" width="414" height="414" /></a>
+  <a href="http://www.kaartje2go.nl/geboortekaartjes/olifantjes-tweeling-meisjes" target="_blank"><img class="size-full wp-image-4084 " title="je kunt deze geboortekaart via Kaartje2go bestellen, klik op de kaart" src="/wordpress/wp-content/uploads/2013/08/geboortekaart_olifantjes_tweeling_meisjes.jpg" alt="geboortekaart met roze olifantjes voor tweeling meisjes" width="414" height="414" /></a>
   
   <p class="wp-caption-text">
     geboortekaart met olifantjes voor een meisjes tweeling

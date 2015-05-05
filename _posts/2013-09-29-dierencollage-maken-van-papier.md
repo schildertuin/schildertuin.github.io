@@ -21,7 +21,7 @@ Met papier kun je geweldige collages maken. Papier is goedkoop en makkelijk te v
 Ik maakte onlangs een kleurige papegaai, een schattig oranje konijntje en een blauwe vis m.b.v. de collagetechniek.
 
 <div id="attachment_4359" style="width: 335px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-4359" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/09/papegaai.jpg" alt="papegaai collage papier" width="325" height="513" />
+  <img class="size-full wp-image-4359" src="/wordpress/wp-content/uploads/2013/09/papegaai.jpg" alt="papegaai collage papier" width="325" height="513" />
   
   <p class="wp-caption-text">
     papegaai, pentekening en collagetechniek
@@ -29,7 +29,7 @@ Ik maakte onlangs een kleurige papegaai, een schattig oranje konijntje en een bl
 </div>
 
 <div id="attachment_4358" style="width: 491px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-4358" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/09/konijn.jpg" alt="konijn collage papier" width="481" height="475" />
+  <img class="size-full wp-image-4358" src="/wordpress/wp-content/uploads/2013/09/konijn.jpg" alt="konijn collage papier" width="481" height="475" />
   
   <p class="wp-caption-text">
     konijntje, pentekening en collagetechniek
@@ -37,7 +37,7 @@ Ik maakte onlangs een kleurige papegaai, een schattig oranje konijntje en een bl
 </div>
 
 <div id="attachment_4360" style="width: 560px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-4360" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/09/vis.jpg" alt="vis collage papier" width="550" height="406" />
+  <img class="size-full wp-image-4360" src="/wordpress/wp-content/uploads/2013/09/vis.jpg" alt="vis collage papier" width="550" height="406" />
   
   <p class="wp-caption-text">
     Vis, pentekening en collagetechniek

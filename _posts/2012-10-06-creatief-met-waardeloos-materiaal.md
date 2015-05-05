@@ -17,7 +17,7 @@ tags:
   - waardeloos materiaal
 ---
 <div id="attachment_4358" style="width: 219px" class="wp-caption alignleft">
-  <img class="wp-image-4358" title="Creatief met waardeloos materiaal, konijn papiercollage" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/09/konijn.jpg" alt="Creatief met waardeloos materiaal, konijn papiercollage" width="209" height="206" />
+  <img class="wp-image-4358" title="Creatief met waardeloos materiaal, konijn papiercollage" src="/wordpress/wp-content/uploads/2013/09/konijn.jpg" alt="Creatief met waardeloos materiaal, konijn papiercollage" width="209" height="206" />
   
   <p class="wp-caption-text">
     dit lieve konijn maakte ik met papier uit oude tijdschriften, dat kun jij ook!

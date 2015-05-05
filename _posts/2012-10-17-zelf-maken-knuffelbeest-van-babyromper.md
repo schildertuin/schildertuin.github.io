@@ -23,7 +23,7 @@ Ik maakte deze week een knuffelkonijn van een oude romper van mijn dochtertje .
 Hier zie je de metamorfose van romper tot knuffelbeest:
 
 <p style="text-align: center;">
-  <img class="wp-image-2979 aligncenter" title="Maak zelf knuffelbeest van oude romper" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/10/romper_wordt_knuffelbeest.jpg" alt="Maak zelf knuffelbeest van oude romper" width="487" height="169" />
+  <img class="wp-image-2979 aligncenter" title="Maak zelf knuffelbeest van oude romper" src="/wordpress/wp-content/uploads/2012/10/romper_wordt_knuffelbeest.jpg" alt="Maak zelf knuffelbeest van oude romper" width="487" height="169" />
 </p>
 
 Het heeft me behalve tijd niets gekost en dochter is er superblij mee!

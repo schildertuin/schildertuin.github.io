@@ -10,11 +10,11 @@ tags:
   - Joke van der Wal
   - schilderijen van dieren
 ---
-<img class="alignleft size-thumbnail wp-image-2035" title="Afrikaanse olifantenmoeder met jong door Joke geschilderd" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/06/schilderij-van-Joke-104x150.jpg" alt="Afrikaanse olifantenmoeder met jong door Joke geschilderd" width="104" height="150" />Joke van der Wal schildert dieren in acrylverf of olieverf. Haar schilderijen zijn realistisch. De Schildertuin heeft Joke een aantal vragen gesteld, benieuwd naar haar antwoorden?<!--more Lees het interview met Joke->-->
+<img class="alignleft size-thumbnail wp-image-2035" title="Afrikaanse olifantenmoeder met jong door Joke geschilderd" src="/wordpress/wp-content/uploads/2011/06/schilderij-van-Joke-104x150.jpg" alt="Afrikaanse olifantenmoeder met jong door Joke geschilderd" width="104" height="150" />Joke van der Wal schildert dieren in acrylverf of olieverf. Haar schilderijen zijn realistisch. De Schildertuin heeft Joke een aantal vragen gesteld, benieuwd naar haar antwoorden?<!--more Lees het interview met Joke->-->
 
 Joke stuurde een foto in van een door haar gemaakt schilderij met olifanten:
 
-<img class="aligncenter size-full wp-image-2035" title="Afrikaanse olifantenmoeder met jong door Joke geschilderd" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/06/schilderij-van-Joke.jpg" alt="Afrikaanse olifantenmoeder met jong door Joke geschilderd" width="403" height="576" />**1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo? **
+<img class="aligncenter size-full wp-image-2035" title="Afrikaanse olifantenmoeder met jong door Joke geschilderd" src="/wordpress/wp-content/uploads/2011/06/schilderij-van-Joke.jpg" alt="Afrikaanse olifantenmoeder met jong door Joke geschilderd" width="403" height="576" />**1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo? **
 
 Zo&#8217;n 20 jaar geleden. Bij het zien op de televisie van een Teleac cursus, Landschappen tekenen en schilderen.
 

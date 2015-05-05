@@ -23,7 +23,7 @@ tags:
 ** In Zwolle (de stad waar ik woon) zijn veel leuke tweedehands kledingwinkels. Regelmatig koop of verkoop ik kleding in één van de vele kringloopwinkels in de stad.**
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-4650" title="tweedehands kledingwinkel, illustratie Hilde Reurink" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/illustratie-tweedehands-kledingwinkel.jpg" alt="illustratie tweedehands kledingwinkel" width="550" height="335" />
+  <img class="aligncenter size-full wp-image-4650" title="tweedehands kledingwinkel, illustratie Hilde Reurink" src="/wordpress/wp-content/uploads/2013/10/illustratie-tweedehands-kledingwinkel.jpg" alt="illustratie tweedehands kledingwinkel" width="550" height="335" />
 </p>
 
 <h2 style="text-align: left;">
@@ -39,7 +39,7 @@ Hier een lijst met winkels in Zwolle die tweedehands kleding verkopen:
   * <a title="website Harry's Kringloophal Zwolle" href="http://harryskringloophal.nl/" target="_blank">Harry&#8217;s Kringloophal</a>
   * <a title="website Terre des Hommes winkel Zwolle" href="http://www.terredeshommes.nl/winkels/item?shop_id=24" target="_blank">Terre des Hommes winkel Zwolle</a>
 
-**<img class=" wp-image-4692 alignright" title="meisje in pashokje, illustratie Hilde Reurink" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/10/illustratie-meisje-achter-paskamergordijn.jpg" alt="meisje in pashokje, illustratie Hilde Reurink" width="315" height="472" />Tweedehands kledingwinkels Zwolle:**
+**<img class=" wp-image-4692 alignright" title="meisje in pashokje, illustratie Hilde Reurink" src="/wordpress/wp-content/uploads/2013/10/illustratie-meisje-achter-paskamergordijn.jpg" alt="meisje in pashokje, illustratie Hilde Reurink" width="315" height="472" />Tweedehands kledingwinkels Zwolle:**
 
   * <a title="website Heppie! Zwolle" href="http://www.heppiezwolle.nl/" target="_blank">Heppie!</a>: in- en verkoop van gebruikt en nieuw kinderspul
   * <a title="meer info op de website van Kleding voor Iedereen" href="http://www.kledingvooriedereen.eu/" target="_blank">Kleding voor Iedereen</a>: Voor leden zijn alle kledingartikelen en schoenen en verkrijgbaar voor een symbolisch bedrag van slechts € 2,50 per stuk.

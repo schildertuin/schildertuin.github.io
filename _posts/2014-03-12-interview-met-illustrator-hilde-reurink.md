@@ -34,7 +34,7 @@ tags:
 *tekst: Hilde Reurink*  
 * illustraties: Hilde Reurink*
 
-**<img class="alignright size-full wp-image-6134" title="foto van illustrator Hilde Reurink" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/03/foto-Hilde2.jpg" alt="foto van illustrator Hilde Reurink" width="352" height="352" />Vertel eens iets over jezelf.**  
+**<img class="alignright size-full wp-image-6134" title="foto van illustrator Hilde Reurink" src="/wordpress/wp-content/uploads/2014/03/foto-Hilde2.jpg" alt="foto van illustrator Hilde Reurink" width="352" height="352" />Vertel eens iets over jezelf.**  
 Mijn naam is Hilde Reurink en ik ben freelance illustrator en ontwerper. Ik woon in Zwolle, samen met mijn vriend en dochtertje. Sinds 2007 heb ik een eigen bedrijf: de Schildertuin. Ik maak illustraties, ontwerpen en ik houd deze weblog bij.  
 Na jaren van veel verschillende banen die me niet gelukkig maakten, besloot ik om mijn beroep te maken van wat ik het liefst deed, tekenen en ontwerpen. Werken voelt nu niet meer als werken en wat is er mooier dan dat? In mijn vrije tijd mag ik  graag lezen, fotograferen, fietsen en films kijken.
 
@@ -53,14 +53,14 @@ Potlood, pen, fineliner, inkt, acrylverf, papier, textiel en ik werk veel met fo
 Ik maak veel collages met allerlei materialen en technieken door elkaar heen, mixed media collages. Mijn stijl is vrolijk, met humor en een mix van werkelijkheid en fantasie.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-6177" title="fotocollage thema vakantie in eigen land, gemaakt door Hilde Reurink" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/03/foto-Hilde-in-auto2.jpg" alt="fotocollage thema vakantie in eigen land, gemaakt door Hilde Reurink" width="550" height="367" />
+  <img class="aligncenter size-full wp-image-6177" title="fotocollage thema vakantie in eigen land, gemaakt door Hilde Reurink" src="/wordpress/wp-content/uploads/2014/03/foto-Hilde-in-auto2.jpg" alt="fotocollage thema vakantie in eigen land, gemaakt door Hilde Reurink" width="550" height="367" />
 </p>
 
 **Je hoort vaak dat een illustrator een eigen handschrift moet hebben, heb jij die? En zo ja, is het een voordeel of juist een nadeel om een herkenbare tekenstijl te hebben?**  
 Daar worstel ik nog steeds mee, ik houd van afwisseling en raak snel verveeld als ik steeds in dezelfde stijl werk. Ik heb me daarom toegelegd op collages: zo kan ik heel veel verschillende materialen en technieken gebruiken om tot een beeld te komen. Het leuke is dat ik nu opdrachten krijg op basis van m&#8217;n collages, kennelijk heb ik toch een eigen stijl ontwikkeld die anderen aanspreekt;).  
 Zelf denk ik dat een vaste stijl hebben goed werkt voor je herkenbaarheid, opdrachtgevers willen weten waar ze aan toe zijn. Maar buiten de stijl waarvan mensen je kennen mag je best ander werk maken, dat is juist goed!
 
-**<img class="alignleft size-full wp-image-6181" title="meisje op schommel, mixed media collage van Hilde Reurink" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/03/meisje-op-schommel.jpg" alt="meisje op schommel, mixed media collage van Hilde Reurink" width="350" height="469" />Wat is volgens jou de functie van een illustratie?**  
+**<img class="alignleft size-full wp-image-6181" title="meisje op schommel, mixed media collage van Hilde Reurink" src="/wordpress/wp-content/uploads/2014/03/meisje-op-schommel.jpg" alt="meisje op schommel, mixed media collage van Hilde Reurink" width="350" height="469" />Wat is volgens jou de functie van een illustratie?**  
 Voor mijn weblog gebruik ik illustraties om de teksten aantrekkelijker te maken. Webteksten met plaatjes erbij worden sneller gelezen dan artikelen die uit alleen maar tekst bestaan.  
 Voor opdrachten maak ik ook illustraties die een tekst aanvullen of verduidelijken. In de wenskaarten die ik ontwerp hebben illustraties meestal een decoratieve functie.
 
@@ -80,7 +80,7 @@ Ja, ik gebruik <a title="illustrator Hilde Reurink op LinkedIn" href="http://nl.
 Op dit moment kan ik nog niet leven van mijn illustraties, ik ben dan ook voortdurend op zoek naar nieuwe mogelijkheden en opdrachten. Wat ik zelf ervaar (en ook van andere illustratoren hoor) is dat het een kwestie is van volhouden. Als illustrator moet je een lange adem hebben om er je brood mee te kunnen verdienen.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-6190" title="Bikkel en Skip met de trein, mixed media collage van Hilde Reurink" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/03/Bikkel-en-Skip-op-trein.jpg" alt="Bikkel en Skip met de trein, mixed media collage van Hilde Reurink" width="450" height="385" />
+  <img class="aligncenter size-full wp-image-6190" title="Bikkel en Skip met de trein, mixed media collage van Hilde Reurink" src="/wordpress/wp-content/uploads/2014/03/Bikkel-en-Skip-op-trein.jpg" alt="Bikkel en Skip met de trein, mixed media collage van Hilde Reurink" width="450" height="385" />
 </p>
 
 **Hoe ziet een gemiddelde werkdag van jou eruit?**  
@@ -95,14 +95,14 @@ De illustraties die ik maak voor een educatief boek van ThiemeMeulenhoff. Dit is
 **Welke andere illustratoren bewonder je?**  
 <a title="website Fiep Westendorp Foundation" href="http://www.fiepwestendorp.nl/fiepamsterdam/" target="_blank">Fiep Westendorp</a>, <a title="website van illustrator Quentin Blake" href="http://www.quentinblake.com/" target="_blank">Quentin Blake</a>, <a title="website van illustrator The Tjong Khing" href="http://www.thetjongkhing.nl/" target="_blank">Thé Tjong-Khing</a>, <a title="filmpje met de illustraties van Richard Scarry" href="http://www.youtube.com/watch?v=cgV3vdOT09I" target="_blank">Richard Scarry</a>, <a title="website met werk van illustrator Mary Blair" href="http://magicofmaryblair.com/home" target="_blank">Mary Blair</a>, <a title="Wikipedia pagina over illustrator Marcel Marlier" href="http://nl.wikipedia.org/wiki/Marcel_Marlier" target="_blank">Marcel Marlier</a>, <a title="website over het werk van illustrator Ulf Löfgren" href="http://www.ulflofgren.nu/index.php" target="_blank">Ulf Löfgren</a>, <a title="website van illustrator Tom Schamp" href="http://www.tomschamp.com/" target="_blank">Tom Schamp</a>, <a title="website van illustrator Natascha Stenvert" href="http://www.nataschastenvert.nl/" target="_blank">Natascha Stenvert</a>, te veel om hier op te noemen…
 
-**<img class="alignleft  wp-image-6179" title="geldwolf, fotocollage geinspireerd door film the Wolf of Wall Street, illustratie van Hilde Reurink" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/03/geldwolf.jpg" alt="geldwolf, fotocollage geinspireerd door film the Wolf of Wall Street, illustratie van Hilde Reurink" width="360" height="360" />Waarin vind jij inspiratie?**  
+**<img class="alignleft  wp-image-6179" title="geldwolf, fotocollage geinspireerd door film the Wolf of Wall Street, illustratie van Hilde Reurink" src="/wordpress/wp-content/uploads/2014/03/geldwolf.jpg" alt="geldwolf, fotocollage geinspireerd door film the Wolf of Wall Street, illustratie van Hilde Reurink" width="360" height="360" />Waarin vind jij inspiratie?**  
 In tijdschriften en boeken, in films, op straat, in de natuur, op vakantie, in kunst, eigenlijk in alles:).
 
 **Las je als kind graag boeken? Zo ja, wat waren jouw favoriete (prenten)boeken?**  
 Ja en nog steeds hou ik enorm van lezen! Enkele favorieten: Otje, Spaghetti van Menetti, de kinderboeken van <a title="website over het werk van Roald Dahl" href="http://www.roalddahl.com/" target="_blank">Roald Dahl</a>, Albin helpt een handje, het Kalekoppenhuis, de boeken van Richard Scarry en nog veel meer…
 
 **Waar ben je op dit moment mee bezig?**  
-Een opdracht voor een educatieve uitgeverij: illustraties voor een leerboek voor het vak Nederlands. Verder ga ik binnenkort een online cursus volgen, <a title="online cursus van Lilla Rogers: Make Art That Sells" href="http://lillarogers.com/make-art-that-sells/" target="_blank">Make Art That Sells</a>, hiermee wil ik mijn werk een creatieve en commerciële boost geven. En ik ben bezig met de <a title="ontvang inspirerende tips om creatiever te denken" href="http://www.schildertuin.nl/wordpress/inspiratietips/" target="_blank">creatieve inspiratietips</a> voor deze weblog, je kunt je hiervoor aanmelden, dan ontvang je ze elke week in je mailbox;).
+Een opdracht voor een educatieve uitgeverij: illustraties voor een leerboek voor het vak Nederlands. Verder ga ik binnenkort een online cursus volgen, <a title="online cursus van Lilla Rogers: Make Art That Sells" href="http://lillarogers.com/make-art-that-sells/" target="_blank">Make Art That Sells</a>, hiermee wil ik mijn werk een creatieve en commerciële boost geven. En ik ben bezig met de <a title="ontvang inspirerende tips om creatiever te denken" href="/wordpress/inspiratietips/" target="_blank">creatieve inspiratietips</a> voor deze weblog, je kunt je hiervoor aanmelden, dan ontvang je ze elke week in je mailbox;).
 
 **Heb je nog tips voor mensen die ook graag illustrator willen worden?**  
 Teken zoveel mogelijk, dan word je steeds beter. Wees niet bang om andere materialen en technieken uit te proberen, dan merk je vanzelf wat het best bij je past. Ga netwerken, laat je werk zien op social media en zorg ervoor dat jouw werk opvalt. En vooral: houd vast aan je droom en werk er hard voor, geef de moed niet op en laat je niet ontmoedigen door de mening van anderen. Ik ben zelf al jaren bezig en pas sinds een klein jaar begint het te lopen, maar alleen doordat ik heb doorgezet.
@@ -111,10 +111,10 @@ Teken zoveel mogelijk, dan word je steeds beter. Wees niet bang om andere materi
 Zelf een boek schrijven en illustreren, dat boek zal gaan over inspiratie en creativiteit en de vormgeving moet heel bijzonder worden. Dus, als een uitgeverij interesse heeft&#8230;;)
 
 **Waar kunnen mensen jouw werk bekijken op internet?**  
-Op mijn <a title="weblog van illustrator Hilde Reurink" href="http://www.schildertuin.nl" target="_blank">weblog</a>, mijn online <a title="portfolio van illustrator Hilde Reurink" href="http://www.hildereurink.nl/" target="_blank">portfolio</a> en mijn <a title="wenskaarten van Hilde Reurink te koop bij Kaartje2go" href="https://www.kaartje2go.nl/kaartenwinkel/De+Schildertuin" target="_blank">wenskaarten</a> voor Kaartje2go.
+Op mijn <a title="weblog van illustrator Hilde Reurink" href="" target="_blank">weblog</a>, mijn online <a title="portfolio van illustrator Hilde Reurink" href="http://www.hildereurink.nl/" target="_blank">portfolio</a> en mijn <a title="wenskaarten van Hilde Reurink te koop bij Kaartje2go" href="https://www.kaartje2go.nl/kaartenwinkel/De+Schildertuin" target="_blank">wenskaarten</a> voor Kaartje2go.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-6185" title="huwelijksbootje, ontwerp trouwkaart, illustratie Hilde Reurink" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/03/huwelijksbootje.jpg" alt="huwelijksbootje, ontwerp trouwkaart, illustratie Hilde Reurink" width="550" height="414" />
+  <img class="aligncenter size-full wp-image-6185" title="huwelijksbootje, ontwerp trouwkaart, illustratie Hilde Reurink" src="/wordpress/wp-content/uploads/2014/03/huwelijksbootje.jpg" alt="huwelijksbootje, ontwerp trouwkaart, illustratie Hilde Reurink" width="550" height="414" />
 </p>
 
 &nbsp;

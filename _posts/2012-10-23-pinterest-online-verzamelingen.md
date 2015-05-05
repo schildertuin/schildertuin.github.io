@@ -17,7 +17,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-3002" title="Mijn prikborden op Pinterest" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2012/10/pinterest.jpg" alt="printscreen van prikborden Hilde Reurink op Pinterest" width="500" height="325" />
+  <img class="aligncenter size-full wp-image-3002" title="Mijn prikborden op Pinterest" src="/wordpress/wp-content/uploads/2012/10/pinterest.jpg" alt="printscreen van prikborden Hilde Reurink op Pinterest" width="500" height="325" />
 </p>
 
 Op deze website &#8216;pin&#8217; je plaatjes die je vindt op internet. Je pins verzamel je op digitale prikborden. Je kan je borden bijvoorbeeld gebruiken om inspiratie op te doen voor je huis of je vakantie of voor DIY projecten. De mogelijkheden zijn eindeloos.

@@ -22,6 +22,6 @@ De dagen vóór Kerst vind ik persoonlijk gezelliger dan het feest zelf. Familie
 
 In deze kaart heb ik mijn kerstgevoel vertaald naar een kleurrijke collage met duidelijke retro invloeden:
 
-<img class="aligncenter  wp-image-4865" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2013/11/kerstkaart-retro-huiskamer.jpg" alt="kerstkaart retro huiskamer mixed media collage" width="399" height="399" />
+<img class="aligncenter  wp-image-4865" src="/wordpress/wp-content/uploads/2013/11/kerstkaart-retro-huiskamer.jpg" alt="kerstkaart retro huiskamer mixed media collage" width="399" height="399" />
 
-<img class="aligncenter size-full wp-image-7346" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/12/banner2_kerstkaarten.jpg" alt="banner kerstkaarten de Schildertuin" width="250" height="400" />
+<img class="aligncenter size-full wp-image-7346" src="/wordpress/wp-content/uploads/2014/12/banner2_kerstkaarten.jpg" alt="banner kerstkaarten de Schildertuin" width="250" height="400" />

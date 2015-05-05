@@ -13,11 +13,11 @@ tags:
   - lettertypes
   - typografie
 ---
-<img class="alignleft size-thumbnail wp-image-793" title="decoratieve letters op een verjaardagskaart" alt="verjaardagskaart met het woord jarig in decoratieve letters" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/09/kaartjarig-150x150.jpg" width="150" height="150" />Deze week had ik voor mijn DTP-opleiding een les over typografie, een interessant en belangrijk onderdeel van Desktop Publishing.  
+<img class="alignleft size-thumbnail wp-image-793" title="decoratieve letters op een verjaardagskaart" alt="verjaardagskaart met het woord jarig in decoratieve letters" src="/wordpress/wp-content/uploads/2010/09/kaartjarig-150x150.jpg" width="150" height="150" />Deze week had ik voor mijn DTP-opleiding een les over typografie, een interessant en belangrijk onderdeel van Desktop Publishing.  
 Stel, je maakt voor een klant een poster, een folder, een huisstijl of een boek, wat is dan belangrijker: het beeldmateriaal of de tekst?<!--more--> Moeilijke vraag. Vaak kan het één niet zonder het ander. Tekst kan een beeld verduidelijken, kan informeren, maar tekst kan ook heel decoratief zijn:
 
 <div id="attachment_793" style="width: 410px" class="wp-caption alignright">
-  <img class="size-full wp-image-793" title="decoratieve letters op een verjaardagskaart" alt="verjaardagskaart met het woord jarig in decoratieve letters" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2010/09/kaartjarig.jpg" width="400" height="400" />
+  <img class="size-full wp-image-793" title="decoratieve letters op een verjaardagskaart" alt="verjaardagskaart met het woord jarig in decoratieve letters" src="/wordpress/wp-content/uploads/2010/09/kaartjarig.jpg" width="400" height="400" />
   
   <p class="wp-caption-text">
     zelf ontworpen verjaardagskaart, decoratieve letters

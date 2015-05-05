@@ -10,11 +10,11 @@ tags:
   - schilderij Audrey Hepburn
   - "schilderij Breakfast at Tiffany's"
 ---
-<img class="alignleft size-thumbnail wp-image-2327" title="portret van Audrey Hepburn, geschilderd door Liesbeth Visscher" alt="portret van Audrey Hepburn, geschilderd door Liesbeth Visscher" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/10/achilderij-van-Liesbeth-121x150.jpg" width="121" height="150" />Liesbeth Visscher schildert nog niet zo lang, maar heeft al een prachtig portret geschilderd. De Schildertuin heeft Liesbeth een aantal vragen gesteld, benieuwd naar haar antwoorden?<!--moreLees het interview met Liesbeth-->
+<img class="alignleft size-thumbnail wp-image-2327" title="portret van Audrey Hepburn, geschilderd door Liesbeth Visscher" alt="portret van Audrey Hepburn, geschilderd door Liesbeth Visscher" src="/wordpress/wp-content/uploads/2011/10/achilderij-van-Liesbeth-121x150.jpg" width="121" height="150" />Liesbeth Visscher schildert nog niet zo lang, maar heeft al een prachtig portret geschilderd. De Schildertuin heeft Liesbeth een aantal vragen gesteld, benieuwd naar haar antwoorden?<!--moreLees het interview met Liesbeth-->
 
 Liesbeth stuurde een foto in van een door haar gemaakt schilderij:
 
-<img class="aligncenter size-full wp-image-2327" title="portret van Audrey Hepburn, geschilderd door Liesbeth Visscher" alt="portret van Audrey Hepburn, geschilderd door Liesbeth Visscher" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2011/10/achilderij-van-Liesbeth.jpg" width="450" height="557" />
+<img class="aligncenter size-full wp-image-2327" title="portret van Audrey Hepburn, geschilderd door Liesbeth Visscher" alt="portret van Audrey Hepburn, geschilderd door Liesbeth Visscher" src="/wordpress/wp-content/uploads/2011/10/achilderij-van-Liesbeth.jpg" width="450" height="557" />
 
 **1. Wanneer ben je begonnen met schilderen en hoe kwam dat zo? **  
 Vorig jaar ben ik begonnen met schilderen. Iets wat spontaan in mij opkwam.

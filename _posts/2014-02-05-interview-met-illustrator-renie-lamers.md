@@ -25,11 +25,11 @@ tags:
 *tekst: Hilde Reurink*  
 * illustraties:* *Renie Lamers*
 
-**<img class="alignleft size-medium wp-image-5647" title="foto van illustrator Renie Lamers" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/foto-Renie-Lamers-300x225.jpg" alt="foto van illustrator Renie Lamers" width="300" height="225" />Hallo Renie, vertel eens iets over jezelf.**  
+**<img class="alignleft size-medium wp-image-5647" title="foto van illustrator Renie Lamers" src="/wordpress/wp-content/uploads/2014/02/foto-Renie-Lamers-300x225.jpg" alt="foto van illustrator Renie Lamers" width="300" height="225" />Hallo Renie, vertel eens iets over jezelf.**  
 Hoi! Mijn naam is Renie Lamers en ik ben 27 jaar. Sinds 2 jaar werk ik als freelance illustrator. Tekenen is altijd mijn hobby geweest, daarnaast lees en reis ik graag. Ik woon in Breda, nog steeds op mijn studentenstekje: een gedeelde etage in een ouderwets rijtjeshuis. Mijn werk is een combinatie van grafische technieken als zeefdruk en etsen, aangevuld met collage technieken en een beetje computermagie! Het liefst maak ik infographics, ofwel informatieve illustraties.
 
 <p style="text-align: center;">
-  <img class="aligncenter  wp-image-5655" title="Infographic over de Yak, illustratie van Renie Lamers" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/EXTRAyakinfographic.jpg" alt="Infographic over de Yak, illustratie van Renie Lamers" width="450" height="636" />
+  <img class="aligncenter  wp-image-5655" title="Infographic over de Yak, illustratie van Renie Lamers" src="/wordpress/wp-content/uploads/2014/02/EXTRAyakinfographic.jpg" alt="Infographic over de Yak, illustratie van Renie Lamers" width="450" height="636" />
 </p>
 
 **Wanneer besloot je illustrator te worden?<!--more-->**
@@ -53,7 +53,7 @@ Ik denk wel dat ik een eigen handschrift heb ontwikkeld door de jaren heen. Voor
 Wat ik altijd heb geleerd is dat beeld tekst moet versterken en andersom. En daar geloof ik nog steeds in. Een illustratie zou op zichzelf ook een verhaal moeten kunnen vertellen.
 
 <p style="text-align: center;">
-  <img class="aligncenter  wp-image-5659" title="Jizz Doodle for Jizz Design, illustratie van Renie Lamers" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/EXTRAbannerJizzDesign.jpg" alt="Jizz Doodle for Jizz Design, illustratie van Renie Lamers" width="550" height="204" />
+  <img class="aligncenter  wp-image-5659" title="Jizz Doodle for Jizz Design, illustratie van Renie Lamers" src="/wordpress/wp-content/uploads/2014/02/EXTRAbannerJizzDesign.jpg" alt="Jizz Doodle for Jizz Design, illustratie van Renie Lamers" width="550" height="204" />
 </p>
 
 **Werk je in opdracht? **  
@@ -75,7 +75,7 @@ Jazeker. Ik heb een zakelijke <a title="Renie Lamers illustratie op Facebook" hr
 Ja, een paar zelfs! De eerste was de vraag of ik wilde deelnemen aan het XXL Illustrators portfolio. Een boek met de zoveel beste illustratoren van Nederland. Het boek is ook echt heel groot, opengeslagen haalt het makkelijk een A2 formaat. Opdrachten voor geboortekaartjes krijg ik ook wel eens via social media. En laatst werd ik benaderd door een t-shirt webshop in Canada of ik een ontwerp voor hen wilde maken.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5657" title="geboortekaartje met bos en hertje, ontwerp van Renie Lamers" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/EXTRAcovergeboortekaartje.jpg" alt="geboortekaartje met bos en hertje, ontwerp van Renie Lamers" width="550" height="275" />
+  <img class="aligncenter size-full wp-image-5657" title="geboortekaartje met bos en hertje, ontwerp van Renie Lamers" src="/wordpress/wp-content/uploads/2014/02/EXTRAcovergeboortekaartje.jpg" alt="geboortekaartje met bos en hertje, ontwerp van Renie Lamers" width="550" height="275" />
 </p>
 
 **Kun je leven van je illustraties of heb je ook nog een andere baan ernaast?**  
@@ -94,7 +94,7 @@ Ja, sinds ik ben afgestudeerd ben ik lid van de BNO.
 Op mijn serie voor het Longfonds. Het was een dusdanige &#8216;out of the box&#8217; opdracht voor mij dat ik met een bepaald kleurenprofiel moest werken wat ik normaal nóóit zou kiezen. Toch is het me gelukt iets te maken wat precies bij mij past en óók bij het Longfonds. Ze waren er ontzettend blij mee gelukkig!
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5650" title="Illustratie van Renie Lamers in opdracht van het Longfonds" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/MeestTrots_longfonds.jpg" alt="Illustratie van Renie Lamers in opdracht van het Longfonds" width="400" height="566" />
+  <img class="aligncenter size-full wp-image-5650" title="Illustratie van Renie Lamers in opdracht van het Longfonds" src="/wordpress/wp-content/uploads/2014/02/MeestTrots_longfonds.jpg" alt="Illustratie van Renie Lamers in opdracht van het Longfonds" width="400" height="566" />
 </p>
 
 **Welke andere illustratoren bewonder je?**  
@@ -110,7 +110,7 @@ Sprookjesboeken. Mijn moeder had een heel mooi sprookjesboek met foto-illustrati
 Veel netwerken en acquisitie sowieso. Qua opdrachten werk ik aan een flyer voor een cateraar en een schilderij voor familie. Tevens leg ik de laatste hand aan het t-shirt ontwerp voor de Canadese webshop. Verder blijf ik bezig met het uitbreiden van mijn portfolio met eigen werk en blijf ik kleine producten verzinnen voor mijn Etsy webwinkel en markten. Ook maak ik werk om te exposeren bij galeries, koffiezaakjes of bij gelegenheden.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5653" title="ontwerp van Renie Lamers voor een t-shirt" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/02/LaatsteWerk_tshirtMisterDressUp.jpg" alt="ontwerp van Renie Lamers voor een t-shirt" width="500" height="500" />
+  <img class="aligncenter size-full wp-image-5653" title="ontwerp van Renie Lamers voor een t-shirt" src="/wordpress/wp-content/uploads/2014/02/LaatsteWerk_tshirtMisterDressUp.jpg" alt="ontwerp van Renie Lamers voor een t-shirt" width="500" height="500" />
 </p>
 
 **Heb je een tip voor mensen die ook graag illustrator willen worden?**  
@@ -122,4 +122,4 @@ Een opdracht voor een goed doel als Het Wereld Natuur Fonds of Natuurmonumenten.
 **Waar kunnen mensen jouw werk bekijken op internet?  **  
 Mijn website <a title="portfolio van illustrator Renie Lamers" href="http://www.renielamers.nl/" target="_blank">renielamers.nl</a>, en natuurlijk op alle social media hierboven vermeld!
 
-*Lees ook de andere <a title="Interviews met illustratoren" href="http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
+*Lees ook de andere <a title="Interviews met illustratoren" href="/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*

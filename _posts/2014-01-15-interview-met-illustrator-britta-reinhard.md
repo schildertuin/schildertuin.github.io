@@ -23,7 +23,7 @@ tags:
 * illustraties: Britta Reinhard*
 
 **Hallo Britta, vertel eens iets over jezelf.**  
-<img class="alignleft size-full wp-image-5455" title="foto van illustrator Britta Reinhard" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/01/foto-Britta-Reinhard.jpg" alt="foto van illustrator Britta Reinhard" width="350" height="350" />Mijn naam is Britta, ik ben 24 jaar jong en ik kom uit Duitsland. Ik teken al sinds ik een klein kindje was. Geen potlood was veilig! Het liefst maakte ik wenskaarten en tekende ik vrouwen in mooie jurken. Inmiddels is mijn werkveld groter geworden en heb ik een goed beeld van wat ik leuk vind en welke weg ik moet volgen: mijn doel is om een gewild kinderboekenillustratrice te worden en daarnaast hoop ik dat ik met mijn zelf ontworpen wenskaarten succes zal hebben. Mijn inspiratie haal ik vooral uit mijn omgeving en de situaties die ik mee maak (als ik bijv. op stap ga of in de bios). Daardoor is mijn werk heel divers en hou ik me niet vast aan één bepaald soort opdracht. In principe kun je zeggen dat ik een heel erg open mens ben, die in veel dingen uitdagingen vind en die ook wil aangaan.
+<img class="alignleft size-full wp-image-5455" title="foto van illustrator Britta Reinhard" src="/wordpress/wp-content/uploads/2014/01/foto-Britta-Reinhard.jpg" alt="foto van illustrator Britta Reinhard" width="350" height="350" />Mijn naam is Britta, ik ben 24 jaar jong en ik kom uit Duitsland. Ik teken al sinds ik een klein kindje was. Geen potlood was veilig! Het liefst maakte ik wenskaarten en tekende ik vrouwen in mooie jurken. Inmiddels is mijn werkveld groter geworden en heb ik een goed beeld van wat ik leuk vind en welke weg ik moet volgen: mijn doel is om een gewild kinderboekenillustratrice te worden en daarnaast hoop ik dat ik met mijn zelf ontworpen wenskaarten succes zal hebben. Mijn inspiratie haal ik vooral uit mijn omgeving en de situaties die ik mee maak (als ik bijv. op stap ga of in de bios). Daardoor is mijn werk heel divers en hou ik me niet vast aan één bepaald soort opdracht. In principe kun je zeggen dat ik een heel erg open mens ben, die in veel dingen uitdagingen vind en die ook wil aangaan.
 
 **Wanneer besloot je illustrator te worden?<!--more-->**
 
@@ -31,7 +31,7 @@ tags:
 Dat is nog niet zo lang geleden! Ik schreef mij vier jaar geleden in bij de AKV St. Joost Kunstacademie en toen ik werd toegelaten was ik heel erg blij. Ik was eigenlijk van plan om de studierichting &#8220;Ruimtelijk Ontwerp&#8221; te volgen, maar tijdens de Propedeuse was mij heel duidelijk geworden dat ik voor illustratie echt een passie heb ontwikkeld en dat ik niet meer zonder kan. Je denkt gewoon na een bepaalde tijd alleen maar nog in beeld. Wel leuk eigenlijk, om altijd zulke mooie beelden in je hoofd te hebben! Eind Juli 2013 heb ik mijn diploma &#8220;Bachelor of Design&#8221; gehaald.
 
 **Welk materiaal gebruik je om je illustraties te maken?**  
-<img class="alignright size-medium wp-image-5464" title="portret van meisje met ketting, illustratie van Britta Reinhard" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/01/portret-meisje-212x300.jpg" alt="portret van meisje met ketting, illustratie van Britta Reinhard" width="212" height="300" />Dat is heel verschillend bij mij. De ene dag werk ik met ecoline, kleurpotloden en met een Rapidograph. En de andere dag ben ik alleen maar met de computer bezig (Photoshop). Maar uiteindelijk bewerk ik alle illustraties op de computer. Ik vind zelf dat ze daar een meer professionele uitstraling door krijgen.
+<img class="alignright size-medium wp-image-5464" title="portret van meisje met ketting, illustratie van Britta Reinhard" src="/wordpress/wp-content/uploads/2014/01/portret-meisje-212x300.jpg" alt="portret van meisje met ketting, illustratie van Britta Reinhard" width="212" height="300" />Dat is heel verschillend bij mij. De ene dag werk ik met ecoline, kleurpotloden en met een Rapidograph. En de andere dag ben ik alleen maar met de computer bezig (Photoshop). Maar uiteindelijk bewerk ik alle illustraties op de computer. Ik vind zelf dat ze daar een meer professionele uitstraling door krijgen.
 
 **Hoe zou je jouw stijl van illustreren omschrijven?**  
 Dat is altijd een lastige vraag voor mij om antwoord op te geven. Mijn beelden zijn meestal mystiek, omdat ik graag met lichteffecten werk. Er zijn ook vaak contrastmomenten te vinden, waardoor de illustraties een spannende uitstraling krijgen. Maar ik maak ook heel vrolijke beelden met veel kleur. Dus, je kunt zien, dat ik veelzijdig ben en in alles iets moois kan zien.
@@ -43,7 +43,7 @@ Ook al ben ik veelzijdg, ik zou wel zeggen dat ik een eigen handschrift heb. Dat
 Illustratie kan bijna van alles zijn. Het is maar wat je zelf wilt. Ik hou bijv. van de verhalende manier, daarom vind ik kinderboeken zo ontzettend leuk om te maken! Daarnaast hou ik heel erg van de versierende functie van een illustratie.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5461" title="jongen met gans bij water in bos, illustratie Britta Reinhard" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/01/jongen-met-gans-in-bos.jpg" alt="jongen met gans bij water in bos, illustratie Britta Reinhard" width="550" height="389" />
+  <img class="aligncenter size-full wp-image-5461" title="jongen met gans bij water in bos, illustratie Britta Reinhard" src="/wordpress/wp-content/uploads/2014/01/jongen-met-gans-in-bos.jpg" alt="jongen met gans bij water in bos, illustratie Britta Reinhard" width="550" height="389" />
 </p>
 
 **Werk je in opdracht?**  
@@ -71,11 +71,11 @@ Vooral doorzettingsvermogen, de kracht om niet te snel op te geven! En daarnaast
 Ik ben vooral op mijn afstudeerproject &#8220;Emma&#8221; trots. Het is een heel erg eigen kinderboek geworden, waar ik heel veel tijd in heb gestoken en nieuwe inzichten in mijn eigen werk door heb gekregen.
 
 <p style="text-align: center;">
-  <img class="aligncenter  wp-image-5457" title="'Emma', kinderboek met illustraties van Britta Reinhard" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/01/emma-kinderboek-kasteel.jpg" alt="spread uit 'Emma', kinderboek met illustraties van Britta Reinhard" width="550" height="278" />
+  <img class="aligncenter  wp-image-5457" title="'Emma', kinderboek met illustraties van Britta Reinhard" src="/wordpress/wp-content/uploads/2014/01/emma-kinderboek-kasteel.jpg" alt="spread uit 'Emma', kinderboek met illustraties van Britta Reinhard" width="550" height="278" />
 </p>
 
 <p style="text-align: center;">
-  <img class="aligncenter  wp-image-5458" title="'Emma', kinderboek met illustraties van Britta Reinhard" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/01/emma-kinderboek-huis-met-maan.jpg" alt="spread uit 'Emma', kinderboek met illustraties van Britta Reinhard" width="550" height="278" />
+  <img class="aligncenter  wp-image-5458" title="'Emma', kinderboek met illustraties van Britta Reinhard" src="/wordpress/wp-content/uploads/2014/01/emma-kinderboek-huis-met-maan.jpg" alt="spread uit 'Emma', kinderboek met illustraties van Britta Reinhard" width="550" height="278" />
 </p>
 
 **Welke andere illustratoren bewonder je?**  
@@ -93,8 +93,8 @@ Ontdek jezelf! Ga jezelf goed leren kennen en dan weet je precies welke weg je m
 **Waar kunnen mensen jouw werk bekijken op internet?**  
 Op mijn website: <a title="website van illustrator Britta Reinhard" href="http://illutie.com/" target="_blank">www.illutie.com</a>
 
-*Lees ook de andere <a title="Interviews met illustratoren" href="http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
+*Lees ook de andere <a title="Interviews met illustratoren" href="/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5469" title="muurschildering van Britta Reinhard met kabouterhuis, paddestoelen en boom" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/01/muurschildering-kabouterhuis1.jpg" alt="muurschildering van Britta Reinhard met kabouterhuis, paddestoelen en boom" width="500" height="335" />
+  <img class="aligncenter size-full wp-image-5469" title="muurschildering van Britta Reinhard met kabouterhuis, paddestoelen en boom" src="/wordpress/wp-content/uploads/2014/01/muurschildering-kabouterhuis1.jpg" alt="muurschildering van Britta Reinhard met kabouterhuis, paddestoelen en boom" width="500" height="335" />
 </p>

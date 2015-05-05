@@ -26,7 +26,7 @@ tags:
 * illustraties: Marvin Corneille  
 *
 
-**<img class="alignleft size-full wp-image-5411" title="foto van illustrator Marvin Corneille" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/01/foto-van-Marvin-Corneille.jpg" alt="foto van illustrator Marvin Corneille" width="283" height="300" />Hallo Marvin, vertel eens iets over jezelf.**  
+**<img class="alignleft size-full wp-image-5411" title="foto van illustrator Marvin Corneille" src="/wordpress/wp-content/uploads/2014/01/foto-van-Marvin-Corneille.jpg" alt="foto van illustrator Marvin Corneille" width="283" height="300" />Hallo Marvin, vertel eens iets over jezelf.**  
 Mijn naam is Marvin Corneille, ik woon en werk in Eindhoven. In Eindhoven heb ik een atelier dat ik deel met twee vormgevers (<a title="website van vormgever Frank Willems" href="http://www.frankwillems.net/" target="_blank">Frank Willems</a> en <a title="website van vormgever Lara de Greef" href="http://www.laradegreef.nl/" target="_blank">Lara de Greef</a>), het is een hele grote ruimte die we met z’n drieën delen. Soms gebruiken we elkaars vakkennis bij bepaalde projecten en soms kletsen we gewoon heel veel.  
 Ik heb een hond en een poes waar ik dol op ben, ze heten Pet (een zwarte labrador) en Muts (een oude, dikke, zwarte poes). Mijn werkweek bestaat niet alleen maar uit illustreren, ik geef drie dagen in de week les (handvaardigheid en tekenen), daarnaast heb ik, samen met mijn ateliergenoot, een ontwerplabel (<a title="Pet&Muts op Facebook" href="https://www.facebook.com/pages/PetMuts/403073226471497?fref=ts" target="_blank">Pet&Muts</a>) waarvoor we interieurproducten ontwerpen die verkocht worden in een aantal winkels.  
 En de rest van de werktijd vul ik aan met freelance illustratiewerk en het geven van illustratieworkshops voor de <a title="website Fiep Westendorp Foundation" href="http://www.fiepwestendorp.nl/fiepamsterdam/fiep-westendorp-foundation/" target="_blank">Fiep Westendorp Foundation</a>.  
@@ -39,7 +39,7 @@ Als kind tekende ik al heel veel, ik liet nooit mijn illustraties zien en versto
 Op de academie leerde ik vooral het onderzoeken en het vormen van een concept. Mijn huidige illustratiewerk bestaat meestal uit het ontwerpen van illustraties die ik toepas op interieurproducten en gebruiksvoorwerpen, zoals bijvoorbeeld een servies. Vaak ontwerp ik iets in keramiek waarop ik dan de illustratie toevoeg.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5420" title="stenen opberg cupcakes met gezichtjes, ontwerp van Marvin Corneille" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/01/cupcake.jpg" alt="stenen opberg cupcakes met gezichtjes, ontwerp van Marvin Corneille" width="400" height="410" />
+  <img class="aligncenter size-full wp-image-5420" title="stenen opberg cupcakes met gezichtjes, ontwerp van Marvin Corneille" src="/wordpress/wp-content/uploads/2014/01/cupcake.jpg" alt="stenen opberg cupcakes met gezichtjes, ontwerp van Marvin Corneille" width="400" height="410" />
 </p>
 
 **Welk materiaal gebruik je om je illustraties te maken?**  
@@ -58,7 +58,7 @@ Het ligt eraan hoe de illustratie ingezet wordt. Soms is de functie educatief, a
 Ik werk soms in opdracht, zo heb ik voor het tijdschrift Fieperdepiep een spread moeten illustreren, of voor de interieurproducten van Soonsalon decoraties moeten ontwerpen die op een serie vazen gedrukt werden. Maar sinds ik een eigen ontwerplabel heb, is het ook prettig om zelf te bepalen hoe de illustratie ontstaat en hoe het eruit komt te zien.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5414" title="spread voor het tijdschrift Fieperdepiep, illustratie Marvin Corneille" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/01/fieperdepiep.jpg" alt="spread voor het tijdschrift Fieperdepiep, illustratie Marvin Corneille" width="550" height="373" />
+  <img class="aligncenter size-full wp-image-5414" title="spread voor het tijdschrift Fieperdepiep, illustratie Marvin Corneille" src="/wordpress/wp-content/uploads/2014/01/fieperdepiep.jpg" alt="spread voor het tijdschrift Fieperdepiep, illustratie Marvin Corneille" width="550" height="373" />
 </p>
 
 **Wat was je allereerste illustratie-opdracht?**  
@@ -77,7 +77,7 @@ Mijn ontwerplabel is eigenlijk voor de grap ontstaan, ik wilde mijn illustraties
 Het leukste vind ik dat ons werk gepresenteerd werd tijdens de <a title="website Dutch Design Week Eindhoven" href="http://www.dutchdesignweek.nl/" target="_blank">Dutch Design Week</a> in Eindhoven.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5417" title="voor een vazenserie maakte Marvin Corneille de illustraties" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/01/illustratie-voor-vazenserie.jpg" alt="voor een vazenserie maakte Marvin Corneille de illustraties" width="550" height="375" /><br /> Voor mezelf heb ik ook een website: <a title="website van illustrator en ontwerper Marvin Corneille" href="http://marvincorneille.nl/" target="_blank">marvincorneille.nl</a>, hierop plaats ik werk waar ik zelf ook trots op ben, het is een mix van werk in opdracht en vrij werk.
+  <img class="aligncenter size-full wp-image-5417" title="voor een vazenserie maakte Marvin Corneille de illustraties" src="/wordpress/wp-content/uploads/2014/01/illustratie-voor-vazenserie.jpg" alt="voor een vazenserie maakte Marvin Corneille de illustraties" width="550" height="375" /><br /> Voor mezelf heb ik ook een website: <a title="website van illustrator en ontwerper Marvin Corneille" href="http://marvincorneille.nl/" target="_blank">marvincorneille.nl</a>, hierop plaats ik werk waar ik zelf ook trots op ben, het is een mix van werk in opdracht en vrij werk.
 </p>
 
 **Heb je weleens een opdracht gekregen via social media?**  
@@ -100,7 +100,7 @@ Ik heb buiten mijn achtergrondonderzoek ook veel onderzoek moeten doen in het ma
 Het hele onderzoek was intensief, maar uiteindelijk ben ik erg blij geworden met het resultaat, ik heb ze mogen presenteren tijdens de Dutch Design Week in Eindhoven en kreeg er goede reacties op.
 
 <p style="text-align: center;">
-  <img class="aligncenter  wp-image-5412" title="serie keramische wandtegels met sagen, ontwerp Marvin Corneille" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/01/meest-trots-op-vraag-19.jpg" alt="serie keramische wandtegels met sagen, ontwerp Marvin Corneille" width="354" height="348" />
+  <img class="aligncenter  wp-image-5412" title="serie keramische wandtegels met sagen, ontwerp Marvin Corneille" src="/wordpress/wp-content/uploads/2014/01/meest-trots-op-vraag-19.jpg" alt="serie keramische wandtegels met sagen, ontwerp Marvin Corneille" width="354" height="348" />
 </p>
 
 **Welke andere illustratoren bewonder je?**  
@@ -127,8 +127,8 @@ Ik zou het erg leuk vinden als mijn ontwerplabel nog bekender wordt en ik nog me
 **Waar kunnen mensen jouw werk bekijken op internet?**  
 Op mijn eigen <a title="website van illustrator en ontwerper Marvin Corneille" href="http://marvincorneille.nl/" target="_blank">website</a> en op <a title="ontwerplabel Pet&Muts op Facebook" href="https://www.facebook.com/pages/PetMuts/403073226471497?fref=ts" target="_blank">Facebook</a>.
 
-*Lees ook de andere <a title="Interviews met illustratoren" href="http://www.schildertuin.nl/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
+*Lees ook de andere <a title="Interviews met illustratoren" href="/wordpress/interviews-met-illustratoren/" target="_blank">interviews met illustratoren</a>!*
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-5422" title="Robotknuffel, illustratie en ontwerp van Marvin Corneille" src="http://www.schildertuin.nl/wordpress/wp-content/uploads/2014/01/robotknuffel-nieuwe-ontwerp.jpg" alt="Robotknuffel, illustratie en ontwerp van Marvin Corneille" width="445" height="394" />
+  <img class="aligncenter size-full wp-image-5422" title="Robotknuffel, illustratie en ontwerp van Marvin Corneille" src="/wordpress/wp-content/uploads/2014/01/robotknuffel-nieuwe-ontwerp.jpg" alt="Robotknuffel, illustratie en ontwerp van Marvin Corneille" width="445" height="394" />
 </p>
