@@ -19,9 +19,9 @@ tags:
   - retro speelgoed
 ---
 **Heb jij op zolder nog speelgoed van vroeger liggen?**  
-** Niet weggooien! Het is een bron van inspiratie voor een creatieve geest!**  
-** Veeg die dikke laag stof van het speelgoed, haal het door een sopje en geef je retro knuffels, piepbeestjes of die stoere houten trein een mooi plekje in huis.**  
-** Voel je het jeugdsentiment alweer opborrelen?**
+**Niet weggooien! Het is een bron van inspiratie voor een creatieve geest!**  
+**Veeg die dikke laag stof van het speelgoed, haal het door een sopje en geef je retro knuffels, piepbeestjes of die stoere houten trein een mooi plekje in huis.**  
+**Voel je het jeugdsentiment alweer opborrelen?**
 
 Ja, ook ik heb dozen vol oud speelgoed op zolder. Maar een mens wil altijd meer en ik mag graag kringloopwinkels afstruinen op zoek naar retro schatten (zie mijn post over de <a title="Ouderwetse piepbeestjes" href="/wordpress/2011/05/ouderwetse-piepbeestjes/" target="_blank">piepbeestjes</a> of de <a title="De houten puzzel van de Vrijmarkt" href="/wordpress/2013/05/de-houten-puzzel-van-de-vrijmarkt/" target="_blank">houten puzzel</a>).  
 Hier een kleine selectie van mijn vondsten:

@@ -18,7 +18,7 @@ tags:
   - uppercase 18
 ---
 **Je bent er helemaal klaar voor.**  
-** Een maagdelijk wit vel papier voor je op tafel, vers geslepen potloden ernaast en een lekkere kop koffie om op gang te komen.**
+**Een maagdelijk wit vel papier voor je op tafel, vers geslepen potloden ernaast en een lekkere kop koffie om op gang te komen.**
 
 ## Creatief aan de slag
 
