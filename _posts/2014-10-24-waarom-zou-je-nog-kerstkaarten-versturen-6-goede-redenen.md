@@ -14,20 +14,18 @@ tags:
   - wel geen kerstkaarten versturen
 ---
 **<img class="alignleft wp-image-4831 size-medium" title="6 goede redenen om kerstkaarten te versturen" src="/wordpress/wp-content/uploads/2013/11/dieren_kerst_collage_blauw-300x300.jpg" alt="Vrolijke kerstkaart met fotocollage dieren" width="300" height="300" />Het kost je tijd, energie en geld.**  
-** Elk jaar weer.**  
-** Kerstkaarten versturen bedoel ik.**  
-** Doe jij het nog?**
+**Elk jaar weer.**  
+**Kerstkaarten versturen bedoel ik.**  
+**Doe jij het nog?**
 
 Ik wel.  
 Elk jaar weer.  
 En het kost me inderdaad veel tijd, energie en geld.  
 Waarom ik dan nog steeds kerstkaarten stuur?
 
-## 
-
 ## 6 Goede redenen om kerstkaarten te sturen
 
-  * het combineert zo fijn met het luisteren naar die *veel-te-vaak-gehoorde-maar-nog-steeds-leuke* **kerstnummers **(Wham!, Chris Rea, Mariah Carey, je kent ze vast wel)
+  * het combineert zo fijn met het luisteren naar die *veel-te-vaak-gehoorde-maar-nog-steeds-leuke* **kerstnummers** (Wham!, Chris Rea, Mariah Carey, je kent ze vast wel)
   * het geeft een gezellig kneuterig gevoel, je komt direct in de **feestmaand-stemming**
   * dé kans om een bijna-verwaterde **vriendschap** weer wat nieuw leven in te blazen
   * je mag **creatief** aan de slag: knippen, plakken, tekenen en schrijven

@@ -16,4 +16,4 @@ Interesse?
 ----------	
 Heb je interesse in mijn dessinontwerpen of wil je meer werk zien?
 
-Neem dan <a href="/wordpress/contact/" title="contactgegevens">contact</a> met me op.</h2>
+Neem dan <a href="/wordpress/contact/" title="contactgegevens">contact</a> met me op.
